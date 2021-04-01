@@ -1,11 +1,3 @@
-# Home
+This page is under contruction.
 
-Content for the SIG Page will go here.
-
-## Subtitle
-
-Content
-
-### Sub-subtitle
-
-More content
+Please see [here](asmus21.md) for more information about ASMUS 2021.

@@ -12,17 +12,16 @@
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: "MICCAI Ultrasound Special Interest Group",
+        name: "The MICCAI Ultrasound Workshop",
         nameLink: "https://miccai-ultrasound.github.io/",
         coverpage: "coverpage.md",
-        onlyCover: false,
+        onlyCover: true, // to be switched to false when we have main page content.
         homepage: "home.md",
         loadNavbar: false,
         loadSidebar: "sidebar.md",
         relativePath: true,
         subMaxLevel: 2,
-        repo: "https://github.com/miccai-ultrasound/miccai-ultrasound.github.io/",
-        search: "auto",
+        routerMode: 'history',
         tabs: {
           persist: true, // default
           sync: true, // default

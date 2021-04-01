@@ -1,6 +1,6 @@
 # ASMUS Workshop '20
 
-The 1st International Workshop of Advances in Simplifying Medical UltraSound
+**The 1st International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with MICCAI 2020, the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention.**
 
 ## Program
 
@@ -52,7 +52,7 @@ Lasse Løvstakken is a Professor at the Norwegian University of Science and Tech
 ### Chairs
 * Yipeng Hu (Co-chair, University College London, UK) 
 * Alison Noble (Co-chair, University of Oxford, UK) 
-* Stephen Aylward (Co-chair, Kitware, US) 
+* Stephen Aylward (Co-chair, Kitware, USA) 
 
 ### Organising Committee
 * Chris de Korte (Radboud University Nijmegen, Netherlands) 
@@ -62,7 +62,7 @@ Lasse Løvstakken is a Professor at the Norwegian University of Science and Tech
 * Kawal Rhode (King’s College London, UK) 
 * Nassir Navab (Technical University of Munich, Germany) 
 * Purang Abolmaesumi (University of British Columbia, Canada) 
-* Russ Taylor (Johns Hopkins University, US) 
+* Russ Taylor (Johns Hopkins University, USA) 
 * Su-Lin Lee (University College London, UK) 
 
 ### Program Chair

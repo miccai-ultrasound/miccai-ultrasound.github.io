@@ -1,6 +1,8 @@
 # ASMUS Workshop '21
 
-The 2nd International Workshop of Advances in Simplifying Medical UltraSound
+**The 2nd International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with MICCAI 2021, the 24th International Conference on Medical Image Computing and Computer Assisted Intervention.**
+
+>ASMUS will be accepting full-length research papers; more details to follow.
 
 ## Program
 
@@ -39,7 +41,7 @@ TBA - Please check back soon for more information.
 
 ### Chairs
 * Alison Noble (Co-chair, University of Oxford, UK) 
-* Stephen Aylward (Co-chair, Kitware, US) 
+* Stephen Aylward (Co-chair, Kitware, USA) 
 
 ### Organising Committee
 * Ana Namburete (University of Oxford, UK)
@@ -50,7 +52,7 @@ TBA - Please check back soon for more information.
 * Emad Boctor (Johns Hopkins University, USA)
 * Parvin Mousavi (Queen’s University, Canada)
 * Purang Abolmaesumi (University of British Columbia, Canada) 
-* Thomas van den Heuvel (Radboud University, NL)
+* Thomas van den Heuvel (Radboud University Nijmegen, Netherlands)
 * Wolfgang Wein (ImFusion, Germany)
 
 ### Delivery Team
@@ -66,7 +68,7 @@ TBA - Please check back soon for more information.
 * Jan d’Hooge (KU Leuven, Belgium) 
 * Kawal Rhode (King’s College London, UK) 
 * Nassir Navab (Technical University of Munich, Germany) 
-* Russ Taylor (Johns Hopkins University, US) 
+* Russ Taylor (Johns Hopkins University, USA) 
 
 <div align=center>
   <img style="padding: 20px;" src="im/miccai2021.png" height=125px>
