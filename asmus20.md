@@ -1,6 +1,6 @@
 # ASMUS Workshop '20
 
-**The 1st International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with MICCAI 2020, the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention.**
+**The 1st International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with [MICCAI 2020](https://www.miccai2020.org/), the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention.**
 
 ## Program
 

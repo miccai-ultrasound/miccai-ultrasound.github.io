@@ -4,7 +4,9 @@
  <img src="im/asmus.png" height=150px>
 </div>
 
-**The 2nd International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with MICCAI 2021, the 24th International Conference on Medical Image Computing and Computer Assisted Intervention.**
+**The 2nd International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with [MICCAI 2021](https://www.miccai2021.org/), the 24th International Conference on Medical Image Computing and Computer Assisted Intervention.**
+
+**ASMUS is the offical workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
 >ASMUS will be accepting full-length research papers; more details to follow.
 
