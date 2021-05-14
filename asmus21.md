@@ -12,6 +12,8 @@
 
 ## Program
 
+**The workshop will take place on 27th September 2021, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
+
 ASMUS 2021 aims to provide an intellectually stimulating forum to bring together the international MICCAI research community working towards the next generation of medical ultrasound imaging methods, systems and practices. 
 
 In this exciting era for medical ultrasound, recent developments in deep learning (artificial intelligence) and medical robotics have started to show clinically measurable improvement in assisting ultrasound examinations, ultrasound-guided interventions and surgery. This year, ASMUS is soliciting submissions, including work from the following areas:

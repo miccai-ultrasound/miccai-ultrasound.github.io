@@ -4,7 +4,7 @@
 
 ## Program
 
-The workshop took place on 4th October 2020 and included the [Thyroid Nodule Segmentation and Classification in Ultrasound Images Challenge](https://www.google.com/url?q=https%3A%2F%2Ftn-scui2020.grand-challenge.org%2FHome%2F&sa=D&sntz=1&usg=AFQjCNEPKv8JHsTOMRNq-au54ZiJ79Y3vg), live practical technology demonstrations, Q&A sessions and two keynote talks.
+**The workshop took place on 4th October 2020 and included the [Thyroid Nodule Segmentation and Classification in Ultrasound Images Challenge](https://www.google.com/url?q=https%3A%2F%2Ftn-scui2020.grand-challenge.org%2FHome%2F&sa=D&sntz=1&usg=AFQjCNEPKv8JHsTOMRNq-au54ZiJ79Y3vg), live practical technology demonstrations, Q&A sessions and two keynote talks.**
 
 ## Proceedings
 
