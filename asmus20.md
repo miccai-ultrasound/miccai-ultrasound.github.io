@@ -71,9 +71,14 @@ Lasse Løvstakken is a Professor at the Norwegian University of Science and Tech
 ### Demonstrations Chair
 * Zachary Baum (University College London, UK)
 
+## Sponsorship
+
 <div align=center>
-  <img style="padding: 20px;" src="im/mgi.png" height=125px><img style="padding: 20px;" src="im/weiss.png" height=125px>
+  <img style="padding: 20px;" src="im/mgi.png" height=150px><img style="padding: 20px;" src="im/weiss.png" height=150px>
 </div>
+
+---
+
 <div align=center>
   <img style="padding: 20px;" src="im/miccai2020.png" height=125px>
 </div>

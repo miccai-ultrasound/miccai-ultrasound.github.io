@@ -68,6 +68,7 @@ TBA - Please check back soon for more information.
 * Yipeng Hu | Delivery Lead (University College London, UK)
 * Su-Lin Lee | Delivery Co-lead (University College London, UK)
 * Alex Grimwood | Program Chair (University College London, UK)
+* Zhe Min | Program Co-Chair (University College London, UK)
 * Zachary Baum | Demonstrations Chair (University College London, UK)
 
 ### Advisory Board
@@ -77,6 +78,16 @@ TBA - Please check back soon for more information.
 * Kawal Rhode (King’s College London, UK) 
 * Nassir Navab (Technical University of Munich, Germany) 
 * Russ Taylor (Johns Hopkins University, USA) 
+
+## Sponsorship
+
+<div align=center>
+  <img style="padding: 20px;" src="im/thinksono.png" height=150px>
+</div>
+
+>Interested in sponsoring ASMUS 2021? See our [Sponsorship Package](/files/ASMUSSponsorship2021.pdf ':ignore') for more information.
+
+---
 
 <div align=center>
   <img style="padding: 20px;" src="im/miccai2021.png" height=125px>
