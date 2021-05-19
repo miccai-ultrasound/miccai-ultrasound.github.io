@@ -8,11 +8,26 @@
 
 **ASMUS is the offical workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
->ASMUS will be accepting full-length research papers; more details to follow.
+>ASMUS is now accepting full-length research papers; submit your paper [here](https://ocs.springer.com/ocs/home/ASMUS2021). **The submission deadline is 25 June 2021.**
+
+## Call for Papers
+
+Papers will consist of maximum 8 pages (text, figures and tables) + up to 2 pages for references only. They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double blind review. Please submit your work via the [Springer OCS portal](https://ocs.springer.com/ocs/home/ASMUS2021).
+
+The papers will be evaluated by external reviewers and our organizing committee for inclusion in the workshop as a presentation (oral or poster). Accepted full-length manuscripts will be published with Springer LNCS and the best papers will be selected for industry-sponsored awards. Original research contributions are invited. Proof-of-concept research from novel research directions is also encouraged.
+
+One of the popular features of ASMUS 2020, live demonstrations, will be repeated in ASMUS 2021. Capitalising on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional and robotics areas. All accepted papers will be offered the option to present a live demonstration.
+
+| Workshop Timeline |                            |
+| ----------------- | -------------------------- |
+| June 25 2021      | Paper Submission Deadline  |
+| July 16 2021      | Notification of Acceptance |
+| July 30 2021      | Camera Ready Submission    |
+| 27 September 2021 | ASMUS Workshop             |
 
 ## Program
 
-**The workshop will take place on 27th September 2021, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
+**The full day ASMUS workshop will take place on 27th September 2021, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
 
 ASMUS 2021 aims to provide an intellectually stimulating forum to bring together the international MICCAI research community working towards the next generation of medical ultrasound imaging methods, systems and practices. 
 
@@ -38,10 +53,6 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 - Streamlining clinical ultrasound workflow
 - Sonography data science
 
-This full-day workshop will have an interdisciplinary flavour, and will peer review, publish and discuss the latest findings in this area with participants from academia, industry and clinical practice. Accepted full-length manuscripts will be published with Springer and the best papers will be selected for industry-sponsored awards. Original research contributions are invited. Proof-of-concept research from novel research directions is also encouraged.
-
-One of the popular features of ASMUS 2020, live demonstrations, will be repeated in ASMUS 2021. Capitalising on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional and robotics areas. All accepted papers will be offered the option to present a live demonstration.
- 
 ## Keynote Speakers
 TBA - Please check back soon for more information.
 
