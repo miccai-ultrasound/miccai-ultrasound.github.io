@@ -25,6 +25,8 @@ One of the popular features of ASMUS 2020, live demonstrations, will be repeated
 | July 30 2021      | Camera Ready Submission    |
 | September 27 2021 | ASMUS Workshop             |
 
+>For more information, see the full [Call for Papers](/files/ASMUSCallForPapers2021.pdf ':ignore').
+
 ## Program
 
 **The full day ASMUS workshop will take place on 27th September 2021, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
