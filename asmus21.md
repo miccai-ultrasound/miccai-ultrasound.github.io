@@ -23,7 +23,7 @@ One of the popular features of ASMUS 2020, live demonstrations, will be repeated
 | June 25 2021      | Paper Submission Deadline  |
 | July 16 2021      | Notification of Acceptance |
 | July 30 2021      | Camera Ready Submission    |
-| 27 September 2021 | ASMUS Workshop             |
+| September 27 2021 | ASMUS Workshop             |
 
 ## Program
 
