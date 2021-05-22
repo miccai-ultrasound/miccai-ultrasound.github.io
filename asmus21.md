@@ -95,7 +95,8 @@ TBA - Please check back soon for more information.
 ## Sponsorship
 
 <div align=center>
-  <img style="padding: 20px;" src="im/thinksono.png" height=150px>
+  <a href="https://thinksono.com/" target="_blank"><img style="padding: 20px;" src="im/thinksono.png" height=150px></a>
+  <a href="https://www.ultromics.com/" target="_blank"><img style="padding: 20px;" src="im/ultromics.png" height=150px></a>
 </div>
 
 >Interested in sponsoring ASMUS 2021? See our [Sponsorship Package](/files/ASMUSSponsorship2021.pdf ':ignore') for more information.
@@ -103,5 +104,5 @@ TBA - Please check back soon for more information.
 ---
 
 <div align=center>
-  <img style="padding: 20px;" src="im/miccai2021.png" height=125px>
+  <a href="https://www.miccai2021.org/" target="_blank"><img style="padding: 20px;" src="im/miccai2021.png" height=125px></a>
 </div>

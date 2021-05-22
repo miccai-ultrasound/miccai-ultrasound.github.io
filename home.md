@@ -11,5 +11,5 @@ The MICCAI Ultrasound SIG is the product of three highly successful MICCAI works
 > This page is still under construction; please check back soon for more information. For more information about ASMUS 2021 - see [here](asmus21).
 
 <div align=center>
-  <img style="padding: 20px;" src="im/miccai.jpg" height=125px>
+  <a href="http://www.miccai.org/" target="_blank"><img style="padding: 20px;" src="im/miccai.jpg" height=125px></a>
 </div>

@@ -74,11 +74,12 @@ Lasse Løvstakken is a Professor at the Norwegian University of Science and Tech
 ## Sponsorship
 
 <div align=center>
-  <img style="padding: 20px;" src="im/mgi.png" height=150px><img style="padding: 20px;" src="im/weiss.png" height=150px>
+  <a href="https://en.mgi-tech.com/" target="_blank"><img style="padding: 20px;" src="im/mgi.png" height=150px></a>
+  <a href="https://www.ucl.ac.uk/interventional-surgical-sciences/" target="_blank"><img style="padding: 20px;" src="im/weiss.png" height=150px></a>
 </div>
 
 ---
 
 <div align=center>
-  <img style="padding: 20px;" src="im/miccai2020.png" height=125px>
+  <a href="https://www.miccai2020.org/" target="_blank"><img style="padding: 20px;" src="im/miccai2020.png" height=125px></a>
 </div>
