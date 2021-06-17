@@ -8,7 +8,7 @@
 
 **ASMUS is the offical workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
->ASMUS is now accepting full-length research papers; submit your paper [here](https://ocs.springer.com/ocs/home/ASMUS2021). **The submission deadline is 25 June 2021.**
+>ASMUS is now accepting full-length research papers; submit your paper [here](https://ocs.springer.com/ocs/home/ASMUS2021). **The submission deadline has been extended to 2 July 2021.**
 
 ## Call for Papers
 
@@ -18,12 +18,12 @@ The papers will be evaluated by external reviewers and our organizing committee 
 
 One of the popular features of ASMUS 2020, live demonstrations, will be repeated in ASMUS 2021. Capitalising on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional and robotics areas. All accepted papers will be offered the option to present a live demonstration.
 
-| Workshop Timeline |                            |
-| ----------------- | -------------------------- |
-| June 25 2021      | Paper Submission Deadline  |
-| July 16 2021      | Notification of Acceptance |
-| July 30 2021      | Camera Ready Submission    |
-| September 27 2021 | ASMUS Workshop             |
+| Workshop Timeline (Deadlines Extended!) |                            |
+| --------------------------------------- | -------------------------- |
+| ~~June 25 2021~~ July 2 2021            | Paper Submission Deadline  |
+| ~~July 16 2021~~ July 23 2021           | Notification of Acceptance |
+| ~~July 30 2021~~ August 6 2021          | Camera Ready Submission    |
+| September 27 2021                       | ASMUS Workshop             |
 
 >For more information, see the full [Call for Papers](/files/ASMUSCallForPapers2021.pdf ':ignore').
 
