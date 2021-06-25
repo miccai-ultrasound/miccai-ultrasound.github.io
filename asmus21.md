@@ -61,6 +61,9 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 - Streamlining clinical ultrasound workflow
 - Sonography data science
 
+## Prizes and Awards
+Cash prizes will be awarded in 3 categories: best paper, best demonstration and best presentation. All awards are sponsored by Thinksono and Ultromics. In each category there will be a winner, and runner-up.
+
 ## Keynote Speakers
 TBA - Please check back soon for more information.
 
