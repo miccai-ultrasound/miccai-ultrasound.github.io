@@ -16,14 +16,20 @@ Papers will consist of maximum 8 pages (text, figures and tables) + up to 2 page
 
 The papers will be evaluated by external reviewers and our organizing committee for inclusion in the workshop as a presentation (oral or poster). Accepted full-length manuscripts will be published with Springer LNCS and the best papers will be selected for industry-sponsored awards. Original research contributions are invited. Proof-of-concept research from novel research directions is also encouraged.
 
+Authors of selected best papers will be invited to submit extended versions to a special issue of The Journal of Machine Learning for Biomedical Imaging (MELBA).
+
+<div align=center>
+  <a href="https://www.melba-journal.org/" target="_blank"><img style="padding: 20px;" src="im/melba.jpg" height=75px></a>
+</div>
+
 One of the popular features of ASMUS 2020, live demonstrations, will be repeated in ASMUS 2021. Capitalising on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional and robotics areas. All accepted papers will be offered the option to present a live demonstration.
 
-| Workshop Timeline (Deadlines Extended!) |                            |
-| --------------------------------------- | -------------------------- |
-| ~~June 25 2021~~ July 2 2021            | Paper Submission Deadline  |
-| ~~July 16 2021~~ July 23 2021           | Notification of Acceptance |
-| ~~July 30 2021~~ August 6 2021          | Camera Ready Submission    |
-| September 27 2021                       | ASMUS Workshop             |
+| Workshop Timeline              |                            |
+| ------------------------------ | -------------------------- |
+| ~~June 25 2021~~ July 2 2021   | Paper Submission Deadline  |
+| ~~July 16 2021~~ July 23 2021  | Notification of Acceptance |
+| ~~July 30 2021~~ August 6 2021 | Camera Ready Submission    |
+| September 27 2021              | ASMUS Workshop             |
 
 >For more information, see the full [Call for Papers](/files/ASMUSCallForPapers2021.pdf ':ignore').
 
