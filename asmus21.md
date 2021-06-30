@@ -65,7 +65,24 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 Cash prizes will be awarded in 3 categories: best paper, best demonstration and best presentation. All awards are sponsored by Thinksono and Ultromics. In each category there will be a winner, and runner-up.
 
 ## Keynote Speakers
-TBA - Please check back soon for more information.
+
+### Muyinatu A. Lediju Bell, PhD
+
+#### John C. Malone Assistant Professor & PULSE Lab Director, Johns Hopkins University
+
+<div align=center>
+  <img style="padding: 20px;" src="im/bell2021.jpg" height=300px>
+</div>
+
+### Ali Kamen
+
+#### Senior Director AI for Healthcare, Siemens Healthineers
+
+<div align=center>
+  <img style="padding: 20px;" src="im/kamen2021.jpg" height=300px>
+</div>
+
+
 
 ## Organizers
 
