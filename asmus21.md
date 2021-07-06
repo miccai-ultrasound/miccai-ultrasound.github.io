@@ -8,7 +8,7 @@
 
 **ASMUS is the offical workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
->ASMUS is now accepting full-length research papers; submit your paper [here](https://ocs.springer.com/ocs/home/ASMUS2021). **The submission deadline has been extended to 2 July 2021.**
+>The ASMUS submission deadline (2 July 2021) has now passed. You may check on the status of your submitted papers [here](https://ocs.springer.com/ocs/home/ASMUS2021).
 
 ## Call for Papers
 
@@ -81,8 +81,6 @@ Cash prizes will be awarded in 3 categories: best paper, best demonstration and 
 <div align=center>
   <img style="padding: 20px;" src="im/kamen2021.jpg" height=300px>
 </div>
-
-
 
 ## Organizers
 
