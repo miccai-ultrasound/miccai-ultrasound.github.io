@@ -27,8 +27,8 @@ One of the popular features of ASMUS 2020, live demonstrations, will be repeated
 | Workshop Timeline              |                            |
 | ------------------------------ | -------------------------- |
 | ~~June 25 2021~~ July 2 2021   | Paper Submission Deadline  |
-| ~~July 16 2021~~ July 23 2021  | Notification of Acceptance |
-| ~~July 30 2021~~ August 6 2021 | Camera Ready Submission    |
+| ~~July 16 2021~~ July 26 2021  | Notification of Acceptance |
+| ~~July 30 2021~~ August 9 2021 | Camera Ready Submission    |
 | September 27 2021              | ASMUS Workshop             |
 
 >For more information, see the full [Call for Papers](/files/ASMUSCallForPapers2021.pdf ':ignore').
