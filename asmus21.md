@@ -82,6 +82,14 @@ Cash prizes will be awarded in 3 categories: best paper, best demonstration and 
   <img style="padding: 20px;" src="im/kamen2021.jpg" height=300px>
 </div>
 
+### Prerna Dogra
+
+#### Senior Product Manager (AI in Healthcare) & MONAI Project Lead, NVIDIA
+
+<div align=center>
+  <img style="padding: 20px;" src="im/dogra2021.png" height=300px>
+</div>
+
 ## Organizers
 
 ### Chairs
