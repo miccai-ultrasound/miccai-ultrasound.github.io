@@ -74,6 +74,15 @@ Cash prizes will be awarded in 3 categories: best paper, best demonstration and 
   <img style="padding: 20px;" src="im/bell2021.jpg" height=300px>
 </div>
 
+#### *Ultrasound Image Formation in the Deep Learning Age*
+
+Muyinatu Bell is the John C. Malone Assistant Professor of Electrical and Computer Engineering, Biomedical Engineering, and Computer Science at Johns Hopkins University, where she founded and directs the PULSE Lab (https://pulselab.jhu.edu). Dr. Bell earned a SB degree in mechanical engineering (biomedical engineering minor) from Massachusetts Institute of Technology, received a PhD degree in biomedical engineering from Duke University, conducted research as a Whitaker International Fellow at the Institute of Cancer Research and Royal Marsden Hospital in the United Kingdom, and completed a postdoctoral fellowship with the Engineering Research Center for Computer-Integrated Surgical Systems and Technology at Johns Hopkins University. She is Associate Editor-in-Chief of IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (T-UFFC), Associate Editor of IEEE Transactions on Medical Imaging, and a member of the Chan Zuckerberg Initiative Imaging Program Scientific Advisory Board, with patents issued and/or pending for short-lag spatial coherence beamforming, photoacoustic-guided surgery, and deep learning for beamforming. Dr. Bell is a recipient of numerous awards and honors, including MIT Technology Review’s Innovator Under 35 Award (2016), the NIH Trailblazer Award (2018), Maryland’s Outstanding Young Engineer Award (2019), and the SPIE Early Career Achievement Award (2021), and she was the Lead Organizer of the 2020 Challenge on Ultrasound Beamforming with Deep Learning (https://cubdl.jhu.edu).  
+
+The success of diagnostic and interventional medical procedures is deeply rooted in the ability of modern imaging systems to deliver clear and interpretable information. After raw sensor data is received by ultrasound and photoacoustic imaging systems in particular, the beamforming process is often the first line of software defense against poor quality images. Yet, with today’s state-of-the-art beamformers, ultrasound and photoacoustic images remain challenged by channel noise, reflection artifacts, and acoustic clutter, which combine to complicate segmentation tasks and confuse overall image interpretation. These challenges exist because traditional beamforming and image formation steps are based on flawed assumptions in the presence of significant inter- and intrapatient variations.
+
+In this talk, I will introduce the PULSE Lab’s novel alternative to beamforming, which improves ultrasound and photoacoustic image quality by learning from the physics of sound wave propagation. We replace traditional beamforming steps with deep neural networks that only display segmented details, structures, and physical properties of interest. I will then transition to describing a new resource for the entire community to standardize and accelerate research at the intersection of ultrasound beamforming and deep learning. This resource is a direct outcome of the 2020 Challenge on Ultrasound Beamforming with Deep Learning, with key landmarks that include the first internationally crowd-sourced database of raw ultrasound channel data and integrated beamforming and evaluation code.
+
+
 ### Ali Kamen
 
 #### Senior Director AI for Healthcare, Siemens Healthineers
@@ -82,6 +91,14 @@ Cash prizes will be awarded in 3 categories: best paper, best demonstration and 
   <img style="padding: 20px;" src="im/kamen2021.jpg" height=300px>
 </div>
 
+#### *Towards clinical applications of artificial intelligence in ultrasound imaging* 
+
+Ali Kamen received BSc in EE and MSc in BME from Sharif University of Technology. He received PhD in ECE  from the University of Miami. After graduation he joined Siemens Corporate Research in Princeton NJ, where he has been leading technology development teams in the areas of personalized healthcare and image guided procedures.  
+
+Currently he leads initiatives in translating artificial intelligence-based technologies to differentiated value-creating clinical products. Additionally, Dr. Kamen leads active collaborations with a number of universities including the University of Pennsylvania, Cleveland Clinic, Harvard Medical School, Johns Hopkins, and University of Iowa, with more than $5M awarded from a number of NIH-funded grants.  
+
+He has more than 100 refereed publications (with h-Index 48), and more than 100 US and international patents (granted and pending) primarily in the areas of medical image computing, computational modelling, and image guided procedures.  He is recognized as Siemens Inventor of the Year in 2015. He is also a Fellow of American Institute for Medical and Biological Engineers.
+
 ### Prerna Dogra
 
 #### Senior Product Manager (AI in Healthcare) & MONAI Project Lead, NVIDIA
@@ -89,6 +106,14 @@ Cash prizes will be awarded in 3 categories: best paper, best demonstration and 
 <div align=center>
   <img style="padding: 20px;" src="im/dogra2021.png" height=300px>
 </div>
+
+#### *MONAI & Nvidia AGX powered speed of light research prototyping and product development* 
+
+Medical Image Computing and Computer-Assisted Intervention analysis are increasingly being addressed with deep-learning-based solutions. These applications have specific software and hardware requirements to support various imaging modalities like MR, CT, ultrasound, endoscopy, digital pathology, etc. It is a substantial effort for researchers in the field to develop custom functionalities to handle these requirements. Consequently, there has been duplication of effort, and as a result, researchers have incompatible tools which makes it hard to collaborate. To address these pain points and converge community efforts Project MONAI was conceived at MICCAI-2019 with the domain experts. 
+ 
+Project MONAI has a come a long way in its journey since 2019 and while a common software foundation is pivotal, it is also essential to select a hardware platform that can address the needs of research prototyping & development all the way to production deployment of the application. NVIDIA Clara AGX™ developer kit is exactly that, it delivers real-time AI and image processing capabilities for addressing unique needs of streaming applications. 
+ 
+In this talk, we will give an overview of Project MONAI & Clara AGX and how we are expanding MONAI’s horizons to solve the unique challenges of the computer assisted intervention workflows.
 
 ## Organizers
 
