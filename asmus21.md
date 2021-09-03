@@ -64,6 +64,8 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 ## Prizes and Awards
 Cash prizes will be awarded in 3 categories: best paper, best demonstration and best presentation. All awards are sponsored by Thinksono and Ultromics. In each category there will be a winner, and runner-up.
 
+Additionally, a <a href="https://developer.nvidia.com/clara-agx-devkit">NVIDIA Clara AGX Development Kit</a> will be awarded during the workshop as a Special Award, sponsored by NVIDIA.
+
 ## Keynote Speakers
 
 ### Muyinatu A. Lediju Bell, PhD
@@ -152,6 +154,7 @@ In this talk, we will give an overview of Project MONAI & Clara AGX and how we a
 ## Sponsorship
 
 <div align=center>
+  <a href="https://www.nvidia.com/" target="_blank"><img style="padding: 20px;" src="im/nvidia.png" height=150px></a>
   <a href="https://thinksono.com/" target="_blank"><img style="padding: 20px;" src="im/thinksono.png" height=150px></a>
   <a href="https://www.ultromics.com/" target="_blank"><img style="padding: 20px;" src="im/ultromics.png" height=150px></a>
 </div>
