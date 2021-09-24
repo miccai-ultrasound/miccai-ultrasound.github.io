@@ -8,7 +8,7 @@
 
 **ASMUS is the offical workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
->**The ASMUS Workshop starts on September 27th! [View the full program](/files/program.pdf ':ignore') and [join us on Pathable](https://miccai2021.pathable.eu/meetings/zKYwMi7ttwQw5HcxG) for the workshop**.
+>**The ASMUS Workshop starts on September 27th at 9:35 UTC! [View the full program](/files/program.pdf ':ignore') and [join us on Pathable](https://miccai2021.pathable.eu/meetings/zKYwMi7ttwQw5HcxG) for the workshop.** *Please note the changed start time to 9:35 UTC from the originally scheduled 9:00 UTC!*
 
 ## Call for Papers
 
@@ -35,7 +35,7 @@ One of the popular features of ASMUS 2020, live demonstrations, will be repeated
 
 **The full day ASMUS workshop will take place on 27th September 2021, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
 
->This year's ASMUS will feature [3 keynotes](#keynote-speakers), 6 live demonstrations, and over 20 presentations on cutting edge research from international academics and industry leaders. The full program is available [here](/files/program.pdf ':ignore'). 
+>This year's ASMUS will feature [2 keynotes](#keynote-speakers), 5 live demonstrations, and over 20 presentations on cutting edge research from international academics and industry leaders. The full program is available [here](/files/program.pdf ':ignore'). 
 
 ASMUS 2021 aims to provide an intellectually stimulating forum to bring together the international MICCAI research community working towards the next generation of medical ultrasound imaging methods, systems and practices. 
 
@@ -84,7 +84,7 @@ The success of diagnostic and interventional medical procedures is deeply rooted
 
 In this talk, I will introduce the PULSE Lab’s novel alternative to beamforming, which improves ultrasound and photoacoustic image quality by learning from the physics of sound wave propagation. We replace traditional beamforming steps with deep neural networks that only display segmented details, structures, and physical properties of interest. I will then transition to describing a new resource for the entire community to standardize and accelerate research at the intersection of ultrasound beamforming and deep learning. This resource is a direct outcome of the 2020 Challenge on Ultrasound Beamforming with Deep Learning, with key landmarks that include the first internationally crowd-sourced database of raw ultrasound channel data and integrated beamforming and evaluation code.
 
-
+<!--
 ### Ali Kamen
 
 #### Senior Director AI for Healthcare, Siemens Healthineers
@@ -100,6 +100,7 @@ Ali Kamen received BSc in EE and MSc in BME from Sharif University of Technology
 Currently he leads initiatives in translating artificial intelligence-based technologies to differentiated value-creating clinical products. Additionally, Dr. Kamen leads active collaborations with a number of universities including the University of Pennsylvania, Cleveland Clinic, Harvard Medical School, Johns Hopkins, and University of Iowa, with more than $5M awarded from a number of NIH-funded grants.  
 
 He has more than 100 refereed publications (with h-Index 48), and more than 100 US and international patents (granted and pending) primarily in the areas of medical image computing, computational modelling, and image guided procedures.  He is recognized as Siemens Inventor of the Year in 2015. He is also a Fellow of American Institute for Medical and Biological Engineers.
+-->
 
 ### Prerna Dogra
 
