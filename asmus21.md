@@ -64,7 +64,20 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 ## Prizes and Awards
 Cash prizes will be awarded in 3 categories: best paper, best demonstration and best presentation. All awards are sponsored by Thinksono and Ultromics. In each category there will be a winner, and runner-up.
 
-Additionally, a <a href="https://developer.nvidia.com/clara-agx-devkit">NVIDIA Clara AGX Development Kit</a> will be awarded during the workshop as a Special Award, sponsored by NVIDIA.
+Additionally, a <a href="https://developer.nvidia.com/clara-agx-devkit">NVIDIA Clara AGX Development Kit</a> will be awarded during the workshop to the best POCUS-related work, as a Special Award, sponsored by NVIDIA.
+
+Following the ASMUS 2021 Workshop's completion, the winners of each award are listed below:
+
+| Award                          | Winner                                                        |
+| ------------------------------ | ------------------------------------------------------------- |
+| Best Paper (tie)               | Shaheer Saeed et al. (University College London)              |
+| Best Paper (tie)               | Ang Nan (Michael) Gu et al. (University of British Colombia)  |
+| Best POCUS Paper               | Baichuan Jiang et al. (Johns Hopkins University)              |
+| Best Presentation              | Helena Williams (KU Leuven)                                   |
+| Best Presentation (Runner-Up)  | Tyler Lum & Mobina Mahdavi (University of British Colombia)   |
+| Best Demonstration             | Zachary Baum (University College London)                      |
+| Best Demonstration (Runner-Up) | Bernhard Kainz (ThinkSono)                                    |
+
 
 ## Keynote Speakers
 
