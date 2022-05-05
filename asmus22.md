@@ -16,6 +16,13 @@ The papers will be evaluated by external reviewers and our organizing committee 
 
 One of the popular features of ASMUS, live demonstrations, will return for ASMUS 2022. Capitalising on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional and robotics areas. All accepted papers will be offered the option to present a live demonstration.
 
+| Workshop Timeline |                            |
+| ------------------| -------------------------- |
+| June 20 2022      | Paper Submission Deadline  |
+| July 15 2022      | Notification of Acceptance |
+| July 29 2022      | Camera Ready Submission    |
+| September 18 2022 | ASMUS Workshop             |
+
 ---
 
 <div align=center>
