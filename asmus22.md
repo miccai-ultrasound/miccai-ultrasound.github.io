@@ -27,6 +27,77 @@ You may start the submission process at [Springer Nature EquinOCS](https://equin
 | July 29 2022      | Camera Ready Submission    |
 | September 18 2022 | ASMUS Workshop             |
 
+## Program
+
+**The full day ASMUS workshop will take place on September 18th 2022, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
+
+<!--
+>This year's ASMUS will feature [2 keynotes](#keynote-speakers), 5 live demonstrations, and over 20 presentations on cutting edge research from international academics and industry leaders. The full program is available [here](/files/program.pdf ':ignore'). 
+-->
+
+ASMUS 2022 aims to provide an intellectually stimulating forum to bring together the international MICCAI research community working towards the next generation of medical ultrasound imaging methods, systems and practices. 
+
+In this exciting era for medical ultrasound, recent developments in deep learning (artificial intelligence) and medical robotics have started to show clinically measurable improvement in assisting ultrasound examinations, ultrasound-guided interventions and surgery. This year, ASMUS is soliciting submissions, including work from the following areas:
+
+### Ultrasound Assisted by Artificial Intelligence and Medical Robotics:
+- Ultrasound imaging with robotic (automated) assistance
+- Machine learning methods in ultrasound analysis and guidance
+- Automated interpretation and measurement for ultrasound
+- Ultrasound quality and skills assessment
+
+### Multimodality Ultrasound Imaging:
+- Ultrasound with other non-imaging sensory information, e.g. positional and eye tracking
+- Ultrasound with another pre-/intra-procedural imaging, e.g. camera videos, CT, MR, fluorescence
+- Different modes of ultrasound imaging, e.g. photoacoustic, Doppler, functional ultrasound, tissue quantification
+
+### Applications:
+- Global healthcare
+- Training sonographers and other users
+- Assisting non-expert healthcare professionals
+- Point-of-care ultrasound systems and scenarios
+- Assisting surgery and interventions
+- Streamlining clinical ultrasound workflow
+- Sonography data science
+
+## Keynote Speakers
+
+### TBD. Check back soon for more details!
+
+## Organizers
+
+### Chairs
+* Alison Noble (University of Oxford, UK)
+* Stephen Aylward (Kitware, USA)
+* Yipeng Hu (University College London, UK)
+
+### Organising Committee
+* Ana Namburete (University of Oxford, UK)
+* Andy King (King’s College London, UK)
+* Bernhard Kainz (Imperial College London, UK)
+* Dong Ni (Shenzhen University, China)
+* Ekaterina Zilonova (KU Leuven, Belgium)
+* Emad Boctor (Johns Hopkins University, USA)
+* Parvin Mousavi (Queen’s University, Canada)
+* Purang Abolmaesumi (University of British Columbia, Canada)
+* Thomas van den Heuvel (Radboud University Nijmegen, Netherlands)
+* Wolfgang Wein (ImFusion, Germany)
+
+### Delivery Team
+* Su-Lin Lee, Delivery Lead (University College London, UK)
+* Zhe Min, Program Co-Chair (University College London, UK)
+* Zachary Baum, Program Co-Chair, Demonstrations Chair (University College London, UK)
+* Alberto Gomez Herrero, Delivery Team Member (King's College London, UK)
+* Hadrien Reynaud, Delivery Team Member (Imperial College London, UK)
+* Thomas Day, Delivery Team Member (King's College London, UK)
+
+### Advisory Board
+* Chris de Korte (Radboud University Nijmegen, Netherlands)
+* Gabor Fichtinger (Queen’s University, Canada)
+* Jan d’Hooge (KU Leuven, Belgium)
+* Kawal Rhode (King’s College London, UK)
+* Nassir Navab (Technical University of Munich, Germany)
+* Russ Taylor (Johns Hopkins University, USA)
+
 ---
 
 <div align=center>
