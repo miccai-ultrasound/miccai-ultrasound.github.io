@@ -10,6 +10,8 @@
 
 > The submission portal is now available at [Springer Nature EquinOCS](https://equinocs.springernature.com/home). *E-Mail registration required prior to submission*.
 
+> The submission deadline has been extended to June 27 2022 - Please see the below Workshop Timeline for complete details.
+
 ## Call for Papers
 
 Papers will consist of maximum 8 pages (text, figures and tables) + up to 2 pages for references only. They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double blind review. Information on submission to follow.
@@ -20,12 +22,12 @@ One of the popular features of ASMUS, live demonstrations, will return for ASMUS
 
 You may start the submission process at [Springer Nature EquinOCS](https://equinocs.springernature.com/home). E-Mail registration required prior to submission, which can be accessed by clicking the "REGISTER NOW" button on the previous link. If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or via E-Mail.
 
-| Workshop Timeline |                            |
-| ------------------| -------------------------- |
-| June 20 2022      | Paper Submission Deadline  |
-| July 15 2022      | Notification of Acceptance |
-| July 29 2022      | Camera Ready Submission    |
-| September 18 2022 | ASMUS Workshop             |
+| Workshop Timeline             |                            |
+| ----------------------------- | -------------------------- |
+| ~~June 20 2022~~ June 27 2022 | Paper Submission Deadline  |
+| ~~July 15 2022~~ July 18 2022 | Notification of Acceptance |
+| ~~July 29 2022~~ July 31 2022 | Camera Ready Submission    |
+| September 18 2022             | ASMUS Workshop             |
 
 ## Program
 
