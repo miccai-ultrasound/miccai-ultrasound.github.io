@@ -33,9 +33,7 @@ You may start the submission process at [Springer Nature EquinOCS](https://equin
 
 **The full day ASMUS workshop will take place on September 18th 2022, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
 
-<!--
->This year's ASMUS will feature [2 keynotes](#keynote-speakers), 5 live demonstrations, and over 20 presentations on cutting edge research from international academics and industry leaders. The full program is available [here](/files/program.pdf ':ignore'). 
--->
+This year's ASMUS will feature [keynotes](#keynote-speakers), 3 live demonstrations, and nearly 20 presentations on cutting edge research from international academics and industry leaders.
 
 ASMUS 2022 aims to provide an intellectually stimulating forum to bring together the international MICCAI research community working towards the next generation of medical ultrasound imaging methods, systems and practices. 
 
@@ -63,7 +61,23 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 
 ## Keynote Speakers
 
-### TBD. Check back soon for more details!
+### Dr Marie M. Muller, PhD
+
+#### Associate Professor, Dept. of Mechanical and Aerospace Engineering, North Carolina State University
+
+<div align=center>
+  <img style="padding: 20px;" src="im/muller2022.jpg" height=300px>
+</div>
+
+#### *Quantitative lung ultrasound: finding new sources of contrast to detect and quantify lung diseases*
+
+Marie Muller is an Associate Professor in Mechanical and Aerospace Engineering at North Carolina State University. She received her B.S. in Physics from the Pierre et Marie Curie University in Paris, France in 2002, and her Ph.D in Physical Acoustics from the University of Paris, France in 2006. After a postdoctorate at the Erasmus Medical Center in Rotterdam, the Netherlands, she returned to Paris, as an Assistant Professor with the Institut Langevin. In 2014, she moved to North Carolina and joined the Mechanical and Aerospace Engineering department at NCSU. She is also an associate Faculty with the Joint Department of Biomedical Engineering at UNC and NCSU.  
+
+Dr. Muller has pioneered the use of ultrasound multiple scattering to characterize the lung. Her work has been recognized with several awards, including the prestigious Galien Medstartup Award in 2020, in collaboration with E-scopics, the ICU Early Career Award, the Young Investigator Award from the French Society of Acoustics, the PhD thesis award from the French Society of Biological and Medical Engineering and IEEE France Section, the Prize for a Young Parisian female researcher from the City of Paris, and the Stephens award at the International Congress of Ultrasonics. She is a member of IEEE, the Acoustical Society of America, and of the American Institute of Ultrasound in Medicine. She is also a founding member and member of the board of the International Bone Ultrasound Society.
+
+Conventional ultrasound is unsuitable for imaging lung tissue due to the presence of air-filled alveoli, responsible for significant amounts of scattering of ultrasound waves. As a results, conventional ultrasound images of lung tissue are not a visual representation of lung tissue. They are however of some clinical interest, because diseased lungs exhibit typical vertical artifacts on ultrasound images, called B-lines. These B-lines have significant limitation. They are not specific, system-dependent and qualitative. It is therefore necessary to define new source of contrast that would enable the detection and quantification of lung diseases such as pulmonary fibrosis, pulmonary edema, ARDS, etc.. with good specificity. 
+
+We propose to take advantage of ultrasound scattering in lungs, by using it a source of contrast to characterize lung tissue. Healthy lungs are expected to be responsible for larger amounts of scattering than diseased lungs, due to the presence of healthy, air-filled alveoli. In addition, the spatial distribution of alveoli has an impact on scattering patterns. Based on these principles, we demonstrate that it is possible to use ultrasound scattering as a source of contrast to detect and assess the severity of pulmonary fibrosis and pulmonary edema. We also show that it is possible to detect and localize pulmonary nodules in real time, in order to guide nodule resection during thoracic surgery. 
 
 ## Organizers
 
