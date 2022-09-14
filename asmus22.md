@@ -10,6 +10,8 @@
 
 > **The ASMUS Workshop starts on September 18th at 9:00 SGT! [View the full program](/files/program2022.pdf ':ignore').**
 
+> Proceedings of the 3rd International Workshop of Advances in Simplifying Medical Ultrasound (ASMUS) are available to download through [this link](https://link.springer.com/book/9783031169021) free of charge for ASMUS participants until October 15th 2022.
+
 ## Call for Papers
 
 Papers will consist of maximum 8 pages (text, figures and tables) + up to 2 pages for references only. They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double blind review. Information on submission to follow.
@@ -31,7 +33,7 @@ You may start the submission process at [Springer Nature EquinOCS](https://equin
 
 **The full day ASMUS workshop will take place on September 18th 2022, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
 
-This year's ASMUS will feature 2 [keynotes](#keynote-speakers), 3 live demonstrations, and nearly 20 presentations on cutting edge research from international academics and industry leaders. The full program is available [here](/files/program2022.pdf ':ignore'). 
+This year's ASMUS will feature 2 [keynotes](#keynote-speakers), a full session of live demonstrations, and nearly 20 presentations on cutting edge research from international academics and industry leaders. The full program is available [here](/files/program2022.pdf ':ignore'). 
 
 ASMUS 2022 aims to provide an intellectually stimulating forum to bring together the international MICCAI research community working towards the next generation of medical ultrasound imaging methods, systems and practices. 
 
