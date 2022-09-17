@@ -10,6 +10,13 @@
 
 > **The ASMUS Workshop starts on September 18th at 9:00 SGT! [View the full program](/files/program2022.pdf ':ignore').**
 
+**Please note the following changes to the program:**
+
+- Break CHANGED to 2:45PM - 3:40PM SGT
+- Room CHANGED from 3:40PM SGT onwards: PISCES 3
+- Oral Session 3 CHANGED to 3:40PM from 3:00PM
+- Demos, Closing to follow Oral Session 3
+
 > Proceedings of the 3rd International Workshop of Advances in Simplifying Medical Ultrasound (ASMUS) are available to download through [this link](https://link.springer.com/book/9783031169021) free of charge for ASMUS participants until October 15th 2022.
 
 ## Call for Papers
