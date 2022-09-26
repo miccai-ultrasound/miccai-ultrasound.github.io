@@ -10,13 +10,6 @@
 
 > **The ASMUS Workshop starts on September 18th at 9:00 SGT! [View the full program](/files/program2022.pdf ':ignore').**
 
-**Please note the following changes to the program:**
-
-- Break CHANGED to 2:45PM - 3:40PM SGT
-- Room CHANGED from 3:40PM SGT onwards: PISCES 3
-- Oral Session 3 CHANGED to 3:40PM from 3:00PM
-- Demos, Closing to follow Oral Session 3
-
 > Proceedings of the 3rd International Workshop of Advances in Simplifying Medical Ultrasound (ASMUS) are available to download through [this link](https://link.springer.com/book/9783031169021) free of charge for ASMUS participants until October 15th 2022.
 
 ## Call for Papers
@@ -65,6 +58,21 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 - Assisting surgery and interventions
 - Streamlining clinical ultrasound workflow
 - Sonography data science
+
+## Prizes and Awards
+Prizes will be awarded in 3 categories: best paper, best demonstration and best presentation. In each category there will be a winner, and runner-up.
+
+Following the ASMUS 2022 Workshop's completion, the winners of each award are listed below:
+
+| Award                          | Winner                                                                                                                                                             |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Best Paper                     | Efficient Pix2Vox++ for 3D Cardiac Reconstruction from 2D Echo Views, Stojanovski et al. (King's College London)                                                   |
+| Best Paper Runner-Up (tie)     | AI-Enabled Assessment of Cardiac Systolic and Diastolic Function from Echocardiography, Puyol-Anton et al. (King's College London)                                 |
+| Best Paper Runner-Up (tie)     | Towards Multi-modal Self-supervised Video and Ultrasound Pose Estimation for Laparoscopic Liver Surgery, Montana-Brown et al. (University College London)          |
+| Best Presentation              | End-to_end Myocardial Infarction Classification from Echocardiographic Scans, Mohamed Saaed (Mohamed Bin Zayed University of Artificial Intelligence)              |
+| Best Presentation (Runner-Up)  | Differential Learning from Sparse and Noisy Labels for Robust Detection of Clinical Landmarks in Echo Cine Series, Mobina Mahdavi (University of British Columbia) |
+| Best Demonstration             | Augmented Reality Ultrasound Platform for Lumbar Puncture Guidance, Baichuan Jiang (Johns Hopkins University)                                                      |
+| Best Demonstration (Runner-Up) | Robotic Scanning of Aorta based on Intermediate Ultrasound Representations, Yordanka Velikova (Technical University of Munich) |
 
 ## Keynote Speakers
 
