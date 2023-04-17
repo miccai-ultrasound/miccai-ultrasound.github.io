@@ -1,0 +1,104 @@
+# ASMUS Workshop '23
+
+<div align=center>
+ <img src="im/asmus.png" height=150px>
+</div>
+
+**The 4th International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with [MICCAI 2023](https://conferences.miccai.org/2023/), the 26th International Conference on Medical Image Computing and Computer Assisted Intervention.**
+
+**ASMUS is the offical workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
+
+> **The ASMUS Workshop is schedule to be held on October 8th. Stay tuned for a detailed program!**
+
+> Proceedings of the 4th International Workshop of Advances in Simplifying Medical Ultrasound (ASMUS) will be available free of charge for ASMUS participants after the events.
+
+## Call for Papers
+
+Papers will consist of maximum 8 pages (text, figures and tables) + up to 2 pages for references only. They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double blind review. Information on submission to follow.
+
+The papers will be evaluated by external reviewers and our organizing committee for inclusion in the workshop as a presentation (oral or poster). Accepted full-length manuscripts will be published with Springer LNCS and the best papers will be selected for industry-sponsored awards. Original research contributions are invited. Proof-of-concept research from novel research directions is also encouraged.
+
+One of the popular features of ASMUS, live demonstrations, will return for ASMUS 2023. Capitalising on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional and robotics areas. All accepted papers will be offered the option to present a live demonstration.
+
+You may start the submission process at [Springer Nature EquinOCS](https://equinocs.springernature.com/home). E-Mail registration required prior to submission, which can be accessed by clicking the "REGISTER NOW" button on the previous link. If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or via E-Mail.
+
+
+
+In this exciting era for medical ultrasound, recent developments in deep learning (artificial intelligence) and medical robotics have started to show clinically measurable improvement in assisting ultrasound examinations, ultrasound-guided interventions and surgery. This year, ASMUS is soliciting submissions, including work from the following areas:
+
+### Ultrasound Assisted by Artificial Intelligence and Medical Robotics:
+- Ultrasound imaging with robotic (automated) assistance
+- Machine learning methods in ultrasound analysis and guidance
+- Automated interpretation and measurement for ultrasound
+- Ultrasound quality and skills assessment
+
+### Multimodality Ultrasound Imaging:
+- Ultrasound with other non-imaging sensory information, e.g. positional and eye tracking
+- Ultrasound with another pre-/intra-procedural imaging, e.g. camera videos, CT, MR, fluorescence
+- Different modes of ultrasound imaging, e.g. photoacoustic, Doppler, functional ultrasound, tissue quantification
+
+### Applications:
+- Global healthcare
+- Training sonographers and other users
+- Assisting non-expert healthcare professionals
+- Point-of-care ultrasound systems and scenarios
+- Assisting surgery and interventions
+- Streamlining clinical ultrasound workflow
+- Sonography data science
+
+
+| Preliminary Workshop Timeline             |                            |
+| ----------------------------- | -------------------------- |
+| July 3 2023                  | Paper Submission Deadline  |
+| July 28 2023                 | Notification of Acceptance |
+| August 18 2023                | Camera Ready Submission    |
+| October 8 2023                | ASMUS Workshop             |
+
+
+## Program
+
+**The half day ASMUS workshop will take place on October 8th 2023, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
+
+
+## Keynote Speakers
+
+### **TBA**
+
+
+## Organizers
+### Chairs
+* Bernhard Kainz (Co-Chair, FAU Erlangen-Nürnberg, DE, and Imperial College London, UK)
+* Julia Schnabel (Co-Chair, Technical University of Munich, DE)
+* Bishesh Khanal (outreach Co-Chair, NAAMII, Nepal)
+
+### Organising Committee
+* Alison Noble (University of Oxford, UK)
+* Stephen Aylward (Kitware, USA)
+* Yipeng Hu (University College London, UK)
+* Purang Abolmaesumi (University of British Columbia, CA)
+* Dong Ni (Shenzhen University, CN)
+* Emad Boctor (Johns Hopkins University, USA)
+* Andy King (King’s College London, UK)
+* Ana Namburete (University of Oxford, UK)
+* Thomas van den Heuvel (Radboud University, NL)
+* Wolfgang Wein (ImFusion, DE)
+* Parvin Mousavi (Queen’s University, CA)
+* Alberto Gomez (King’s College London and Ultromics, UK)
+* Veronika Zimmer (Technical University of Munich, DE)
+
+### Delivery Team
+* Thomas Day (King’s College London, UK)
+* Mischa Dombrowski (FAU Erlangen-Nürnberg)
+* Johanna Mueller (FAU Erlangen-Nürnberg)
+* Matthew Baugh (Imperial College London)
+* Zachary Baum (University College London)
+
+### Advisory Board
+
+* Gabor Fichtinger (Queen’s University, Canada)
+* Kawal Rhode (King’s College London, UK)
+* Russ Taylor (Johns Hopkins University, USA)
+* Chris de Korte (Radboud University Nijmegen, Netherlands)
+* Nassir Navab (Technical University of Munich, Germany)
+* Reza Razavi (King’s College London, UK)
+* Joseph V. Hajnal (King’s College London, UK)
