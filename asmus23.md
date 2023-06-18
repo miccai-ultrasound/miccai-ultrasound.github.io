@@ -20,7 +20,7 @@ The papers will be evaluated by external reviewers and our organizing committee 
 
 One of the popular features of ASMUS, live demonstrations, will return for ASMUS 2023. Capitalising on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional and robotics areas. All accepted papers will be offered the option to present a live demonstration.
 
-You may start the submission process at [Springer Nature EquinOCS](https://equinocs.springernature.com/home). E-Mail registration required prior to submission, which can be accessed by clicking the "REGISTER NOW" button on the previous link. If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or via E-Mail.
+You may start the submission process at [Springer Nature EquinOCS](https://equinocs.springernature.com/service/ASMUS2023). E-Mail registration required prior to submission, which can be accessed by clicking the "REGISTER NOW" button on the previous link. If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or via E-Mail.
 
 
 
