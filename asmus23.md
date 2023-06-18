@@ -23,6 +23,7 @@ One of the popular features of ASMUS, live demonstrations, will return for ASMUS
 You may start the submission process at [Springer Nature EquinOCS](https://equinocs.springernature.com/service/ASMUS2023). E-Mail registration required prior to submission, which can be accessed by clicking the "Submit now" button on the previous link. If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or via E-Mail.
 
 
+
 In this exciting era for medical ultrasound, recent developments in deep learning (artificial intelligence) and medical robotics have started to show clinically measurable improvement in assisting ultrasound examinations, ultrasound-guided interventions and surgery. This year, ASMUS is soliciting submissions, including work from the following areas:
 
 ### Ultrasound Assisted by Artificial Intelligence and Medical Robotics:
