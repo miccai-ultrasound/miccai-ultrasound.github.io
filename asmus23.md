@@ -54,6 +54,7 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 | August 18 2023                | Camera Ready Submission    |
 | October 8 2023                | ASMUS Workshop             |
 
+All times are in "anywhere on earth". 
 
 ## Program
 
