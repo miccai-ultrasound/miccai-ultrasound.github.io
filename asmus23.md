@@ -50,6 +50,7 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 | Preliminary Workshop Timeline             |                            |
 | ----------------------------- | -------------------------- |
 | ~~July 3 2023~~ July 10 2023  | Paper Submission Deadline  |
+| July 28 2023 | Reviews Due |
 | ~~July 28 2023~~ August 3 2023 | Notification of Acceptance |
 | August 18 2023                | Camera Ready Submission    |
 | October 8 2023                | ASMUS Workshop             |
