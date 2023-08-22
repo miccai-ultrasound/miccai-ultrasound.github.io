@@ -66,33 +66,33 @@ All times are in "anywhere on earth".
 07:50-08:00 Introduction (organisers)
  
 08:00 - 09:00 (12 + 3 min): *Segmentation, Predictions, and Automated Assessments*
-paper 1: Zhao, Men, Gleed, Papageorghiou, Noble: Ultrasound Video Segmentation with Adaptive Temporal Memory
-paper 2: Pegios, Pi Fogtmann Sejer, Bashir, Bo Søndergaard Svendsen, Nielsen, Petersen, Nymark Christensen, Tolsgaard, Feragen, Lin: Leveraging Shape and Spatial Information for Spontaneous Preterm Birth Prediction (best reviews runner up)
-paper 3: Wong, Raheli, Bashir, Svendsen, Tolsgaard, Feragen, Christensen, Lin: An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery
-paper 4: Benjamin, Asokan, Alhosani, Alasmawi, Diehl, Bricker, Nandakumar, Yaqub: Leveraging Self-Supervised Learning for Fetal Cardiac Planes Classification using Ultrasound Scan Videos
+- paper 1: Zhao, Men, Gleed, Papageorghiou, Noble: Ultrasound Video Segmentation with Adaptive Temporal Memory
+- paper 2: Pegios, Pi Fogtmann Sejer, Bashir, Bo Søndergaard Svendsen, Nielsen, Petersen, Nymark Christensen, Tolsgaard, Feragen, Lin: Leveraging Shape and Spatial Information for Spontaneous Preterm Birth Prediction (best reviews runner up)
+- paper 3: Wong, Raheli, Bashir, Svendsen, Tolsgaard, Feragen, Christensen, Lin: An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery
+- paper 4: Benjamin, Asokan, Alhosani, Alasmawi, Diehl, Bricker, Nandakumar, Yaqub: Leveraging Self-Supervised Learning for Fetal Cardiac Planes Classification using Ultrasound Scan Videos
 
 09:00 - 10:00 *Poster lightning talks (5 min)*
-paper l1: Singla, Ringstrom, Hu, Lessoway, Reid, Nguan, Rohlign: The Open Kidney Ultrasound Data Set
-paper l2: Ng, Gao, Mohammed Furqan, Yeo, Lau, Ngiam, Khoo: HoloPOCUS: Mixed Reality 3D Ultrasound Reconstruction and Overlay
-paper l3: Bhattacharya, Vesal, Jahanandish, Choi, Zhou, Kornberg, Sommer, Fan, Brooks, Sonn, Rusu: MIC-CUSP: Multimodal Image Correlations for Ultrasound-based Prostate Cancer Detection
-paper l4: Colussi, Mascetti, Ahmetovic, Civitarese, Cacciatori, Peyvandi, Gualtierotti, Arcudi, Bettini: GAJA - Guided self-Acquisition of Joint ultrAsound images
-paper l5: Li, Shen, Li, Barratt, Dowrick, Clarkson, Vercauteren, Hu: Privileged Anatomical and Protocol Discrimination in Trackerless 3D Ultrasound Reconstruction
-paper l6: Stojanovski, Hermida, Lamata, Beqiri, Gomez: Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation
-paper l7: FANG, Delingette, Ayache: Anatomical Landmark Detection for Initializing US and MR Image Registration
-paper l8: Thomas, Tiago , Andreassen, Aase, Sprem, Steen, Solberg, Ben-Yosef: Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach
-paper l9: Zhou, Knight, Felfeliyan, Gosh, Alves-Pereira, Keen, Hareendranathan, Jaremko: Self-supervised learning to more efficiently generate segmentation masks for wrist ultrasound
-paper l10: Adhikari, Dhakal, Thapaliya, Bhandari, Poudel, Khanal: Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography
-paper l11: Gonzalez Duque, Velikova, Navab, Mateus, Zirus: Can ultrasound confidence maps predict sonogaphers labeling variability?
+- paper l1: Singla, Ringstrom, Hu, Lessoway, Reid, Nguan, Rohlign: The Open Kidney Ultrasound Data Set
+- paper l2: Ng, Gao, Mohammed Furqan, Yeo, Lau, Ngiam, Khoo: HoloPOCUS: Mixed Reality 3D Ultrasound Reconstruction and Overlay
+- paper l3: Bhattacharya, Vesal, Jahanandish, Choi, Zhou, Kornberg, Sommer, Fan, Brooks, Sonn, Rusu: MIC-CUSP: Multimodal Image Correlations for Ultrasound-based Prostate Cancer Detection
+- paper l4: Colussi, Mascetti, Ahmetovic, Civitarese, Cacciatori, Peyvandi, Gualtierotti, Arcudi, Bettini: GAJA - Guided self-Acquisition of Joint ultrAsound images
+- paper l5: Li, Shen, Li, Barratt, Dowrick, Clarkson, Vercauteren, Hu: Privileged Anatomical and Protocol Discrimination in Trackerless 3D Ultrasound Reconstruction
+- paper l6: Stojanovski, Hermida, Lamata, Beqiri, Gomez: Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation
+- paper l7: FANG, Delingette, Ayache: Anatomical Landmark Detection for Initializing US and MR Image Registration
+- paper l8: Thomas, Tiago , Andreassen, Aase, Sprem, Steen, Solberg, Ben-Yosef: Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach
+- paper l9: Zhou, Knight, Felfeliyan, Gosh, Alves-Pereira, Keen, Hareendranathan, Jaremko: Self-supervised learning to more efficiently generate segmentation masks for wrist ultrasound
+- paper l10: Adhikari, Dhakal, Thapaliya, Bhandari, Poudel, Khanal: Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography
+- paper l11: Gonzalez Duque, Velikova, Navab, Mateus, Zirus: Can ultrasound confidence maps predict sonogaphers labeling variability?
 
 10:00 - 10:30: *coffee break, live demos, and poster session*
  
 10:30 - 11:30: *keynote address Prof. Mirabela Rusu*
  
 11:30 - 12:30 (12 + 3 min) *Contrastive Learning, and Multi-Task Innovations*
-paper 5: Ravishankar, Annangi, Melapudi, Patil, Patil: SonoSAM - Segment Anything on Ultrasound Images
-paper 6: Prieto, Benabdelkader, Pokaprakarn, Shah, Sebastião, Dan, Almnini, Diaz, Chari, Chi, Stringer, Stringer: SimNorth: A novel contrastive learning approach for clustering prenatal ultrasound images (best reviews)
-paper 7: Charton, Ren, Kim, Gonzalez, Khambhati, Cheng, DeFrancesco, Waheed, Marciniak, Moura, Cardoso, Lima, Picard, Li, Li: Multi-task Learning for Hierarchically-Structured Images: Study on Echocardiogram View Classification (best reviews runner up)
-paper 8: Tafuro, Jansen, Išgum: Temporally consistent segmentations from sparsely labeled echocardiograms using image registration for pseudo-labels generation
+- paper 5: Ravishankar, Annangi, Melapudi, Patil, Patil: SonoSAM - Segment Anything on Ultrasound Images
+- paper 6: Prieto, Benabdelkader, Pokaprakarn, Shah, Sebastião, Dan, Almnini, Diaz, Chari, Chi, Stringer, Stringer: SimNorth: A novel contrastive learning approach for clustering prenatal ultrasound images (best reviews)
+- paper 7: Charton, Ren, Kim, Gonzalez, Khambhati, Cheng, DeFrancesco, Waheed, Marciniak, Moura, Cardoso, Lima, Picard, Li, Li: Multi-task Learning for Hierarchically-Structured Images: Study on Echocardiogram View Classification (best reviews runner up)
+- paper 8: Tafuro, Jansen, Išgum: Temporally consistent segmentations from sparsely labeled echocardiograms using image registration for pseudo-labels generation
 
 lunch at 12:30-13:30
 
