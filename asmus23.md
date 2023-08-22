@@ -61,10 +61,51 @@ All times are in "anywhere on earth".
 
 **The half day ASMUS workshop will take place on October 8th 2023, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
 
+### Preliminary Program
 
-## Keynote Speakers
+07:50-08:00 Introduction (organisers)
+ 
+08:00 - 09:00 (12 + 3 min): *Segmentation, Predictions, and Automated Assessments*
+paper 1: Zhao, Men, Gleed, Papageorghiou, Noble: Ultrasound Video Segmentation with Adaptive Temporal Memory
+paper 2: Pegios, Pi Fogtmann Sejer, Bashir, Bo Søndergaard Svendsen, Nielsen, Petersen, Nymark Christensen, Tolsgaard, Feragen, Lin: Leveraging Shape and Spatial Information for Spontaneous Preterm Birth Prediction (best reviews runner up)
+paper 3: Wong, Raheli, Bashir, Svendsen, Tolsgaard, Feragen, Christensen, Lin: An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery
+paper 4: Benjamin, Asokan, Alhosani, Alasmawi, Diehl, Bricker, Nandakumar, Yaqub: Leveraging Self-Supervised Learning for Fetal Cardiac Planes Classification using Ultrasound Scan Videos
 
-### **TBA**
+09:00 - 10:00 *Poster lightning talks (5 min)*
+paper l1: Singla, Ringstrom, Hu, Lessoway, Reid, Nguan, Rohlign: The Open Kidney Ultrasound Data Set
+paper l2: Ng, Gao, Mohammed Furqan, Yeo, Lau, Ngiam, Khoo: HoloPOCUS: Mixed Reality 3D Ultrasound Reconstruction and Overlay
+paper l3: Bhattacharya, Vesal, Jahanandish, Choi, Zhou, Kornberg, Sommer, Fan, Brooks, Sonn, Rusu: MIC-CUSP: Multimodal Image Correlations for Ultrasound-based Prostate Cancer Detection
+paper l4: Colussi, Mascetti, Ahmetovic, Civitarese, Cacciatori, Peyvandi, Gualtierotti, Arcudi, Bettini: GAJA - Guided self-Acquisition of Joint ultrAsound images
+paper l5: Li, Shen, Li, Barratt, Dowrick, Clarkson, Vercauteren, Hu: Privileged Anatomical and Protocol Discrimination in Trackerless 3D Ultrasound Reconstruction
+paper l6: Stojanovski, Hermida, Lamata, Beqiri, Gomez: Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation
+paper l7: FANG, Delingette, Ayache: Anatomical Landmark Detection for Initializing US and MR Image Registration
+paper l8: Thomas, Tiago , Andreassen, Aase, Sprem, Steen, Solberg, Ben-Yosef: Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach
+paper l9: Zhou, Knight, Felfeliyan, Gosh, Alves-Pereira, Keen, Hareendranathan, Jaremko: Self-supervised learning to more efficiently generate segmentation masks for wrist ultrasound
+paper l10: Adhikari, Dhakal, Thapaliya, Bhandari, Poudel, Khanal: Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography
+paper l11: Gonzalez Duque, Velikova, Navab, Mateus, Zirus: Can ultrasound confidence maps predict sonogaphers labeling variability?
+
+10:00 - 10:30: *coffee break, live demos, and poster session*
+ 
+10:30 - 11:30: *keynote address Prof. Mirabela Rusu*
+ 
+11:30 - 12:30 (12 + 3 min) *Contrastive Learning, and Multi-Task Innovations*
+paper 5: Ravishankar, Annangi, Melapudi, Patil, Patil: SonoSAM - Segment Anything on Ultrasound Images
+paper 6: Prieto, Benabdelkader, Pokaprakarn, Shah, Sebastião, Dan, Almnini, Diaz, Chari, Chi, Stringer, Stringer: SimNorth: A novel contrastive learning approach for clustering prenatal ultrasound images (best reviews)
+paper 7: Charton, Ren, Kim, Gonzalez, Khambhati, Cheng, DeFrancesco, Waheed, Marciniak, Moura, Cardoso, Lima, Picard, Li, Li: Multi-task Learning for Hierarchically-Structured Images: Study on Echocardiogram View Classification (best reviews runner up)
+paper 8: Tafuro, Jansen, Išgum: Temporally consistent segmentations from sparsely labeled echocardiograms using image registration for pseudo-labels generation
+
+lunch at 12:30-13:30
+
+## Keynote Speaker
+
+### Prof. Mirabela Rusu
+![Prof. Mirabela Rusu](https://profiles.stanford.edu/proxy/api/cap/profiles/185796/resources/profilephoto/350x350.1513908263182.jpg)
+
+*Title:* Artificial intelligence methods for b-mode ultrasound of the prostate to guide the biopsy procedure: Are we there yet? 
+
+*Abstract:* Despite the advancements in prostate MRI, most prostate biopsies are still performed under the guidance of ultrasound alone. These procedures are imperfect, missing >50% of clinically significant cancers. By comparison, when MRI is utilized in an MRI-Ultrasound guided biopsy, the procedure only misses 12% of cancers. My team’s research has been focusing on using the ubiquitous but noisy b-mode ultrasound images to detect and localize prostate cancer, in approaches that often rely on MRI during the training of the models, but only use b-mode ultrasound images at inference time in new patients. Improving the ability of ultrasound to better show cancer has potential to enable early cancer detection, sparing men of biopsies when they are not needed, and allow for better targeting during local treatment. 
+
+*Bio:* Dr. Mirabela Rusu received her MS and PhD in Computational Biomedicine from University of Texas, Houston, and focused her research on the fusion of biomolecular structural data from different sources (i.e., cryo-electron microscopy and X-ray crystallography). Her postdoctoral training at Rutgers and Case Western Reserve University was focused on developing computational methods for the fusion of medical images, i.e., to register radiology or pathology images, or create population atlases for prostate cancer studies. Following postdoctoral training, Dr. Rusu joined Industry as an Image Analysis Scientist/Lead Engineer. Currently, Dr. Rusu is an Assistant Professor of Radiology, and by courtesy, Urology and Data Science, at Stanford University, where she leads the Personalized Integrative Medicine Laboratory (http://pimed.stanford.edu). Dr. Rusu’s team focuses on developing analytic methods to improve the interpretation of radiology images by taking advantage of existing high-resolution information during training but only needing lower resolution radiology images during inference (e.g., when applied in new patients).  
 
 
 ## Organizers
