@@ -67,7 +67,7 @@ All times are in "anywhere on earth".
  
 08:00 - 09:00 (12 + 3 min): *Segmentation, Predictions, and Automated Assessments*
 - paper 1: Zhao, Men, Gleed, Papageorghiou, Noble: Ultrasound Video Segmentation with Adaptive Temporal Memory
-- paper 2: Pegios, Pi Fogtmann Sejer, Bashir, Bo Søndergaard Svendsen, Nielsen, Petersen, Nymark Christensen, Tolsgaard, Feragen, Lin: Leveraging Shape and Spatial Information for Spontaneous Preterm Birth Prediction (best reviews runner up)
+- paper 2: Pegios, Pi Fogtmann Sejer, Bashir, Bo Søndergaard Svendsen, Nielsen, Petersen, Nymark Christensen, Tolsgaard, Feragen, Lin: Leveraging Shape and Spatial Information for Spontaneous Preterm Birth Prediction 
 - paper 3: Wong, Raheli, Bashir, Svendsen, Tolsgaard, Feragen, Christensen, Lin: An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery
 - paper 4: Benjamin, Asokan, Alhosani, Alasmawi, Diehl, Bricker, Nandakumar, Yaqub: Leveraging Self-Supervised Learning for Fetal Cardiac Planes Classification using Ultrasound Scan Videos
 
@@ -90,8 +90,8 @@ All times are in "anywhere on earth".
  
 11:30 - 12:30 (12 + 3 min) *Contrastive Learning, and Multi-Task Innovations*
 - paper 5: Ravishankar, Annangi, Melapudi, Patil, Patil: SonoSAM - Segment Anything on Ultrasound Images
-- paper 6: Prieto, Benabdelkader, Pokaprakarn, Shah, Sebastião, Dan, Almnini, Diaz, Chari, Chi, Stringer, Stringer: SimNorth: A novel contrastive learning approach for clustering prenatal ultrasound images (best reviews)
-- paper 7: Charton, Ren, Kim, Gonzalez, Khambhati, Cheng, DeFrancesco, Waheed, Marciniak, Moura, Cardoso, Lima, Picard, Li, Li: Multi-task Learning for Hierarchically-Structured Images: Study on Echocardiogram View Classification (best reviews runner up)
+- paper 6: Prieto, Benabdelkader, Pokaprakarn, Shah, Sebastião, Dan, Almnini, Diaz, Chari, Chi, Stringer, Stringer: SimNorth: A novel contrastive learning approach for clustering prenatal ultrasound images 
+- paper 7: Charton, Ren, Kim, Gonzalez, Khambhati, Cheng, DeFrancesco, Waheed, Marciniak, Moura, Cardoso, Lima, Picard, Li, Li: Multi-task Learning for Hierarchically-Structured Images: Study on Echocardiogram View Classification 
 - paper 8: Tafuro, Jansen, Išgum: Temporally consistent segmentations from sparsely labeled echocardiograms using image registration for pseudo-labels generation
 
 lunch at 12:30-13:30
