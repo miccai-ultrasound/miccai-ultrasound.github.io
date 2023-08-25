@@ -92,9 +92,9 @@ lumpectomy with SlicerROS2](https://miccai-ultrasound.github.io/files/Connolly_M
 - Ultromics: [EchoGo Precision HFpEF detection](https://thinksono.com/)
 - ThinkSono: [DVT detection at the front line of care](https://thinksono.com/)
 - ImFusion: [ImFusion Suite for Ultrsound image analysis](https://www.imfusion.com/products/imfusion-suite)
- 
+
 10:30 - 11:30: *keynote address Prof. Mirabela Rusu*
- 
+
 11:30 - 12:30 (12 + 3 min) *Contrastive Learning, and Multi-Task Innovations*
 - paper 5: Ravishankar, Annangi, Melapudi, Patil, Patil: SonoSAM - Segment Anything on Ultrasound Images
 - paper 6: Prieto, Benabdelkader, Pokaprakarn, Shah, Sebastião, Dan, Almnini, Diaz, Chari, Chi, Stringer, Stringer: SimNorth: A novel contrastive learning approach for clustering prenatal ultrasound images 
