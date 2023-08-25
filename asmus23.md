@@ -86,11 +86,11 @@ All times are in "anywhere on earth".
 
 10:00 - 10:30: *coffee break, live demos, and poster session*
 *Demos:*
-Connolly, Deguet,  Ungi, Kumar, Lasso, Sunderland, Kazanzides, Krieger, Tokuda, Leonard, Fichtinger, Mousavi, and Taylor: [Haptic feedback and ultrasound guidance for
-lumpectomy with SlicerROS2]()
-Ultromics: [EchoGo Precision HFpEF detection](https://thinksono.com/)
-ThinkSono: [DVT detection at the front line of care](https://thinksono.com/)
-ImFusion: [ImFusion Suite for Ultrsound image analysis](https://www.imfusion.com/products/imfusion-suite)
+- Connolly, Deguet,  Ungi, Kumar, Lasso, Sunderland, Kazanzides, Krieger, Tokuda, Leonard, Fichtinger, Mousavi, and Taylor: [Haptic feedback and ultrasound guidance for
+lumpectomy with SlicerROS2](https://miccai-ultrasound.github.io/files/Connolly_MICCAI_ASMUS_demo_v1.pdf)
+- Ultromics: [EchoGo Precision HFpEF detection](https://thinksono.com/)
+- ThinkSono: [DVT detection at the front line of care](https://thinksono.com/)
+- ImFusion: [ImFusion Suite for Ultrsound image analysis](https://www.imfusion.com/products/imfusion-suite)
  
 10:30 - 11:30: *keynote address Prof. Mirabela Rusu*
  
@@ -99,6 +99,8 @@ ImFusion: [ImFusion Suite for Ultrsound image analysis](https://www.imfusion.com
 - paper 6: Prieto, Benabdelkader, Pokaprakarn, Shah, Sebastião, Dan, Almnini, Diaz, Chari, Chi, Stringer, Stringer: SimNorth: A novel contrastive learning approach for clustering prenatal ultrasound images 
 - paper 7: Charton, Ren, Kim, Gonzalez, Khambhati, Cheng, DeFrancesco, Waheed, Marciniak, Moura, Cardoso, Lima, Picard, Li, Li: Multi-task Learning for Hierarchically-Structured Images: Study on Echocardiogram View Classification 
 - paper 8: Tafuro, Jansen, Išgum: Temporally consistent segmentations from sparsely labeled echocardiograms using image registration for pseudo-labels generation
+
+12:30 - 12:40 *Closing Remarks and Prizes*
 
 lunch at 12:30-13:30
 
