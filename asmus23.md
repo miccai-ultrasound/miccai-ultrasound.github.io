@@ -89,7 +89,7 @@ All times are in "anywhere on earth".
 *Demos:*
 - Connolly, Deguet,  Ungi, Kumar, Lasso, Sunderland, Kazanzides, Krieger, Tokuda, Leonard, Fichtinger, Mousavi, and Taylor: [Haptic feedback and ultrasound guidance for
 lumpectomy with SlicerROS2](https://miccai-ultrasound.github.io/files/Connolly_MICCAI_ASMUS_demo_v1.pdf)
-- Ultromics: [EchoGo Precision HFpEF detection](https://thinksono.com/)
+- Ultromics: [EchoGo Precision HFpEF detection](https://www.ultromics.com/products/echogo-heart-failure)
 - ThinkSono: [DVT detection at the front line of care](https://thinksono.com/)
 - ImFusion: [ImFusion Suite for Ultrsound image analysis](https://www.imfusion.com/products/imfusion-suite)
 
