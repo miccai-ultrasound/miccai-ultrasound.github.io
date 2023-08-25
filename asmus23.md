@@ -85,6 +85,7 @@ All times are in "anywhere on earth".
 - paper l11: Gonzalez Duque, Velikova, Navab, Mateus, Zirus: Can ultrasound confidence maps predict sonogaphers labeling variability?
 
 10:00 - 10:30: *coffee break, live demos, and poster session*
+
 *Demos:*
 - Connolly, Deguet,  Ungi, Kumar, Lasso, Sunderland, Kazanzides, Krieger, Tokuda, Leonard, Fichtinger, Mousavi, and Taylor: [Haptic feedback and ultrasound guidance for
 lumpectomy with SlicerROS2](https://miccai-ultrasound.github.io/files/Connolly_MICCAI_ASMUS_demo_v1.pdf)
