@@ -85,6 +85,12 @@ All times are in "anywhere on earth".
 - paper l11: Gonzalez Duque, Velikova, Navab, Mateus, Zirus: Can ultrasound confidence maps predict sonogaphers labeling variability?
 
 10:00 - 10:30: *coffee break, live demos, and poster session*
+*Demos:*
+Connolly, Deguet,  Ungi, Kumar, Lasso, Sunderland, Kazanzides, Krieger, Tokuda, Leonard, Fichtinger, Mousavi, and Taylor: [Haptic feedback and ultrasound guidance for
+lumpectomy with SlicerROS2]()
+Ultromics: [EchoGo Precision HFpEF detection](https://thinksono.com/)
+ThinkSono: [DVT detection at the front line of care](https://thinksono.com/)
+ImFusion: [ImFusion Suite for Ultrsound image analysis](https://www.imfusion.com/products/imfusion-suite)
  
 10:30 - 11:30: *keynote address Prof. Mirabela Rusu*
  
