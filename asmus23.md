@@ -82,7 +82,7 @@ All times are in "anywhere on earth".
 - paper l8: Thomas, Tiago , Andreassen, Aase, Sprem, Steen, Solberg, Ben-Yosef: Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach
 - paper l9: Zhou, Knight, Felfeliyan, Gosh, Alves-Pereira, Keen, Hareendranathan, Jaremko: Self-supervised learning to more efficiently generate segmentation masks for wrist ultrasound
 - paper l10: Adhikari, Dhakal, Thapaliya, Bhandari, Poudel, Khanal: Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography
-- paper l11: Gonzalez Duque, Velikova, Navab, Mateus, Zirus: Can ultrasound confidence maps predict sonogaphers labeling variability?
+- paper l11: Gonzalez Duque, Zirus, Velikova, Navab, Mateus: Can ultrasound confidence maps predict sonogaphers labeling variability?
 
 10:00 - 10:30: *coffee break, live demos, and poster session*
 
