@@ -6,25 +6,24 @@
 
 **The 4th International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with [MICCAI 2023](https://conferences.miccai.org/2023/), the 26th International Conference on Medical Image Computing and Computer Assisted Intervention.**
 
-**ASMUS is the offical workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
+**ASMUS is the official workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
-> **The ASMUS Workshop is schedule to be held on October 8th. Stay tuned for a detailed program!**
+**The ASMUS Workshop will be held on October 8th. See you there!**
 
-> Proceedings of the 4th International Workshop of Advances in Simplifying Medical Ultrasound (ASMUS) will be available free of charge for ASMUS participants after the events.
+> **The workshop proceedings will be published before the conference starts [https://link.springer.com/book/10.1007/978-3-031-44521-7](https://link.springer.com/book/10.1007/978-3-031-44521-7). Workshop attendees can access the proceedings until the four weeks after the conference.**
+
 
 ## Call for Papers
 
-Papers will consist of maximum 8 pages (text, figures and tables) + up to 2 pages for references only. They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double blind review. Information on submission to follow.
+Papers will consist of a maximum 8 pages (text, figures, and tables) + up to 2 pages for references only. They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double-blind review. Information on submission to follow.
 
-The papers will be evaluated by external reviewers and our organizing committee for inclusion in the workshop as a presentation (oral or poster). Accepted full-length manuscripts will be published with Springer LNCS and the best papers will be selected for industry-sponsored awards. Original research contributions are invited. Proof-of-concept research from novel research directions is also encouraged.
+The papers will be evaluated by external reviewers and our organizing committee for inclusion in the workshop as a presentation (oral or poster). Accepted full-length manuscripts will be published with Springer LNCS, and the best papers will be selected for industry-sponsored awards. Original research contributions are invited. Proof-of-concept research from novel research directions is also encouraged.
 
-One of the popular features of ASMUS, live demonstrations, will return for ASMUS 2023. Capitalising on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional and robotics areas. All accepted papers will be offered the option to present a live demonstration.
+One of the popular features of ASMUS, live demonstrations, will return for ASMUS 2023. Capitalising on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional, and robotics areas. All accepted papers will be offered the option to present a live demonstration.
 
-You may start the submission process at [Springer Nature EquinOCS](https://equinocs.springernature.com/service/ASMUS2023). E-Mail registration required prior to submission, which can be accessed by clicking the "Submit now" button on the previous link. If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or via E-Mail.
+You may start the submission process at [Springer Nature EquinOCS](https://equinocs.springernature.com/service/ASMUS2023). E-mail registration is required prior to submission, which can be accessed by clicking the "Submit now" button on the previous link. If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or via E-Mail.
 
-
-
-In this exciting era for medical ultrasound, recent developments in deep learning (artificial intelligence) and medical robotics have started to show clinically measurable improvement in assisting ultrasound examinations, ultrasound-guided interventions and surgery. This year, ASMUS is soliciting submissions, including work from the following areas:
+In this exciting era for medical ultrasound, recent developments in deep learning (artificial intelligence) and medical robotics have started to show clinically measurable improvement in assisting ultrasound examinations, ultrasound-guided interventions, and surgery. This year, ASMUS is soliciting submissions, including work from the following areas:
 
 ### Ultrasound Assisted by Artificial Intelligence and Medical Robotics:
 - Ultrasound imaging with robotic (automated) assistance
@@ -47,21 +46,21 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 - Sonography data science
 
 
-| Preliminary Workshop Timeline             |                            |
+| Workshop Timeline             |                            |
 | ----------------------------- | -------------------------- |
 | ~~July 3 2023~~ July 10 2023  | Paper Submission Deadline  |
-| July 28 2023 | Reviews Due |
-| ~~July 28 2023~~ August 3 2023 | Notification of Acceptance |
-| August 18 2023                | Camera Ready Submission    |
+| ~~July 28 2023~~ | Reviews Due |
+| ~~July 28 2023~~ ~~August 3 2023~~ | Notification of Acceptance |
+| ~~August 18 2023~~        | Camera Ready Submission    |
 | October 8 2023                | ASMUS Workshop             |
 
 All times are in "anywhere on earth". 
 
 ## Program
 
-**The half day ASMUS workshop will take place on October 8th 2023, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
+**The half-day ASMUS workshop will take place on October 8th 2023, and include live practical technology demonstrations, paper presentations, Q&A sessions, and keynote talks.**
 
-### Preliminary Program
+### Program
 
 07:50-08:00 Introduction (organisers)
  
@@ -115,7 +114,7 @@ lunch at 12:30-13:30
 
 *Abstract:* Despite the advancements in prostate MRI, most prostate biopsies are still performed under the guidance of ultrasound alone. These procedures are imperfect, missing >50% of clinically significant cancers. By comparison, when MRI is utilized in an MRI-Ultrasound guided biopsy, the procedure only misses 12% of cancers. My team’s research has been focusing on using the ubiquitous but noisy b-mode ultrasound images to detect and localize prostate cancer, in approaches that often rely on MRI during the training of the models, but only use b-mode ultrasound images at inference time in new patients. Improving the ability of ultrasound to better show cancer has potential to enable early cancer detection, sparing men of biopsies when they are not needed, and allow for better targeting during local treatment. 
 
-*Bio:* Dr. Mirabela Rusu received her MS and PhD in Computational Biomedicine from University of Texas, Houston, and focused her research on the fusion of biomolecular structural data from different sources (i.e., cryo-electron microscopy and X-ray crystallography). Her postdoctoral training at Rutgers and Case Western Reserve University was focused on developing computational methods for the fusion of medical images, i.e., to register radiology or pathology images, or create population atlases for prostate cancer studies. Following postdoctoral training, Dr. Rusu joined Industry as an Image Analysis Scientist/Lead Engineer. Currently, Dr. Rusu is an Assistant Professor of Radiology, and by courtesy, Urology and Data Science, at Stanford University, where she leads the Personalized Integrative Medicine Laboratory (http://pimed.stanford.edu). Dr. Rusu’s team focuses on developing analytic methods to improve the interpretation of radiology images by taking advantage of existing high-resolution information during training but only needing lower resolution radiology images during inference (e.g., when applied in new patients).  
+*Bio:* Dr. Mirabela Rusu received her MS and PhD in Computational Biomedicine from University of Texas, Houston, and focused her research on the fusion of biomolecular structural data from different sources (i.e., cryo-electron microscopy and X-ray crystallography). Her postdoctoral training at Rutgers and Case Western Reserve University was focused on developing computational methods for the fusion of medical images, i.e., to register radiology or pathology images, or create population atlases for prostate cancer studies. Following postdoctoral training, Dr. Rusu joined Industry as an Image Analysis Scientist/Lead Engineer. Currently, Dr. Rusu is an Assistant Professor of Radiology, and by courtesy, Urology and Data Science, at Stanford University, where she leads the Personalized Integrative Medicine Laboratory (http://pimed.stanford.edu). Dr. Rusu’s team focuses on developing analytic methods to improve the interpretation of radiology images by taking advantage of existing high-resolution information during training but only needing lower-resolution radiology images during inference (e.g., when applied in new patients).  
 
 
 ## Organizers
