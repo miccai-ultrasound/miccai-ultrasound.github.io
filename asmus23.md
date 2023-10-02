@@ -64,7 +64,7 @@ All times are in "anywhere on earth".
 
 07:50-08:00 Introduction (organisers)
  
-08:00 - 09:00 (12 + 3 min): *Segmentation, Predictions, and Automated Assessments*
+08:00 - 09:00 (12 + 3 min): *Segmentation, predictions, and automated assessments*
 - paper 1: Zhao, Men, Gleed, Papageorghiou, Noble: Ultrasound Video Segmentation with Adaptive Temporal Memory
 - paper 2: Pegios, Pi Fogtmann Sejer, Bashir, Bo Søndergaard Svendsen, Nielsen, Petersen, Nymark Christensen, Tolsgaard, Feragen, Lin: Leveraging Shape and Spatial Information for Spontaneous Preterm Birth Prediction 
 - paper 3: Wong, Raheli, Bashir, Svendsen, Tolsgaard, Feragen, Christensen, Lin: An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery
@@ -83,7 +83,7 @@ All times are in "anywhere on earth".
 - paper l10: Adhikari, Dhakal, Thapaliya, Bhandari, Poudel, Khanal: Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography
 - paper l11: Gonzalez Duque, Zirus, Velikova, Navab, Mateus: Can ultrasound confidence maps predict sonogaphers labeling variability?
 
-10:00 - 10:30: *coffee break, live demos, and poster session*
+10:00 - 10:30: *Coffee break, live demos, and poster session*
 
 *Demos:*
 - Connolly, Deguet,  Ungi, Kumar, Lasso, Sunderland, Kazanzides, Krieger, Tokuda, Leonard, Fichtinger, Mousavi, and Taylor: [Haptic feedback and ultrasound guidance for
@@ -93,7 +93,7 @@ lumpectomy with SlicerROS2](https://miccai-ultrasound.github.io/files/Connolly_M
 - ThinkSono: [DVT detection at the front line of care](https://thinksono.com/)
 - ImFusion: [ImFusion Suite for Ultrsound image analysis](https://www.imfusion.com/products/imfusion-suite)
 
-10:30 - 11:30: *keynote address Prof. Mirabela Rusu*
+10:30 - 11:30: *Keynote address by Prof. Mirabela Rusu*
 
 11:30 - 12:30 (12 + 3 min) *Contrastive Learning, and Multi-Task Innovations*
 - paper 5: Ravishankar, Annangi, Melapudi, Patil, Patil: SonoSAM - Segment Anything on Ultrasound Images
@@ -101,7 +101,7 @@ lumpectomy with SlicerROS2](https://miccai-ultrasound.github.io/files/Connolly_M
 - paper 7: Charton, Ren, Kim, Gonzalez, Khambhati, Cheng, DeFrancesco, Waheed, Marciniak, Moura, Cardoso, Lima, Picard, Li, Li: Multi-task Learning for Hierarchically-Structured Images: Study on Echocardiogram View Classification 
 - paper 8: Tafuro, Jansen, Išgum: Temporally consistent segmentations from sparsely labeled echocardiograms using image registration for pseudo-labels generation
 
-12:30 - 12:40 *Closing Remarks and Prizes*
+12:30 - 12:50 *Closing remarks, challenge, and prizes*
 
 lunch at 12:30-13:30
 
