@@ -66,8 +66,8 @@ All times are in "anywhere on earth".
  
 08:00 - 09:00 (12 + 3 min): *Segmentation, predictions, and automated assessments*
 - paper 1: Zhao, Men, Gleed, Papageorghiou, Noble: Ultrasound Video Segmentation with Adaptive Temporal Memory
-- paper 2: Pegios, Pi Fogtmann Sejer, Bashir, Bo Søndergaard Svendsen, Nielsen, Petersen, Nymark Christensen, Tolsgaard, Feragen, Lin: Leveraging Shape and Spatial Information for Spontaneous Preterm Birth Prediction 
-- paper 3: Wong, Raheli, Bashir, Svendsen, Tolsgaard, Feragen, Christensen, Lin: An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery
+- paper 2: Pegios, Pi Fogtmann Sejer, Lin, Bashir, Bo Søndergaard Svendsen, Nielsen, Petersen, Nymark Christensen, Tolsgaard, Feragen: Leveraging Shape and Spatial Information for Spontaneous Preterm Birth Prediction 
+- paper 3: Wong, Lin, Raheli, Bashir, Svendsen, Tolsgaard, Feragen, Christensen: An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery
 - paper 4: Benjamin, Asokan, Alhosani, Alasmawi, Diehl, Bricker, Nandakumar, Yaqub: Leveraging Self-Supervised Learning for Fetal Cardiac Planes Classification using Ultrasound Scan Videos
 
 09:00 - 10:00 *Poster lightning talks (5 min)*
