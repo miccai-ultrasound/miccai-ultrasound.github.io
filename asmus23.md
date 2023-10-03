@@ -62,15 +62,15 @@ All times are in "anywhere on earth".
 
 ### Program
 
-07:50-08:00 Introduction (organisers)
+07:50-08:00 Introduction
  
-08:00 - 09:00 (12 + 3 min): *Segmentation, predictions, and automated assessments*
+08:00 - 09:00 (12 + 3 min): *Segmentation, predictions, and automated assessments* (Bernhard Kainz, Alberto Gomez)
 - paper 1: Zhao, Men, Gleed, Papageorghiou, Noble: Ultrasound Video Segmentation with Adaptive Temporal Memory
 - paper 2: Pegios, Pi Fogtmann Sejer, Lin, Bashir, Bo Søndergaard Svendsen, Nielsen, Petersen, Nymark Christensen, Tolsgaard, Feragen: Leveraging Shape and Spatial Information for Spontaneous Preterm Birth Prediction 
 - paper 3: Wong, Lin, Raheli, Bashir, Svendsen, Tolsgaard, Feragen, Christensen: An Automatic Guidance and Quality Assessment System for Doppler Imaging of Umbilical Artery
 - paper 4: Benjamin, Asokan, Alhosani, Alasmawi, Diehl, Bricker, Nandakumar, Yaqub: Leveraging Self-Supervised Learning for Fetal Cardiac Planes Classification using Ultrasound Scan Videos
 
-09:00 - 10:00 *Poster lightning talks (5 min)*
+09:00 - 10:00 *Poster lightning talks (5 min)* (Bernhard Kainz, Alberto Gomez)
 - paper l1: Singla, Ringstrom, Hu, Lessoway, Reid, Nguan, Rohlign: The Open Kidney Ultrasound Data Set
 - paper l2: Ng, Gao, Mohammed Furqan, Yeo, Lau, Ngiam, Khoo: HoloPOCUS: Mixed Reality 3D Ultrasound Reconstruction and Overlay
 - paper l3: Bhattacharya, Vesal, Jahanandish, Choi, Zhou, Kornberg, Sommer, Fan, Brooks, Sonn, Rusu: MIC-CUSP: Multimodal Image Correlations for Ultrasound-based Prostate Cancer Detection
@@ -83,7 +83,7 @@ All times are in "anywhere on earth".
 - paper l10: Adhikari, Dhakal, Thapaliya, Bhandari, Poudel, Khanal: Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography
 - paper l11: Gonzalez Duque, Zirus, Velikova, Navab, Mateus: Can ultrasound confidence maps predict sonogaphers labeling variability?
 
-10:00 - 10:30: *Coffee break, live demos, and poster session*
+10:00 - 10:30: *Coffee break, live demos, and poster session* (Matthew Baugh, Johanna Müller)
 
 *Demos:*
 - Connolly, Deguet,  Ungi, Kumar, Lasso, Sunderland, Kazanzides, Krieger, Tokuda, Leonard, Fichtinger, Mousavi, and Taylor: [Haptic feedback and ultrasound guidance for
@@ -93,17 +93,17 @@ lumpectomy with SlicerROS2](https://miccai-ultrasound.github.io/files/Connolly_M
 - ThinkSono: [DVT detection at the front line of care](https://thinksono.com/)
 - ImFusion: [ImFusion Suite for Ultrsound image analysis](https://www.imfusion.com/products/imfusion-suite)
 
-10:30 - 11:30: *Keynote address by Prof. Mirabela Rusu*
+10:30 - 11:30: *Keynote address by Prof. Mirabela Rusu* (Alison Noble, Purang Abolmaesumi)
 
-11:30 - 12:30 (12 + 3 min) *Contrastive Learning, and Multi-Task Innovations*
+11:30 - 12:30 (12 + 3 min) *Contrastive Learning, and Multi-Task Innovations* (Alison Noble, Purang Abolmaesumi)
 - paper 5: Ravishankar, Annangi, Melapudi, Patil, Patil: SonoSAM - Segment Anything on Ultrasound Images
 - paper 6: Prieto, Benabdelkader, Pokaprakarn, Shah, Sebastião, Dan, Almnini, Diaz, Chari, Chi, Stringer, Stringer: SimNorth: A novel contrastive learning approach for clustering prenatal ultrasound images 
 - paper 7: Charton, Ren, Kim, Gonzalez, Khambhati, Cheng, DeFrancesco, Waheed, Marciniak, Moura, Cardoso, Lima, Picard, Li, Li: Multi-task Learning for Hierarchically-Structured Images: Study on Echocardiogram View Classification 
 - paper 8: Tafuro, Jansen, Išgum: Temporally consistent segmentations from sparsely labeled echocardiograms using image registration for pseudo-labels generation
 
-12:30 - 12:50 *Closing remarks, challenge, and prizes*
+12:30 - 12:50 *Closing remarks, challenge, and prizes* 
 
-lunch at 12:30-13:30
+Lunch at 12:30-13:30
 
 ## Keynote Speaker
 
@@ -125,11 +125,11 @@ lunch at 12:30-13:30
 
 ### Organising Committee
 * Alison Noble (University of Oxford, UK)
-* Stephen Aylward (Kitware, USA)
+* Stephen Aylward (Kitware, US)
 * Yipeng Hu (University College London, UK)
 * Purang Abolmaesumi (University of British Columbia, CA)
 * Dong Ni (Shenzhen University, CN)
-* Emad Boctor (Johns Hopkins University, USA)
+* Emad Boctor (Johns Hopkins University, US)
 * Andy King (King’s College London, UK)
 * Ana Namburete (University of Oxford, UK)
 * Thomas van den Heuvel (Radboud University, NL)
@@ -140,17 +140,17 @@ lunch at 12:30-13:30
 
 ### Delivery Team
 * Thomas Day (King’s College London, UK)
-* Mischa Dombrowski (FAU Erlangen-Nürnberg)
-* Johanna Mueller (FAU Erlangen-Nürnberg)
-* Matthew Baugh (Imperial College London)
-* Zachary Baum (University College London)
+* Mischa Dombrowski (FAU Erlangen-Nürnberg, DE)
+* Johanna Mueller (FAU Erlangen-Nürnberg, DE)
+* Matthew Baugh (Imperial College London, UK)
+* Zachary Baum (University College London, UK)
 
 ### Advisory Board
 
-* Gabor Fichtinger (Queen’s University, Canada)
+* Gabor Fichtinger (Queen’s University, CA)
 * Kawal Rhode (King’s College London, UK)
 * Russ Taylor (Johns Hopkins University, USA)
-* Chris de Korte (Radboud University Nijmegen, Netherlands)
-* Nassir Navab (Technical University of Munich, Germany)
+* Chris de Korte (Radboud University Nijmegen, NL)
+* Nassir Navab (Technical University of Munich, DE)
 * Reza Razavi (King’s College London, UK)
 * Joseph V. Hajnal (King’s College London, UK)
