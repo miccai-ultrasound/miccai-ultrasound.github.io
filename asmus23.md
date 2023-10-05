@@ -118,7 +118,7 @@ Lunch at 12:30-13:30
 
 ## Challenge 
 
-### µ-RegPro Challenge [(Link)](https://muregpro.github.io/)
+### [µ-RegPro Challenge](https://muregpro.github.io/)
 Multimodal image registration between pre-operative and intra-operative imaging enables the fusion of clinically important information during many surgical and interventional tasks. The registration of magnetic resonance imaging (MR) and transrectal ultrasound (TRUS) images assists prostate biopsy and focal therapy, arguably having transformed prostate cancer patient care to a less invasive and more localized diagnostic, monitoring and treatment pathway. Though, even with great progress having been made by the community in the past two decades, challenges remain in this application. 
 The µ-RegPro challenge aims to provide well-curated, yet real-world clinical data, with more than a hundred paired MR and TRUS images, annotated carefully by researchers and clinicians with more than 15 years of experience working with this application. The outcome of the challenge includes one of the first multimodal imaging datasets, facilitated with expert annotations for validation, for benchmarking advancement in registration methodologies, as well as for future research in managing the most common non-skin cancer in men.
 The outcome of this challenge is the development of a method which produces an accurate alignment of the prostate gland and other anatomical structures, such as those provided as landmarks for localizing relevant anatomical and potentially pathological targets during guided prostate biopsies, and for treatment/intervention planning or decision support. 
