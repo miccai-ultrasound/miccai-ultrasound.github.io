@@ -4,7 +4,8 @@
  <img src="im/asmus.png" height=150px>
 </div>
 
-> **The ASMUS Workshop will be held on October 8th at 8 a.m. in Meeting Room 8 at Level 1. See you there!**
+> **The ASMUS Workshop will be held on October 8th at 8 a.m. in Meeting Room 8 at Level 1. You can also [join virtually](https://miccai2023.conflux.events/app/schedule/session/3317). See you there!**
+> 
 
 **The 4th International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with [MICCAI 2023](https://conferences.miccai.org/2023/), the 26th International Conference on Medical Image Computing and Computer Assisted Intervention.**
 
