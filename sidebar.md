@@ -1,2 +1,2 @@
-- [ASMUS '23](asmus23)
+- [ASMUS '24](asmus24)
 - [Past Workshops & More](archive)

@@ -14,7 +14,6 @@ The ASMUS workshop proceedings are published as part of Springer's Lecture Notes
 
 Prizes were awarded in 3 categories: best paper, best demonstration and best presentation. All awards were sponsored by MGI Tech Co Ltd. and the winners are listed below:
 
-
 | Award                          | Winner                                                        |
 | ------------------------------ | ------------------------------------------------------------- |
 | Best Paper                     | Zachary Baum et al. (University College London)               |
@@ -30,9 +29,8 @@ Prizes were awarded in 3 categories: best paper, best demonstration and best pre
 
 #### Assistant Professor, Johns Hopkins University
 
-
-<div align=center>
-  <img style="padding: 20px;" src="im/boctor2020.jpg" height=300px>
+<div style="margin: 20px;" align="center">
+  <img src="im/boctor2020.jpg" height="300" width="300">
 </div>
 
 Emad Boctor is Assistant Professor at the Johns Hopkins Department of Radiology and Radiological Science. His research interests are focused on image-guided interventions using advanced ultrasound and optical imaging techniques. These include photoacoustics, functional NIR methods, ultrasound tomography, thermometry, elastography imaging, and machine learning-based ultrasound reconstruction methods.
@@ -41,8 +39,8 @@ Emad Boctor is Assistant Professor at the Johns Hopkins Department of Radiology 
 
 #### Professor, Norwegian University of Science and Technology
 
-<div align=center>
-  <img style="padding: 20px;" src="im/lovstakken2020.jpg" height=300px>
+<div style="margin: 20px;" align="center">
+  <img src="im/lovstakken2020.jpg" height="300" width="300">
 </div>
 
 Lasse Løvstakken is a Professor at the Norwegian University of Science and Technology Department of Circulation and Medical Imaging. His research interests include high-speed and real-time quantitative medical ultrasound, advanced image formation, visualisation of blood and tissue dynamics, and machine learning.
@@ -50,36 +48,46 @@ Lasse Løvstakken is a Professor at the Norwegian University of Science and Tech
 ## Organizers
 
 ### Chairs
-* Yipeng Hu (Co-chair, University College London, UK) 
-* Alison Noble (Co-chair, University of Oxford, UK) 
-* Stephen Aylward (Co-chair, Kitware, USA) 
+
+- Yipeng Hu (Co-chair, University College London, UK)
+- Alison Noble (Co-chair, University of Oxford, UK)
+- Stephen Aylward (Co-chair, Kitware, USA)
 
 ### Organising Committee
-* Chris de Korte (Radboud University Nijmegen, Netherlands) 
-* Dong Ni (Shenzhen University, China) 
-* Gabor Fichtinger (Queen’s University, Canada) 
-* Jan d’Hooge (KU Leuven, Belgium) 
-* Kawal Rhode (King’s College London, UK) 
-* Nassir Navab (Technical University of Munich, Germany) 
-* Purang Abolmaesumi (University of British Columbia, Canada) 
-* Russ Taylor (Johns Hopkins University, USA) 
-* Su-Lin Lee (University College London, UK) 
+
+- Chris de Korte (Radboud University Nijmegen, Netherlands)
+- Dong Ni (Shenzhen University, China)
+- Gabor Fichtinger (Queen’s University, Canada)
+- Jan d’Hooge (KU Leuven, Belgium)
+- Kawal Rhode (King’s College London, UK)
+- Nassir Navab (Technical University of Munich, Germany)
+- Purang Abolmaesumi (University of British Columbia, Canada)
+- Russ Taylor (Johns Hopkins University, USA)
+- Su-Lin Lee (University College London, UK)
 
 ### Program Chair
-* Alex Grimwood (University College London, UK)
+
+- Alex Grimwood (University College London, UK)
 
 ### Demonstrations Chair
-* Zachary Baum (University College London, UK)
+
+- Zachary Baum (University College London, UK)
 
 ## Sponsorship
 
-<div align=center>
-  <a href="https://en.mgi-tech.com/" target="_blank"><img style="padding: 20px;" src="im/mgi.png" height=150px></a>
-  <a href="https://www.ucl.ac.uk/interventional-surgical-sciences/" target="_blank"><img style="padding: 20px;" src="im/weiss.png" height=150px></a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://en.mgi-tech.com/" target="_blank">
+    <img  src="im/mgi.png" width="321" height="110">
+  </a>
+  <a href="https://www.ucl.ac.uk/interventional-surgical-sciences/" target="_blank">
+    <img  src="im/weiss.png" width="323" height="110">
+  </a>
 </div>
 
 ---
 
-<div align=center>
-  <a href="https://www.miccai2020.org/" target="_blank"><img style="padding: 20px;" src="im/miccai2020.png" height=125px></a>
+<div margin="20px" align="center">
+  <a href="https://www.miccai2020.org/" target="_blank">
+    <img  src="im/miccai2020.png" width="196"  height="85">
+  </a>
 </div>
