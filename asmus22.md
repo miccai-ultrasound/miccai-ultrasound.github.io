@@ -157,7 +157,7 @@ In this talk, Ryan will discuss what it was like to form a startup company based
 
 <div style="margin: 20px;" align=center>
   <a href="https://conferences.miccai.org/2022/" target="_blank">
-    <img src="im/miccai2022.jpg" width="204" height="125">
+    <img src="im/miccai2022.png" width="204" height="125">
   </a>
 </div>
 

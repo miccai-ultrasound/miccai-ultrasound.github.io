@@ -20,7 +20,7 @@ Authors of selected best papers will be invited to submit extended versions to a
 
 <div align="center" style="margin: 20px;">
   <a href="https://www.melba-journal.org/" target="_blank">
-    <img src="im/melba.jpg" width="239" height="75">
+    <img src="im/melba.png" width="239" height="75">
   </a>
 </div>
 
@@ -125,7 +125,7 @@ He has more than 100 refereed publications (with h-Index 48), and more than 100 
 #### Senior Product Manager (AI in Healthcare) & MONAI Project Lead, NVIDIA
 
 <div style="margin: 20px;" align="center">
-  <img src="im/dogra2021.png" width="300" height="300">
+  <img src="im/dogra2021.jpg" width="300" height="300">
 </div>
 
 #### _MONAI & Nvidia AGX powered speed of light research prototyping and product development_
