@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -42,7 +42,7 @@
 
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.min.css"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
     />
   </head>
   <body>
@@ -50,22 +50,10 @@
     <script>
       window.$docsify = {
         name: "MICCAI Ultrasound-SIG",
-        nameLink: "https://miccai-ultrasound.github.io/",
-        coverpage: "coverpage.md",
-        onlyCover: false,
-        homepage: "home.md",
-        loadNavbar: false,
-        loadSidebar: "sidebar.md",
+        coverpage: true,
+        loadSidebar: true,
         relativePath: true,
         subMaxLevel: 2,
-        routerMode: "hash",
-        tabs: {
-          persist: true, // default
-          sync: true, // default
-          theme: "classic", // default
-          tabComments: true, // default
-          tabHeadings: true, // default
-        },
       };
     </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
