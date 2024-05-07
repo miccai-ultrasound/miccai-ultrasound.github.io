@@ -99,6 +99,7 @@ Reconstructing 2D Ultrasound (US) images into a 3D volume enables 3D representat
 - Wolfgang Wein (ImFusion, DE)
 - Parvin Mousavi (Queen’s University, CA)
 - Veronika Zimmer (Technical University of Munich, DE)
+- Qingjie Meng (University of Birmingham, UK)
 
 ### Delivery Team
 
