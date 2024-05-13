@@ -50,8 +50,8 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 | June 24th 2024    | Paper Submission Deadline  |
 | To be confirmed   | Reviews Due                |
 | July 15th 2024    | Notification of Acceptance |
-| To be confirmed   | Camera Ready Submission    |
-| To be confirmed   | ASMUS Workshop             |
+| August 1st 2024   | Camera Ready Submission    |
+| October 6th 2024  | ASMUS Workshop             |
 
 All times are in "anywhere on earth".
 
