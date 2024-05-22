@@ -12,7 +12,7 @@
 
 ## Call for Papers
 
-Papers will consist of a maximum 8 pages (text, figures, and tables) + up to 2 pages for references only. They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double-blind review.
+Papers will consist of a maximum 8 pages (text, figures, and tables) + up to 2 pages for references only. They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double-blind review. The workshop sessions (oral and posters) will be held in-person only, and by submitting a paper authors commit to presenting them in-person if accepted for publication.
 
 The papers will be evaluated by external reviewers and our organizing committee for inclusion in the workshop as a presentation (oral or poster). Accepted full-length manuscripts will be published with Springer LNCS, and the best papers will be selected for industry-sponsored awards. Original research contributions are invited. Proof-of-concept research from novel research directions is also encouraged. This year, with MICCAI being held for the first time in Africa, we particularly encourage submission of research aimed at addressing problems specific to Africa and low-and-middle income countries in general.
 
