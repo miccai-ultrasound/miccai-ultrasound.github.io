@@ -12,15 +12,26 @@
 
 ## Call for Papers
 
-Papers will consist of a maximum 8 pages (text, figures, and tables) + up to 2 pages for references only. They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double-blind review. The workshop sessions (oral and posters) will be held in-person only, and by submitting a paper authors commit to presenting them in-person if accepted for publication.
+Papers will consist of a maximum of 8 pages (text, figures, and tables) + up to 2 pages for references only.
+They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double-blind review.
+The workshop sessions (oral and posters) will be held in person only, and by submitting a paper authors commit to presenting them in person if accepted for publication.
 
-The papers will be evaluated by external reviewers and our organizing committee for inclusion in the workshop as a presentation (oral or poster). Accepted full-length manuscripts will be published with Springer LNCS, and the best papers will be selected for industry-sponsored awards. Original research contributions are invited. Proof-of-concept research from novel research directions is also encouraged. This year, with MICCAI being held for the first time in Africa, we particularly encourage submission of research aimed at addressing problems specific to Africa and low-and-middle income countries in general.
+The papers will be evaluated by external reviewers and our organizing committee for inclusion in the workshop as a presentation (oral or poster).
+Accepted full-length manuscripts will be published with Springer LNCS, and the best papers will be selected for industry-sponsored awards.
+Original research contributions are invited.
+Proof-of-concept research from novel research directions is also encouraged.
+This year, with MICCAI being held for the first time in Africa, we particularly encourage the submission of research to address problems specific to Africa and low- and middle-income countries.
 
-One of the popular features of ASMUS, live demonstrations, will return for ASMUS 2024. Capitalising on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional, and robotics areas. All accepted papers will be offered the option to present a live demonstration.
+One of the popular features of ASMUS, live demonstrations, will return for ASMUS 2024.
+Capitalizing on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional, and robotics areas.
+All accepted papers will be offered the option to present a live demonstration.
 
-You may start the submission process at [Springer Nature EquinOCS](https://equinocs.springernature.com/service/ASMUS2024). E-mail registration is required prior to submission, which can be accessed by clicking the "Submit now" button on the previous link. If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or via E-Mail.
+You may start submitting the papers at [Springer Nature EquinOCS](https://equinocs.springernature.com/service/ASMUS2024).
+E-mail registration is required before submission, which can be accessed by clicking the "Submit now" button on the previous link.
+If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or E-Mail.
 
-In this exciting era for medical ultrasound, recent developments in deep learning (artificial intelligence) and medical robotics have started to show clinically measurable improvement in assisting ultrasound examinations, ultrasound-guided interventions, and surgery. This year, ASMUS is soliciting submissions, including work from the following areas:
+In this exciting era for medical ultrasound, recent developments in deep learning (artificial intelligence) and medical robotics have started showing clinically measurable improvement in assisting ultrasound examinations, ultrasound-guided interventions, and surgery.
+This year, ASMUS is soliciting submissions, including work from the following areas:
 
 ### Ultrasound Assisted by Artificial Intelligence and Medical Robotics:
 
@@ -48,7 +59,7 @@ In this exciting era for medical ultrasound, recent developments in deep learnin
 | Workshop Timeline |                            |
 | ----------------- | -------------------------- |
 | June 24th 2024    | Paper Submission Deadline  |
-| To be confirmed   | Reviews Due                |
+| July 10th 2024    | Reviews Due                |
 | July 15th 2024    | Notification of Acceptance |
 | August 1st 2024   | Camera Ready Submission    |
 | October 6th 2024  | ASMUS Workshop             |
@@ -75,7 +86,10 @@ _Bio:_ To be confirmed
 
 ### [Trackerless 3D Freehand Ultrasound Reconstruction Challenge](https://github-pages.ucl.ac.uk/tus-rec-challenge/)
 
-Reconstructing 2D Ultrasound (US) images into a 3D volume enables 3D representations of anatomy to be generated which are beneficial to a wide range of downstream tasks such as quantitative biometric measurement, multimodal registration, 3D visualisation and interventional guidance. Although substantive progress has been made recently through non-deep-learning- and deep-learning-based approaches, this application is still challenging due to 1) inherent accumulated error - frame-to-frame transformation error will be accumulated through time when reconstructing long sequence of US frames, and 2) a lack of publicly-accessible data with synchronised spatial location, often obtained from tracking devices, for benchmarking the performance and for training learning-based methods. The TUS-REC challenge aims to provide a benchmark for freehand US reconstruction with publicly available in vivo US data from forearms of one hundred volunteers, using multiple predefined scanning protocols, targeted at improving the reconstruction performance in this challenging task. The outcome of the challenge includes 1) open-sourcing the first largest tracked US datasets with accurate positional information; 2) establishing one of the first benchmarks for 3D US reconstruction, suitable for modern learning-based data-driven approaches.
+Reconstructing 2D Ultrasound (US) images into a 3D volume enables 3D representations of anatomy to be generated which are beneficial to a wide range of downstream tasks such as quantitative biometric measurement, multimodal registration, 3D visualization, and interventional guidance.
+Although substantive progress has been made recently through non-deep-learning- and deep-learning-based approaches, this application is still challenging due to 1) inherent accumulated error - frame-to-frame transformation error will be accumulated through time when reconstructing long sequence of US frames, and 2) a lack of publicly-accessible data with synchronized spatial location, often obtained from tracking devices, for benchmarking the performance and for training learning-based methods.
+The TUS-REC challenge aims to provide a benchmark for freehand US reconstruction with publicly available in vivo US data from the forearms of one hundred volunteers, using multiple predefined scanning protocols, targeted to improve the reconstruction performance in this challenging task.
+The outcome of the challenge includes 1) open-sourcing the first largest tracked US datasets with accurate positional information; and 2) establishing one of the first benchmarks for 3D US reconstruction, suitable for modern learning-based data-driven approaches.
 
 ## Organizers
 
