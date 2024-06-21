@@ -58,7 +58,7 @@ This year, ASMUS is soliciting submissions, including work from the following ar
 
 | Workshop Timeline |                            |
 | ----------------- | -------------------------- |
-| June 24th 2024    | Paper Submission Deadline  |
+| June 28th 2024    | Paper Submission Deadline  |
 | July 10th 2024    | Reviews Due                |
 | July 15th 2024    | Notification of Acceptance |
 | August 1st 2024   | Camera Ready Submission    |
