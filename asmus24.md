@@ -75,11 +75,11 @@ All times are in "anywhere on earth".
 
 ![Youssef Bouyakhf](im/Youssef.jpeg)
 
-_Title:_ To be confirmed
+_Title:_ Democratizing access to quality prenatal ultrasound scans: Combining blind sweeps and Point of Care (POC) Ultrasound, how promising is the approach?
 
 _Abstract:_ To be confirmed
 
-_Bio:_ To be confirmed
+_Bio:_ Born and raised in Morocco, Youssef has studied in France and received a double degree Master in Engineering and Business between French Grandes Ecole, Ecole Centrale Paris and ESSEC Business School. After a few years in Investment Banking in London, Youssef has shifted his focus more on building new ventures than investing in established ones. He has been part of the founding Team of AIOX Labs, the spin of the first AI Lab in Morocco, Mohamed V Artificial Intelligence Lab, LIMIARF. Since then AIOX Labs has given birth to many project including DeepEcho, an AI for Medial Imaging start-up focusing on improving prenatal care. Youssef Bouyakhf is currently the CEO of DeepEcho who is a building an innovative solution to help clinicians improve fetal ultrasound diagnosis.
 
 ## Challenge
 
