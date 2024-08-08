@@ -80,23 +80,23 @@ All times are in "anywhere on earth".
 - Posters:
   - De Vyver at al, Regional quality estimation for echocardiography using deep learning
   - Colussi et al, LoRIS - Weakly-supervised Anomaly Detection for Ultrasound Images 
- - Salmanpour et al, Do High-Performance Image-to-Image Translation Networks Enable the Discovery of Radiomic Features? Application to MRI Synthesis from Ultrasound in Prostate Cancer 
- - Leenings et al, C-TRUS: A Novel Dataset and Initial Benchmark For Colon Wall Segmentation in Transabdominal Ultrasound 
- - Islam et al, Label Dropout: Improved Deep Learning Echocardiography Segmentation Using Multiple Datasets With Domain Shift and Partial Labelling 
- - Szijártó et al, Masked autoencoders for medical ultrasound videos using ROI-aware masking 
- - Chen et al, PIPsUS: Self-Supervised Point Tracking in Ultrasound 
- - Olsen et al, Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models 
- - Kafaei Zad Tehrani et al, Unsupervised Physics-Inspired Shear Wave Speed Estimation in Ultrasound Elastography 
- - Vassallo et al, Simplifying Prostate Elastography Using Micro-Ultrasound and Transfer Function Imaging 
- - Alomar et al, Automatic facial axes standardization of 3D fetal ultrasound images 
+  - Salmanpour et al, Do High-Performance Image-to-Image Translation Networks Enable the Discovery of Radiomic Features? Application to MRI Synthesis from Ultrasound in Prostate Cancer 
+  - Leenings et al, C-TRUS: A Novel Dataset and Initial Benchmark For Colon Wall Segmentation in Transabdominal Ultrasound 
+  - Islam et al, Label Dropout: Improved Deep Learning Echocardiography Segmentation Using Multiple Datasets With Domain Shift and Partial Labelling 
+  - Szijártó et al, Masked autoencoders for medical ultrasound videos using ROI-aware masking 
+  - Chen et al, PIPsUS: Self-Supervised Point Tracking in Ultrasound 
+  - Olsen et al, Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models 
+  - Kafaei Zad Tehrani et al, Unsupervised Physics-Inspired Shear Wave Speed Estimation in Ultrasound Elastography 
+  - Vassallo et al, Simplifying Prostate Elastography Using Micro-Ultrasound and Transfer Function Imaging 
+  - Alomar et al, Automatic facial axes standardization of 3D fetal ultrasound images 
 Yang et al, Uncertainty-based Multi-modal Learning for Myocardial Infarction Diagnosis using Echocardiography and Electrocardiograms 
- - Gasser et al, Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound 
- - Andreassen et al, Introducing Anatomical Constraints in Mitral Annulus Segmentation in Transesophageal Echocardiography 
- - Li et al, Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images 
- - Léger et al, An Evaluation of Low-Cost Hardware on 3D Ultrasound Reconstruction Accuracy 
- - Banerjee et al, Enhanced Uncertainty Estimation in Ultrasound Image Segmentation with MSU-Net
+  - Gasser et al, Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound 
+  - Andreassen et al, Introducing Anatomical Constraints in Mitral Annulus Segmentation in Transesophageal Echocardiography 
+  - Li et al, Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images 
+  - Léger et al, An Evaluation of Low-Cost Hardware on 3D Ultrasound Reconstruction Accuracy 
+  - Banerjee et al, Enhanced Uncertainty Estimation in Ultrasound Image Segmentation with MSU-Net
 - Demos:
- - TBC
+  - TBC
 
 11:00-11:30 Coffee (posters + demos) 
 
