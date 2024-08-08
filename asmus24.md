@@ -67,16 +67,16 @@ All times are in "anywhere on earth".
 
 ## Program
 
-9:00-9:10 Introduction 
+8:00-8:10 Introduction 
 
-9:10-9:50 Keynote - Youssef Bouyakhf
+8:10-8:50 Keynote - Youssef Bouyakhf
 
-9:50-10:30 Orals 1 – AI Methodology to Simplify Ultrasound
+8:50-9:30 Orals 1 – AI Methodology to Simplify Ultrasound
 - Zhang et al, Fetal Ultrasound Video Representation Learning using Contrastive Rubik’s Cube Recovery 
 - Bransby et al, Multi-Site Class-Incremental Learning with Weighted Experts in Echocardiography 
 - Dulmer et al, PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement 
 
-10:30-11:00 Poster + demo teasers
+9:30-10:00 Poster + demo teasers
 - Posters:
   - De Vyver at al, Regional quality estimation for echocardiography using deep learning
   - Colussi et al, LoRIS - Weakly-supervised Anomaly Detection for Ultrasound Images 
@@ -98,21 +98,21 @@ Yang et al, Uncertainty-based Multi-modal Learning for Myocardial Infarction Dia
 - Demos:
   - TBC
 
-11:00-11:30 Coffee (posters + demos) 
+10:00-10:30 Coffee (posters + demos) 
 
-11:30-11:50 Posters + demos 
+10:30-10:50 Posters + demos 
 
-11:50-12:15 Orals 2 – Simplifying Ultrasound-Guided Interventions
+10:50-11:15 Orals 2 – Simplifying Ultrasound-Guided Interventions
 - Rasheed et al, Intraoperative MR-Ultrasound Image Matching via Texture-invariant Keypoint Descriptors
 - Jiang et al, Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train
 
-12:15-13:00 LMIC panel discussion
+11:15-12:00 LMIC panel discussion
 
-13:00-13:15 TUS-REC Challenge Summary 
+12:00-12:15 TUS-REC Challenge Summary 
 
-13:15-13:20 Open US datasets/models initiative summary
+12:15-12:20 Open US datasets/models initiative summary
 
-13:20-13:30 Closing + awards  
+12:20-12:30 Closing + awards  
 
 ## Keynote Speaker
 
