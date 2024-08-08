@@ -105,7 +105,6 @@ Yang et al, Uncertainty-based Multi-modal Learning for Myocardial Infarction Dia
 11:50-12:15 Orals 2 – Simplifying Ultrasound-Guided Interventions
 - Rasheed et al, Intraoperative MR-Ultrasound Image Matching via Texture-invariant Keypoint Descriptors 
 - Jiang et al, Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train
-
 12:15-13:00 LMIC panel discussion
 
 13:00-13:15 TUS-REC Challenge Summary 
