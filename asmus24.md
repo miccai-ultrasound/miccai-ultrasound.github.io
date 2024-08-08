@@ -63,8 +63,6 @@ This year, ASMUS is soliciting submissions, including work from the following ar
 | August 1st 2024   | Camera Ready Submission    |
 | October 6th 2024  | ASMUS Workshop             |
 
-All times are in "anywhere on earth".
-
 ## Program
 
 8:00-8:10 Introduction 
