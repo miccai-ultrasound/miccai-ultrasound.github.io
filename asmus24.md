@@ -78,8 +78,8 @@ All times are in "anywhere on earth".
 
 10:30-11:00 Poster + demo teasers
 - Posters:
- - De Vyver at al, Regional quality estimation for echocardiography using deep learning 
- - Colussi et al, LoRIS - Weakly-supervised Anomaly Detection for Ultrasound Images 
+  - De Vyver at al, Regional quality estimation for echocardiography using deep learning
+  - Colussi et al, LoRIS - Weakly-supervised Anomaly Detection for Ultrasound Images 
  - Salmanpour et al, Do High-Performance Image-to-Image Translation Networks Enable the Discovery of Radiomic Features? Application to MRI Synthesis from Ultrasound in Prostate Cancer 
  - Leenings et al, C-TRUS: A Novel Dataset and Initial Benchmark For Colon Wall Segmentation in Transabdominal Ultrasound 
  - Islam et al, Label Dropout: Improved Deep Learning Echocardiography Segmentation Using Multiple Datasets With Domain Shift and Partial Labelling 
