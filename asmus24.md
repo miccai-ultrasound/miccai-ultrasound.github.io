@@ -135,17 +135,20 @@ The outcome of the challenge includes 1) open-sourcing the first largest tracked
 
 ## Sponsors
 
+## Sponsors
+
 ### [ImFusion](https://www.imfusion.com/)
-![ImFusion](im/ImFusion_Logo_blue_R0G161B212_black.png)
+<img src="im/ImFusion_Logo_blue_R0G161B212_black.png" alt="ImFusion" width="200"/>
 
 ### [ULTROMICS](https://www.ultromics.com/)
-![ULTROMICS](im/Ultromics_Logo.png)
+<img src="im/Ultromics_Logo.png" alt="ULTROMICS" width="200"/>
 
 ### [FRAIYA](https://fraiya.com/)
-![FRAIYA](im/Logo_dark_fraiya.svg)
+<img src="im/Logo_dark_fraiya.svg" alt="FRAIYA" width="200"/>
 
 ### [ThinkSono](https://thinksono.com/)
-![ThinkSono](im/ThinkSono.svg)
+<img src="im/ThinkSono.svg" alt="ThinkSono" width="200"/>
+
 
 ## Organizers
 
