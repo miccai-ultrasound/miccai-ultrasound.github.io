@@ -190,7 +190,7 @@ The outcome of the challenge includes 1) open-sourcing the first largest tracked
 - Babacar Diao (Cheikh Anta Diop University of Dakar, Senegal)
 
 ## Oral/Poster Presentation Templates
-[Oral Presentation Template - Download Link](https://github.com/miccai-ultrasound/miccai-ultrasound.github.io/blob/main/files/MICCAI2024-Template-Talk.pptx)
+[Oral Presentation Template - Download Link](files/MICCAI2024-Template-Talk.pptx)
 
-[Poster Presentation Template - Download Link](https://github.com/miccai-ultrasound/miccai-ultrasound.github.io/blob/main/files/MICCAI2024-Template-A0-Poster.pdf)
+[Poster Presentation Template - Download Link](files/MICCAI2024-Template-A0-Poster.pdf)
 
