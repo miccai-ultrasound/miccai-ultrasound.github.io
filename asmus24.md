@@ -139,7 +139,7 @@ The outcome of the challenge includes 1) open-sourcing the first largest tracked
 <img src="im/ImFusion_Logo_blue_R0G161B212_black.png" alt="ImFusion" width="300"/>
 
 ### [Ultromics](https://www.ultromics.com/)
-<img src="im/Ultromics_Logo.png" alt="ULTROMICS" width="300"/>
+<img src="im/Ultromics_dark.webp" alt="ULTROMICS" width="300"/>
 
 ### [FRAIYA](https://fraiya.com/)
 <img src="im/Logo_dark_fraiya.svg" alt="FRAIYA" width="300"/>
