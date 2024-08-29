@@ -133,6 +133,10 @@ Although substantive progress has been made recently through non-deep-learning- 
 The TUS-REC challenge aims to provide a benchmark for freehand US reconstruction with publicly available in vivo US data from the forearms of one hundred volunteers, using multiple predefined scanning protocols, targeted to improve the reconstruction performance in this challenging task.
 The outcome of the challenge includes 1) open-sourcing the first largest tracked US datasets with accurate positional information; and 2) establishing one of the first benchmarks for 3D US reconstruction, suitable for modern learning-based data-driven approaches.
 
+## Sponsors
+
+
+
 ## Organizers
 
 ### Chairs
