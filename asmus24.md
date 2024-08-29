@@ -188,3 +188,9 @@ The outcome of the challenge includes 1) open-sourcing the first largest tracked
 - Reza Razavi (King’s College London, UK)
 - Joseph V. Hajnal (King’s College London, UK)
 - Babacar Diao (Cheikh Anta Diop University of Dakar, Senegal)
+
+## Oral/Poster Presentation Templates
+[Oral Presentation Template](files/MICCAI2024-Template-Talk.pptx)
+
+[Poster Presentation Template](files/MICCAI2024-Template-A0-Poster.pdf)
+
