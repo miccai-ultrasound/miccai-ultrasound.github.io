@@ -87,7 +87,7 @@ This year, ASMUS is soliciting submissions, including work from the following ar
   - Kafaei Zad Tehrani et al, Unsupervised Physics-Inspired Shear Wave Speed Estimation in Ultrasound Elastography 
   - Vassallo et al, Simplifying Prostate Elastography Using Micro-Ultrasound and Transfer Function Imaging 
   - Alomar et al, Automatic facial axes standardization of 3D fetal ultrasound images 
-Yang et al, Uncertainty-based Multi-modal Learning for Myocardial Infarction Diagnosis using Echocardiography and Electrocardiograms 
+  - Yang et al, Uncertainty-based Multi-modal Learning for Myocardial Infarction Diagnosis using Echocardiography and Electrocardiograms 
   - Gasser et al, Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound 
   - Andreassen et al, Introducing Anatomical Constraints in Mitral Annulus Segmentation in Transesophageal Echocardiography 
   - Li et al, Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images 
@@ -122,7 +122,7 @@ _Title:_ Democratizing access to quality prenatal ultrasound scans: Combining bl
 
 _Abstract:_ 800 women die every day from preventable causes in pregnancy or childbirth. This is mainly due to the fact that 50% of women in LMICs (Low and Middle Income Countries) receive no ultrasound scan today through the full course of their pregnancy. To be able to improve prenatal care in the Global South and in particular the African continent we shall on the one hand bring the power of ultrasound to some of the most rural communities where diagnostic tools are usually out of reach. While on the other hand understand that a foetal ultrasound check is a complex exam that requires an important level of training and expertise. The combination of portable / Point of Care ultrasound devices with AI enabled ultrasound solutions that allow for a very simplified scanning protocol is probably a winning approach that holds very promising results.
 
-_Bio:_ Born and raised in Morocco, Youssef has studied in France and received a double degree Master in Engineering and Business between French Grandes Ecole, Ecole Centrale Paris and ESSEC Business School. After a few years in Investment Banking in London, Youssef has shifted his focus more on building new ventures than investing in established ones. He has been part of the founding Team of AIOX Labs, the spin of the first AI Lab in Morocco, Mohamed V Artificial Intelligence Lab, LIMIARF. Since then AIOX Labs has given birth to many project including DeepEcho, an AI for Medial Imaging start-up focusing on improving prenatal care. Youssef Bouyakhf is currently the CEO of DeepEcho who is a building an innovative solution to help clinicians improve fetal ultrasound diagnosis.
+_Bio:_ Born and raised in Morocco, Youssef has studied in France and received a double degree Master in Engineering and Business between French Grandes Ecole, Ecole Centrale Paris and ESSEC Business School. After a few years in Investment Banking in London, Youssef has shifted his focus more on building new ventures than investing in established ones. He has been part of the founding Team of AIOX Labs, the spin of the first AI Lab in Morocco, Mohamed V Artificial Intelligence Lab, LIMIARF. Since then AIOX Labs has given birth to many project including DeepEcho, an AI for Medical Imaging start-up focusing on improving prenatal care. Youssef Bouyakhf is currently the CEO of DeepEcho who is a building an innovative solution to help clinicians improve fetal ultrasound diagnosis.
 
 ## Challenge
 
