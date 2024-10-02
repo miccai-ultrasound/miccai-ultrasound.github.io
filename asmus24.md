@@ -8,7 +8,7 @@
 
 **ASMUS is the official workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
-> **The workshop proceedings will be published before the conference starts. Workshop attendees can access the proceedings until four weeks after the conference.**
+**[The workshop proceedings will be published before the conference starts. Workshop attendees can access the proceedings until four weeks after the conference.](https://link.springer.com/book/9783031736469)**
 
 ## Call for Papers
 
