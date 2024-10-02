@@ -8,7 +8,7 @@
 
 **ASMUS is the official workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
->**The ASMUS workshop proceedings will be published before the conference starts and will be freely available to workshop participants between 4 October 2024 to 4 November 2024. Please use the following link to access the proceedings: [https://link.springer.com/book/9783031736469](https://link.springer.com/book/9783031736469). **
+>The ASMUS workshop proceedings will be published before the conference starts and will be freely available to workshop participants between 4 October 2024 to 4 November 2024. Please use the following link to access the proceedings: [https://link.springer.com/book/9783031736469](https://link.springer.com/book/9783031736469). **
 
 ## Call for Papers
 
