@@ -194,4 +194,30 @@ The outcome of the challenge includes 1) open-sourcing the first largest tracked
 
 [Poster Presentation Template - Download Link](https://github.com/miccai-ultrasound/miccai-ultrasound.github.io/raw/main/files/MICCAI2024-Template-A0-Poster.pdf)
 
+## Author Award
+
+| Name of recipient           | Paper                                                                                   | Award                       | Sponsored by  |
+|-----------------------------|-----------------------------------------------------------------------------------------|------------------------------|---------------|
+| Kangning Zhang               | Fetal Ultrasound Video Representation Learning using Contrastive Rubik’s Cube Recovery  | Best paper award             | ImFusion      |
+| Kit Bransby                  | Multi-Site Class-Incremental Learning with Weighted Experts in Echocardiography         | Best paper runner up         | ImFusion      |
+| Felix Duelmer                | PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement               | Best paper runner up         | ImFusion      |
+| Maximilian Fehrentz          | Intraoperative MR-Ultrasound Image Matching via Texture-invariant Keypoint Descriptors  | Best presentation award      | ThinkSono     |
+| Kangning Zhang               | Fetal Ultrasound Video Representation Learning using Contrastive Rubik’s Cube Recovery  | Best presentation runner up  | ThinkSono     |
+| Kit Bransby                  | Multi-Site Class-Incremental Learning with Weighted Experts in Echocardiography         | Best presentation runner up  | ThinkSono     |
+| Markus Olsen                 | Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models        | Best poster award            | Ultromics     |
+| Børge Solli Andreassen       | Introducing Anatomical Constraints in Mitral Annulus Segmentation in Transesophageal Echocardiography  | Best poster runner up | Ultromics     |
+| Gilles van de Vyverx         | Regional quality estimation for echocardiography using deep learning                   | Best poster runner up        | Ultromics     |
+
+## Reviewer Award
+
+### Winners
+
+- Alexander Gleed
+- Ang Nan Gu
+- Brian Lee
+- Zhen Yuan
+
+### Notable Reviewers
+
+Aaron Fenster, Alex Thorley, David Stojanovski, Ester Bonmati, Francisco Vasconcelos, Jaime Parra Raad, Jorge Oliveira, Kit Bransby, Lorenzo Venturini, Nalan Karunanayake, Qi Li, Rabin Adhikari, Safal Thapaliya, Samra Irshad, Yipeng Hu.
 
