@@ -1,10 +1,10 @@
-# ASMUS Workshop '24
+# ASMUS Workshop '25
 
 <div align="center">
  <img src="im/asmus.png" width="239" height="150">
 </div>
 
-**The 5th International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with [MICCAI 2024](https://conferences.miccai.org/2024/en/default.asp), the 27th International Conference on Medical Image Computing and Computer Assisted Intervention.**
+**The 5th International Workshop of Advances in Simplifying Medical UltraSound (ASMUS) - a workshop held in conjunction with [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp), the 28th International Conference on Medical Image Computing and Computer Assisted Intervention.**
 
 **ASMUS is the official workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
