@@ -20,24 +20,23 @@ The papers will be evaluated by external reviewers and our organizing committee 
 Accepted full-length manuscripts will be published with Springer LNCS, and the best papers will be selected for industry-sponsored awards.
 Original research contributions are invited.
 Proof-of-concept research from novel research directions is also encouraged.
-This year, with MICCAI being held for the first time in Africa, we particularly encourage the submission of research to address problems specific to Africa and low- and middle-income countries.
+This year, we encourage submissions exploring emerging frontiers in ultrasound research, with special emphasis on: 1) clinical-guided design in ultrasound workflow, and 2) large multimodal foundation model-driven AI technologies in ultrasound.
 
-One of the popular features of ASMUS, live demonstrations, will return for ASMUS 2024.
-Capitalizing on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional, and robotics areas.
-All accepted papers will be offered the option to present a live demonstration.
+Building on the success of previous interactive live demonstrations, ASMUS 2025 will continue this feature to showcase cutting-edge ultrasound innovations. We invite researchers to demonstrate novel systems leveraging ultrasound's unique real-time capabilities and clinical portability. All accepted papers will be offered the option to present a live demonstration.
 
-You may start submitting the papers at [Springer Nature EquinOCS](https://equinocs.springernature.com/service/ASMUS2024). **Please note that the deadline for paper submission has been extended from June 24th 2024 to June 28th 2024.** E-mail registration is required before submission, which can be accessed by clicking the "Submit now" button on the previous link.
+You may start submitting the papers at [Springer Nature EquinOCS](https://equinocs.springernature.com/service/ASMUS2025). **Please note that the deadline for paper submission is June 28th 2025, 23:59 PT.** E-mail registration is required before submission, which can be accessed by clicking the "Submit now" button on the previous link.
 If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or E-Mail.
 
-In this exciting era for medical ultrasound, recent developments in deep learning (artificial intelligence) and medical robotics have started showing clinically measurable improvement in assisting ultrasound examinations, ultrasound-guided interventions, and surgery.
-This year, ASMUS is soliciting submissions, including work from the following areas:
+This multidisciplinary workshop will foster cross-sector collaboration, rigorously reviewing, publishing, and engaging participants in discussions about cutting-edge advancements. Contributors from academia, underserved regions, industry, and clinical settings are invited to share insights. Selected full papers will appear in a Springer publication, with top submissions receiving awards supported by industry partners. We welcome original research submissions and actively seek proof-of-concept studies pioneering innovative methodologies. Key focus areas include:
 
 ### Ultrasound Assisted by Artificial Intelligence and Medical Robotics:
 
-- Ultrasound imaging with robotic (automated) assistance
-- Machine learning methods in ultrasound analysis and guidance
+- Machine learning methods in ultrasound analysis, dignosis, and guidance
 - Automated interpretation and measurement for ultrasound
-- Ultrasound quality and skills assessment
+- Ultrasound quality and skill assessment
+- Human-in-the-loop clinical decision support
+- Clinical-guided design in ultrasound workflow
+- Large multimodal foundation model-driven AI technologies in ultrasound
 
 ### Multimodality Ultrasound Imaging:
 
@@ -53,15 +52,15 @@ This year, ASMUS is soliciting submissions, including work from the following ar
 - Point-of-care ultrasound systems and scenarios
 - Assisting surgery and interventions
 - Streamlining clinical ultrasound workflow
-- Sonography data science
+- Sonography data science and ultrasound foundation model pre-training and fine-tuning
 
 | Workshop Timeline |                            |
 | ----------------- | -------------------------- |
-| June 28th 2024    | Paper Submission Deadline  |
-| July 10th 2024    | Reviews Due                |
-| July 15th 2024    | Notification of Acceptance |
-| August 1st 2024   | Camera Ready Submission    |
-| October 6th 2024  | ASMUS Workshop             |
+| June 28th 2025    | Paper Submission Deadline  |
+| July 12th 2025    | Reviews Due                |
+| July 19th 2025    | Notification of Acceptance |
+| August 6th 2025   | Camera Ready Submission    |
+| September27th 2025| ASMUS Workshop    |
 
 ## Program
 
