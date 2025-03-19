@@ -115,7 +115,7 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ### [David Ouyang](https://www.linkedin.com/in/youssef-bouyakhf/?originalSubdomain=uk)
 
-![David Ouyang](im/Youssef.jpeg)
+![David Ouyang](im/david_ouyang.jpg)
 
 _Title:_ Democratizing access to quality prenatal ultrasound scans: Combining blind sweeps and Point of Care (POC) Ultrasound, how promising is the approach?
 
