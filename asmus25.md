@@ -8,7 +8,7 @@
 
 **ASMUS is the official workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
->The ASMUS workshop proceedings will be published before the conference starts and will be freely available to workshop participants between 4 October 2024 to 15 November 2024. Please use the following link to access the proceedings: <a href="https://link.springer.com/book/9783031736469" target="_blank">https://link.springer.com/book/9783031736469</a>.
+>The ASMUS workshop proceedings will be published before the conference starts and will be freely available to workshop participants between 4 October 2025 to 15 November 2025. Please use the following link to access the proceedings: <a href="https://link.springer.com/book/9783031736469" target="_blank">https://link.springer.com/book/9783031736469</a>.
 >Submission will be open on May 10th, 2025.
 
 ## Call for Papers
@@ -25,7 +25,7 @@ This year, we encourage submissions exploring emerging frontiers in ultrasound r
 
 Building on the success of previous interactive live demonstrations, ASMUS 2025 will continue this feature to showcase cutting-edge ultrasound innovations. We invite researchers to demonstrate novel systems leveraging ultrasound's unique real-time capabilities and clinical portability. All accepted papers will be offered the option to present a live demonstration.
 
-You may start submitting the papers at [Springer Nature EquinOCS](https://equinocs.springernature.com/service/ASMUS2025). **Please note that the deadline for paper submission is June 28th 2025, 23:59 PT.** E-mail registration is required before submission, which can be accessed by clicking the "Submit now" button on the previous link.
+Submission will be open on May 10th, 2025. You may start submitting the papers at [Springer Nature EquinOCS](https://meteor.springer.com/ASMUS2025). **Please note that the deadline for paper submission is June 28th 2025, 23:59 PT.** E-mail registration is required before submission, which can be accessed by clicking the "Submit now" button on the previous link.
 If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or E-Mail.
 
 This multidisciplinary workshop will foster cross-sector collaboration, rigorously reviewing, publishing, and engaging participants in discussions about cutting-edge advancements. Contributors from academia, underserved regions, industry, and clinical settings are invited to share insights. Selected full papers will appear in a Springer publication, with top submissions receiving awards supported by industry partners. We welcome original research submissions and actively seek proof-of-concept studies pioneering innovative methodologies. Key focus areas include:
@@ -208,29 +208,9 @@ The outcome of the challenge includes 1) open-sourcing the first largest tracked
 
 ## Author Award
 
-| Name of recipient           | Paper                                                                                   | Award                       | Sponsored by  |
-|-----------------------------|-----------------------------------------------------------------------------------------|------------------------------|---------------|
-| Kangning Zhang               | Fetal Ultrasound Video Representation Learning using Contrastive Rubik’s Cube Recovery  | Best paper award             | ImFusion      |
-| Kit Bransby                  | Multi-Site Class-Incremental Learning with Weighted Experts in Echocardiography         | Best paper runner up         | ImFusion      |
-| Felix Duelmer                | PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement               | Best paper runner up         | ImFusion      |
-| Maximilian Fehrentz          | Intraoperative MR-Ultrasound Image Matching via Texture-invariant Keypoint Descriptors  | Best presentation award      | ThinkSono     |
-| Kangning Zhang               | Fetal Ultrasound Video Representation Learning using Contrastive Rubik’s Cube Recovery  | Best presentation runner up  | ThinkSono     |
-| Kit Bransby                  | Multi-Site Class-Incremental Learning with Weighted Experts in Echocardiography         | Best presentation runner up  | ThinkSono     |
-| Markus Olsen                 | Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models        | Best poster award            | Ultromics     |
-| Børge Solli Andreassen       | Introducing Anatomical Constraints in Mitral Annulus Segmentation in Transesophageal Echocardiography  | Best poster runner up | Ultromics     |
-| Gilles van de Vyverx         | Regional quality estimation for echocardiography using deep learning                   | Best poster runner up        | Ultromics     |
-
 ## Reviewer Award
 
 ### Winners
 
-- Alexander Gleed
-- Ang Nan Gu
-- Brian Lee
-- Zhen Yuan
-
 ### Notable Reviewers
-
-Aaron Fenster, Alex Thorley, David Stojanovski, Ester Bonmati, Francisco Vasconcelos, Jaime Parra Raad, Jorge Oliveira, Kit Bransby, Lorenzo Venturini, Nalan Karunanayake, Qi Li, Rabin Adhikari, Safal Thapaliya, Samra Irshad, Yipeng Hu.
-
 
