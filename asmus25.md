@@ -62,52 +62,13 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ## Program
 
-8:00-8:10 Introduction 
+### Keynote - David Ouyang
 
-8:10-8:50 Keynote - David Ouyang
+### Orals & Poster + demo teasers
 
-8:50-9:30 Orals 1 – AI Methodology to Simplify Ultrasound
-- Zhang et al, Fetal Ultrasound Video Representation Learning using Contrastive Rubik’s Cube Recovery 
-- Bransby et al, Multi-Site Class-Incremental Learning with Weighted Experts in Echocardiography 
-- Dulmer et al, PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement 
+### Challenge Summary 
 
-9:30-10:00 Poster + demo teasers
-- Posters:
-  - De Vyver at al, Regional quality estimation for echocardiography using deep learning
-  - Colussi et al, LoRIS - Weakly-supervised Anomaly Detection for Ultrasound Images 
-  - Salmanpour et al, Do High-Performance Image-to-Image Translation Networks Enable the Discovery of Radiomic Features? Application to MRI Synthesis from Ultrasound in Prostate Cancer 
-  - Leenings et al, C-TRUS: A Novel Dataset and Initial Benchmark For Colon Wall Segmentation in Transabdominal Ultrasound 
-  - Islam et al, Label Dropout: Improved Deep Learning Echocardiography Segmentation Using Multiple Datasets With Domain Shift and Partial Labelling 
-  - Szijártó et al, Masked autoencoders for medical ultrasound videos using ROI-aware masking 
-  - Chen et al, PIPsUS: Self-Supervised Point Tracking in Ultrasound 
-  - Olsen et al, Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models 
-  - Kafaei Zad Tehrani et al, Unsupervised Physics-Inspired Shear Wave Speed Estimation in Ultrasound Elastography 
-  - Vassallo et al, Simplifying Prostate Elastography Using Micro-Ultrasound and Transfer Function Imaging 
-  - Alomar et al, Automatic facial axes standardization of 3D fetal ultrasound images 
-  - Yang et al, Uncertainty-based Multi-modal Learning for Myocardial Infarction Diagnosis using Echocardiography and Electrocardiograms 
-  - Gasser et al, Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound 
-  - Andreassen et al, Introducing Anatomical Constraints in Mitral Annulus Segmentation in Transesophageal Echocardiography 
-  - Li et al, Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images 
-  - Léger et al, An Evaluation of Low-Cost Hardware on 3D Ultrasound Reconstruction Accuracy 
-  - Banerjee et al, Enhanced Uncertainty Estimation in Ultrasound Image Segmentation with MSU-Net
-- Demos:
-  - TBC
-
-10:00-10:30 Coffee (posters + demos) 
-
-10:30-10:50 Posters + demos 
-
-10:50-11:15 Orals 2 – Simplifying Ultrasound-Guided Interventions
-- Rasheed et al, Intraoperative MR-Ultrasound Image Matching via Texture-invariant Keypoint Descriptors
-- Jiang et al, Structure-aware World Model for Probe Guidance via Large-scale Self-supervised Pre-train
-
-11:15-12:00 LMIC panel discussion
-
-12:00-12:15 TUS-REC Challenge Summary 
-
-12:15-12:20 Open US datasets/models initiative summary
-
-12:20-12:30 Closing + awards  
+### Closing + awards  
 
 ## Keynote Speaker
 
