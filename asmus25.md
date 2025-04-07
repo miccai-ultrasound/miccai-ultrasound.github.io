@@ -64,7 +64,7 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 8:00-8:10 Introduction 
 
-8:10-8:50 Keynote - Youssef Bouyakhf
+8:10-8:50 Keynote - David Ouyang
 
 8:50-9:30 Orals 1 – AI Methodology to Simplify Ultrasound
 - Zhang et al, Fetal Ultrasound Video Representation Learning using Contrastive Rubik’s Cube Recovery 
@@ -115,8 +115,6 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ![David Ouyang](im/david_ouyang.jpg)
 
-_Title:_ Democratizing access to quality prenatal ultrasound scans: Combining blind sweeps and Point of Care (POC) Ultrasound, how promising is the approach?
-
 _Bio:_ I am a cardiologist and researcher in the Department of Cardiology and Division of Artificial Intelligence in Medicine at Cedars-Sinai Medical Center. Our group works on applications of deep learning, computer vision, and the statistical analysis of large datasets within cardiovascular medicine. We focus on development (see section 'Precision Phenotyping'), understanding (see section 'Interpretable Medical AI'), and deployment of AI (see section 'AI Clinical Trials'). Our work has been published in Nature, Nature Medicine, NEJM AI, Circulation, JAMA Cardiology, EHJ, and other scientific venues.
 
 As a physician-scientist and statistician with focus on cardiology and imaging, I majored in statistics at Rice University, obtained my MD at UCSF, and received post-graduate medical education in internal medicine, cardiology, and a postdoc in computer science and biomedical data science at Stanford University. As an echocardiographer, I apply deep learning for precision phenotyping in cardiac ultrasound and the deployment and clinicial trials of AI models. We are interested in all forms of cardiovascular data, including ECG, MRI, radiological imaging, and particicularly interested in novel insights from pre-existing data.
@@ -131,21 +129,6 @@ The TUS-REC challenge aims to provide a benchmark for freehand US reconstruction
 The outcome of the challenge includes 1) open-sourcing the first largest tracked US datasets with accurate positional information; and 2) establishing one of the first benchmarks for 3D US reconstruction, suitable for modern learning-based data-driven approaches.
 
 ### [Landmark Detection Challenge for Intrapartum Ultrasound Measurement Meeting the Actual Clinical Assessment of Labor Progress](https://github-pages.ucl.ac.uk/tus-rec-challenge/)
-
-## Sponsors
-
-### [ImFusion](https://www.imfusion.com/)
-<img src="im/ImFusion_Logo_blue_R0G161B212_black.png" alt="ImFusion" width="300"/>
-
-### [Ultromics](https://www.ultromics.com/)
-<img src="im/Ultromics_dark.webp" alt="ULTROMICS" width="300"/>
-
-### [FRAIYA](https://fraiya.com/)
-<img src="im/Logo_dark_fraiya.svg" alt="FRAIYA" width="300"/>
-
-### [ThinkSono](https://thinksono.com/)
-<img src="im/ThinkSono.svg" alt="ThinkSono" width="300"/>
-
 
 ## Organizers
 
@@ -195,17 +178,4 @@ The outcome of the challenge includes 1) open-sourcing the first largest tracked
 - Reza Razavi (King’s College London, UK)
 - Joseph Hajnal (King’s College London, UK)
 
-
-## Oral/Poster Presentation Templates
-[Oral Presentation Template - Download Link](https://github.com/miccai-ultrasound/miccai-ultrasound.github.io/raw/main/files/MICCAI2024-Template-Talk.pptx)
-
-[Poster Presentation Template - Download Link](https://github.com/miccai-ultrasound/miccai-ultrasound.github.io/raw/main/files/MICCAI2024-Template-A0-Poster.pdf)
-
-## Author Award
-
-## Reviewer Award
-
-### Winners
-
-### Notable Reviewers
 
