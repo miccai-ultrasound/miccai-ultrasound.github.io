@@ -71,7 +71,6 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 - **Challenge Summary**  
 - **Closing Remarks & Awards Ceremony**
 
-
 ## Keynote Speaker
 
 ### [David Ouyang](https://www.linkedin.com/in/youssef-bouyakhf/?originalSubdomain=uk)
