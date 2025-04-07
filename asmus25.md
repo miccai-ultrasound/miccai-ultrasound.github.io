@@ -62,13 +62,15 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ## Program
 
-Keynote - David Ouyang
+### Morning Session
+- **Keynote Speaker**: David Ouyang  
+- **Orals & Poster Presentations**  
+  *Including Demo Teasers*
 
-Orals & Poster + Demo Teasers
+### Afternoon Session
+- **Challenge Summary**  
+- **Closing Remarks & Awards Ceremony**
 
-Challenge Summary 
-
-Closing + Awards  
 
 ## Keynote Speaker
 
