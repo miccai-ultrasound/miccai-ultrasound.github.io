@@ -8,9 +8,6 @@
 
 **ASMUS is the official workshop of the [MICCAI Special Interest Group on Medical Ultrasound](home).**
 
->The ASMUS workshop proceedings will be published before the conference starts and will be freely available to workshop participants between 4 October 2025 to 15 November 2025. Please use the following link to access the proceedings: <a href="https://link.springer.com/book/9783031736469" target="_blank">https://link.springer.com/book/9783031736469</a>.
->Submission will be open on May 10th, 2025.
-
 ## Call for Papers
 
 Papers will consist of a maximum of 8 pages (text, figures, and tables) + up to 2 pages for references only.
