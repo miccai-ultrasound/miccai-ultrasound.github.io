@@ -68,8 +68,8 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
   *Including Demo Teasers*
 
 ### Afternoon Session
-- **Challenge Summary**  
-- **Closing Remarks & Awards Ceremony**
+- **Trackerless 3D Freehand Ultrasound Reconstruction Challenge**  
+- **Landmark Detection Challenge for Intrapartum Ultrasound Measurement Meeting the Actual Clinical Assessment of Labor Progress**
 
 ## Keynote Speaker
 
@@ -91,6 +91,9 @@ The TUS-REC challenge aims to provide a benchmark for freehand US reconstruction
 The outcome of the challenge includes 1) open-sourcing the first largest tracked US datasets with accurate positional information; and 2) establishing one of the first benchmarks for 3D US reconstruction, suitable for modern learning-based data-driven approaches.
 
 ### [Landmark Detection Challenge for Intrapartum Ultrasound Measurement Meeting the Actual Clinical Assessment of Labor Progress](https://www.codabench.org/competitions/7108/)
+
+A cornerstone of ultrasound-based labor assessment is the identification of landmarks in intrapartum images, which form the basis for calculating key parameters like the angle of progression (AoP). The AoP provides critical insight into fetal head descent and rotation during labor and directly influences decisions about interventions. However, obtaining consistent landmark annotations remains a major challenge: current workflows require time-consuming manual analysis by experienced obstetricians, and intra-/inter-observer variability compromises measurement reliability. This bottleneck highlights the urgent need for automated solutions to standardize intrapartum assessments and align with the LCG's goal of enhancing care quality.
+To address this need, the challenge tasks participants with developing a fully automated fetal biometry method. The solution should identify three key anatomical landmarks in intrapartum ultrasound images and get the AoP.
 
 ## Organizers
 
