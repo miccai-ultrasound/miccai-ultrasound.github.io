@@ -1,3 +1,3 @@
 # The MICCAI Special Interest Group on Medical Ultrasound
 
-[ASMUS 2024](asmus24)
+[ASMUS 2025](asmus25)
