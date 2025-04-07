@@ -26,7 +26,7 @@ One of the popular features of ASMUS, live demonstrations, will return for ASMUS
 Capitalizing on the unique real-time and portability aspects of ultrasound-based applications, we plan for live demonstrations covering AI, interventional, and robotics areas.
 All accepted papers will be offered the option to present a live demonstration.
 
-You may start submitting the papers at [Springer Nature EquinOCS](https://equinocs.springernature.com/service/ASMUS2024). **Please note that the deadline for paper submission has been extended from June 24th 2024 to June 28th 2024.** E-mail registration is required before submission, which can be accessed by clicking the "Submit now" button on the previous link.
+You may start submitting the papers at [Springer Nature Mentor](https://equinocs.springernature.com/service/ASMUS2024). **Please note that the deadline for paper submission has been extended from June 24th 2024 to June 28th 2024.** E-mail registration is required before submission, which can be accessed by clicking the "Submit now" button on the previous link.
 If you have any issues registering or with the submission process, please contact the PC Chairs via the platform or E-Mail.
 
 In this exciting era for medical ultrasound, recent developments in deep learning (artificial intelligence) and medical robotics have started showing clinically measurable improvement in assisting ultrasound examinations, ultrasound-guided interventions, and surgery.
