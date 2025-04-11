@@ -99,10 +99,8 @@ To address this need, the challenge tasks participants with developing a fully a
 
 ### Chairs
 
-- Andy King (Chair, King's College London, UK)
-- Ana Namburete (Co-Chair, University of Oxford, UK)
-- Bishesh Khanal (Co-Chair, NAAMII, Nepal)
-- Alberto Gomez (Co-Chair, Ultromics, UK)
+- Dong Ni (Co-Chair, Shenzhen University, CN)
+- Alison Noble (Co-Chair, University of Oxford, UK)
 
 ### Organising Committee
 
