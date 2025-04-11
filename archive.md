@@ -2,6 +2,7 @@
 
 Please see below for information of previous MICCAI ASMUS workshops:
 
+- [ASMUS 2024](asmus24.md)
 - [ASMUS 2023](asmus23.md)
 - [ASMUS 2022](asmus22.md)
 - [ASMUS 2021](asmus21.md)
