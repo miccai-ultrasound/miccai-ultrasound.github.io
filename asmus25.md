@@ -104,8 +104,8 @@ To address this need, the challenge tasks participants with developing a fully a
 
 ### Organising Committee
 
-- Dong Ni (Co-Chair, Shenzhen University, CN)
-- Alison Noble (Co-Chair, University of Oxford, UK)
+- Dong Ni (Shenzhen University, CN)
+- Alison Noble (University of Oxford, UK)
 - Stephen Aylward (Kitware, USA)
 - Yipeng Hu (Univ. College London, UK)
 - Purang Abolmaesumi (Univ. of British Columbia, CA)
