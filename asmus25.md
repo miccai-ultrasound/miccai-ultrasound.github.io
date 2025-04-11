@@ -99,7 +99,7 @@ To address this need, the challenge tasks participants with developing a fully a
 
 ### Chairs
 
-- Dong Ni (Co-Chair, Shenzhen University, CN)
+- Dong Ni (Chair, Shenzhen University, CN)
 - Alison Noble (Co-Chair, University of Oxford, UK)
 
 ### Organising Committee
@@ -119,6 +119,7 @@ To address this need, the challenge tasks participants with developing a fully a
 - Wolfgang Wein (ImFusion, DE)
 - Parvin Mousavi (Queen’s Univ., CA)
 - Veronika Zimmer (Technical Univ. of Munich, DE)
+- Qingjie Meng (University of Birmingham, UK)
 
 ### Delivery Team
 
