@@ -73,7 +73,7 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ## Keynote Speaker
 
-### [David Ouyang]([https://www.linkedin.com/in/youssef-bouyakhf/?originalSubdomain=uk](https://douyang.github.io/))
+### [David Ouyang](https://douyang.github.io/)
 
 ![David Ouyang](im/david_ouyang.jpg)
 
