@@ -10,7 +10,7 @@
 
 ## Call for Papers
 
-** NEWS: We are happy to share with you that an interesting J-BHI special issue on [Next-Generation AI-Powered Medical Ultrasound Imaging: Methods and Systems](https://www.embs.org/jbhi/special-issues/) is newly launched, which aligns quite well with the ASMUS workshop. Extension of the workshop papers are encouraged to be summited to this special issue.**
+**NEWS: We are happy to share with you that an interesting J-BHI special issue on [Next-Generation AI-Powered Medical Ultrasound Imaging: Methods and Systems](https://www.embs.org/jbhi/special-issues/) is newly launched, which aligns quite well with the ASMUS workshop. Extension of the workshop papers are encouraged to be summited to this special issue.**
 
 Papers will consist of a maximum of 8 pages (text, figures, and tables) + up to 2 pages for references only.
 They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double-blind review.
