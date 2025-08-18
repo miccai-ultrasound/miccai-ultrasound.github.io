@@ -71,22 +71,22 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ### 🟩 Session 1: Oral Session 1 – *Segmentation, Imaging and Synthesis*  
 **Session Chairs:** Wufeng Xue and Ruobing Huang
-| Timetable       | Paper Title |
+| Time       | Paper Title |
 |------------|--------------|
-| 08:05–08:17 | Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module  <br>*Md Kamrul Hasan, Guang Yang, Choon Hwai Yap* |
-| 08:17–08:29 | DiffUS: Differentiable Ultrasound Rendering from Volumetric Imaging  <br>*Gabriel Duguey, Noe Bertramo, Vivek Gopalakrishnan* |
-| 08:29–08:41 | TREAT-Net: Tabular-Referenced Echocardiography Analysis for Acute Coronary Syndrome Treatment Prediction  <br>*Diane Kim, Nguyen Nhat Minh To, Sherif Abdalla, Teresa Tsang, Purang Abolmaesumi, Christina Luong* |
-| 08:41–08:53 | DiFUSAL: Diffusion-Based Fetal Ultrasound Synthesis with Active Learning  <br>*Maryam Arjemandi, Salma Hassan, Hu Wang, Mohammad Yaqub, Saudabi Valappil* |
-| 08:55–09:35 | **Keynote:** Towards Cardiovascular AI  <br>*David Ouyang (Kaiser Permanente)* |
-| 09:35–10:00 | Technical Demos from NVIDIA  <br>*Stephen Aylward* |
-| 10:00–10:40 | Coffee Break + Posters |
+| 08:05-08:17 | Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module  <br>*Md Kamrul Hasan, Guang Yang, Choon Hwai Yap* |
+| 08:17-08:29 | DiffUS: Differentiable Ultrasound Rendering from Volumetric Imaging  <br>*Gabriel Duguey, Noe Bertramo, Vivek Gopalakrishnan* |
+| 08:29-08:41 | TREAT-Net: Tabular-Referenced Echocardiography Analysis for Acute Coronary Syndrome Treatment Prediction  <br>*Diane Kim, Nguyen Nhat Minh To, Sherif Abdalla, Teresa Tsang, Purang Abolmaesumi, Christina Luong* |
+| 08:41-08:53 | DiFUSAL: Diffusion-Based Fetal Ultrasound Synthesis with Active Learning  <br>*Maryam Arjemandi, Salma Hassan, Hu Wang, Mohammad Yaqub, Saudabi Valappil* |
+| 08:55-09:35 | **Keynote:** Towards Cardiovascular AI  <br>*David Ouyang (Kaiser Permanente)* |
+| 09:35-10:00 | Technical Demos from NVIDIA  <br>*Stephen Aylward* |
+| 10:00-10:40 | Coffee Break + Posters |
 
 
 ### 🟨 Session 2 Title: Oral Session 2 - *Registration and Reconstruction*
 **Session Chairs:** Wufeng Xue and Ruobing Huang
-| Timetable       | Paper Title |
+| Time       | Paper Title |
 |------------|--------------|
-| 10:40–10:52 | Robust rigid MRI-TRUS registration using attention-CNN and ICP  <br>*Manasi Kattel, Benjamin Billot, Federica Facente, Dr Herve Dellingette, Nicholas Ayache*|
+| 10:40-10:52 | Robust rigid MRI-TRUS registration using attention-CNN and ICP  <br>*Manasi Kattel, Benjamin Billot, Federica Facente, Dr Herve Dellingette, Nicholas Ayache*|
 | 10:52-11:04 | Det-SAMReg: Few-Shot Medical Image Registration using Vision Foundation Models  <br>*Mengting Yang, Qilin Wang, Shiqi Huang, Wen Yan, Yipeng Hu, Zhe Min*|
 | 11:04-11:16 | DualTrack: Sensorless 3D Ultrasound needs Local and Global Context <br>*Paul Wilson, Matteo Ronchetti, Ruediger Goebl, Viktoria Markova, Sebastian Rosenzweig, Raphael Prevost, Parvin Mousavi, Oliver Zettinig*|
 | 11:16-11:28 | Modulated INR with Prior Embeddings for Ultrasound Imaging Reconstruction  <br>*Remi Delaunay, Christoph Hennerspergerm, Stefan Wörz*|
