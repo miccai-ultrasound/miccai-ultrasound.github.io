@@ -82,8 +82,9 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ### Session 2 Title: Oral Session 2: Registration and Reconstruction
 ### Session Chairs: Wufeng Xue and Ruobing Huang
+
 | Time                 | Paper Title               |
-| -----------------    | -------------------------- |
+| -------------------- | -------------------------- |
 | 10:40–10:52          | Robust rigid MRI-TRUS registration using attention-CNN and ICP<br>Manasi Kattel, Benjamin Billot, Federica Facente, Dr Herve Dellingette, Nicholas Ayache|
 | 10:52-11:04          | Det-SAMReg: Few-Shot Medical Image Registration using Vision Foundation Models<br>Mengting Yang, Qilin Wang, Shiqi Huang, Wen Yan, Yipeng Hu, Zhe Min|
 | 11:04-11:16          | DualTrack: Sensorless 3D Ultrasound needs Local and Global Context<br>Paul Wilson, Matteo Ronchetti, Ruediger Goebl, Viktoria Markova, Sebastian Rosenzweig, Raphael Prevost, Parvin Mousavi, Oliver Zettinig|
