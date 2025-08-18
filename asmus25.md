@@ -66,8 +66,8 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 08:00–08:05	Introduction and Opening
 
-###Session 1 Title: Oral Session 1: Segmentation, Imaging and Syhthesis
-###Session Chairs: Wufeng Xue and Ruobing Huang
+### Session 1 Title: Oral Session 1: Segmentation, Imaging and Syhthesis
+### Session Chairs: Wufeng Xue and Ruobing Huang
 | Time               | Paper Title               |
 | -----------------  | -------------------------- |
 | 08:05–08:17        | Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module<br>Md Kamrul Hasan, Guang Yang, Choon Hwai Yap|
