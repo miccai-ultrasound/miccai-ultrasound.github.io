@@ -92,6 +92,7 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ### Session 3 Title: Challenge Session 1: Landmark Detection Challenge for Intrapartum Ultrasound Measurement Meeting the Actual Clinical Assessment of Labor Progress (IUGC)
 ### Session Chairs: Jieyun Bai
+| Time  |                            |
 | -----------------  | -------------------------- |
 | 13:30-13:45        | Introduction to the Challenge|
 | 13:45-15:15        | Winning Teams' Technical Presentations (6 teams)|
@@ -100,6 +101,7 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ### Session 4 Title: Challenge Session 2: Trackerless 3D Freehand Ultrasound Reconstruction Challenge (TUS-REC)
 ### Session Chairs: Qi Li
+| Time  |                            |
 | -----------------  | -------------------------- |
 | 16:00-16:10        | Introduction to the TUS-REC2025 Challenge|
 | 16:10-17:00        | Presentations by competing teams|
