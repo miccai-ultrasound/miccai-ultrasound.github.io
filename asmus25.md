@@ -10,7 +10,7 @@
 
 ## Call for Papers
 
-**NEWS: We are happy to share with you that an interesting J-BHI special issue on [Next-Generation AI-Powered Medical Ultrasound Imaging: Methods and Systems](https://www.embs.org/jbhi/special-issues/) is newly launched, which aligns quite well with the ASMUS workshop. Extension of the workshop papers are encouraged to be summited to this special issue.**
+**NEWS: We are happy to share with you that an interesting J-BHI special issue on [Next-Generation AI-Powered Medical Ultrasound Imaging: Methods and Systems](https://www.embs.org/jbhi/special-issues/) is newly launched, which aligns quite well with the ASMUS workshop. Extension of the workshop papers are encouraged to be submmited to this special issue.**
 
 Papers will consist of a maximum of 8 pages (text, figures, and tables) + up to 2 pages for references only.
 They are to be submitted electronically in [Springer LNCS (Lecture Notes in Computer Science) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and are subject to double-blind review.
@@ -60,7 +60,7 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 | July 12th 2025     | Reviews Due                |
 | July 19th 2025     | Notification of Acceptance |
 | August 6th 2025    | Camera Ready Submission    |
-| September 27th 2025 (TBD)| ASMUS Workshop    |
+| September 27th 2025| ASMUS Workshop             |
 
 ## Program
 
@@ -96,6 +96,16 @@ The outcome of the challenge includes 1) open-sourcing the first largest tracked
 
 A cornerstone of ultrasound-based labor assessment is the identification of landmarks in intrapartum images, which form the basis for calculating key parameters like the angle of progression (AoP). The AoP provides critical insight into fetal head descent and rotation during labor and directly influences decisions about interventions. However, obtaining consistent landmark annotations remains a major challenge: current workflows require time-consuming manual analysis by experienced obstetricians, and intra-/inter-observer variability compromises measurement reliability. This bottleneck highlights the urgent need for automated solutions to standardize intrapartum assessments and align with the LCG's goal of enhancing care quality.
 To address this need, the challenge tasks participants with developing a fully automated fetal biometry method. The solution should identify three key anatomical landmarks in intrapartum ultrasound images and get the AoP.
+
+
+## Sponsors
+
+### [Gates Foundation](https://www.gatesfoundation.org/)
+<img src="im/ImFusion_Logo_blue_R0G161B212_black.png" alt="ImFusion" width="300"/>
+
+### [Nvidia](https://www.nvidia.com/)
+<img src="im/Ultromics_dark.webp" alt="ULTROMICS" width="300"/>
+
 
 ## Organizers
 
