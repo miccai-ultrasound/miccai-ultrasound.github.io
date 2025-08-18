@@ -78,49 +78,31 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 | 09:35–10:00        | Technical demonstrations from Nvidia<br>Stephen Aylward|
 | 10:00-10:40        | Coffee Break and Posters|
 
-Time	Paper Title
-08:05–08:17	Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module
-Md Kamrul Hasan, Guang Yang, Choon Hwai Yap
-08:17–08:29	DiffUS: Differentiable Ultrasound Rendering from Volumetric Imaging 
-Gabriel Duguey, Noe Bertramo, Vivek Gopalakrishnan
-08:29–08:41	TREAT-Net: Tabular-Referenced Echocardiography Analysis for Acute Coronary Syndrome Treatment Prediction
-Diane Kim, Nguyen Nhat Minh To, Dr. Sherif Abdalla, Teresa Tsang, Purang Abolmaesumi, Christina Luong
-08:41–08:53	DiFUSAL: Diffusion-Based Fetal Ultrasound Synthesis with Active Learning
-Maryam Arjemandi, Salma Hassan, Hu Wang, Mohammad Yaqub, Saudabi Valappil
-08:55–09:35	Keynote: Towards Cardiovascular AI
-David Ouyang, Kaiser Permanente
-09:35–10:00	Technical demonstrations from Nvidia
-Stephen Aylward
-10:00-10:40	Coffee Break and Posters
+### Session 2 Title: Oral Session 2: Registration and Reconstruction
+### Session Chairs: Wufeng Xue and Ruobing Huang
+| Time               | Paper Title               |
+| -----------------  | -------------------------- |
+| 10:40–10:52        | Robust rigid MRI-TRUS registration using attention-CNN and ICP<br>Manasi Kattel, Benjamin Billot, Federica Facente, Dr Herve Dellingette, Nicholas Ayache|
+| 10:52-11:04        | Det-SAMReg: Few-Shot Medical Image Registration using Vision Foundation Models<br>Mengting Yang, Qilin Wang, Shiqi Huang, Wen Yan, Yipeng Hu, Zhe Min|
+| 11:04-11:16        | DualTrack: Sensorless 3D Ultrasound needs Local and Global Context<br>Paul Wilson, Matteo Ronchetti, Ruediger Goebl, Viktoria Markova, Sebastian Rosenzweig, Raphael Prevost, Parvin Mousavi, Oliver Zettinig|
+| 11:16-11:28        | Modulated INR with Prior Embeddings for Ultrasound Imaging Reconstruction<br>Remi Delaunay, Christoph Hennerspergerm, Stefan Wörz|
+| 11:30-12:10        | Keynote: Transforming Healthcare with AI: Scalable AI-powered Ultrasound Solutions for Resource-Constrained Settings<br>Wei Luo, Gates Foundation|
+| 12:10-12:30        | Summary and Awards|
+| 12:30-13:30        | Lunch break|
 
-Session 2 Title: Oral Session 2: Registration and Reconstruction
-Session Chairs: Wufeng Xue and Ruobing Huang
-Time	Paper Title
-10:40–10:52	Robust rigid MRI-TRUS registration using attention-CNN and ICP
-Manasi Kattel, Benjamin Billot, Federica Facente, Dr Herve Dellingette, Nicholas Ayache
-10:52-11:04	Det-SAMReg: Few-Shot Medical Image Registration using Vision Foundation Models
-Mengting Yang, Qilin Wang, Shiqi Huang, Wen Yan, Yipeng Hu, Zhe Min
-11:04-11:16	DualTrack: Sensorless 3D Ultrasound needs Local and Global Context
-Paul Wilson, Matteo Ronchetti, Ruediger Goebl, Viktoria Markova, Sebastian Rosenzweig, Raphael Prevost, Parvin Mousavi, Oliver Zettinig
-11:16-11:28	Modulated INR with Prior Embeddings for Ultrasound Imaging Reconstruction 
-Remi Delaunay, Christoph Hennerspergerm, Stefan Wörz
-11:30-12:10	Keynote: Transforming Healthcare with AI: Scalable AI-powered Ultrasound Solutions for Resource-Constrained Settings 
-Wei Luo, Gates Foundation
-12:10-12:30	Summary and Awards
-	
-12:30-13:30	Lunch break
-Session 3 Title: Challenge Session 1: Landmark Detection Challenge for Intrapartum Ultrasound Measurement Meeting the Actual Clinical Assessment of Labor Progress (IUGC)
-Session Chairs: Jieyun Bai
-13:30-13:45	Introduction to the Challenge
-13:45-15:15	Winning Teams' Technical Presentations (6 teams)
-15:15-15:30	Award Ceremony and Group Photo
-15:30-16:00	Coffee Break
-Session 4 Title: Challenge Session 2: Trackerless 3D Freehand Ultrasound Reconstruction Challenge (TUS-REC)
-Session Chairs: Qi Li
-16:00-16:10	Introduction to the TUS-REC2025 Challenge
-16:10-17:00	Presentations by competing teams
-17:00-17:05	Results summary
-17:05-17:15	Awards ceremony
+### Session 3 Title: Challenge Session 1: Landmark Detection Challenge for Intrapartum Ultrasound Measurement Meeting the Actual Clinical Assessment of Labor Progress (IUGC)
+### Session Chairs: Jieyun Bai
+| 13:30-13:45        | Introduction to the Challenge|
+| 13:45-15:15        | Winning Teams' Technical Presentations (6 teams)|
+| 15:15-15:30        | Award Ceremony and Group Photo|
+| 15:30-16:00        | Coffee Break|
+
+### Session 4 Title: Challenge Session 2: Trackerless 3D Freehand Ultrasound Reconstruction Challenge (TUS-REC)
+### Session Chairs: Qi Li
+| 16:00-16:10        | Introduction to the TUS-REC2025 Challenge|
+| 16:10-17:00        | Presentations by competing teams|
+| 17:00-17:05        | Results summary|
+| 17:05-17:15        | Awards ceremony|
 
 Posters:
 VidFuncta: Towards Generalizable Neural Representations for Ultrasound Videos
