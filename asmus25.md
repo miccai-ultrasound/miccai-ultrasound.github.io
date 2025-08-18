@@ -86,11 +86,11 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 **Session Chairs:** Wufeng Xue and Ruobing Huang
 | Time       | Paper Title |
 |------------|--------------|
-| 10:40–10:52 | Robust rigid MRI-TRUS registration using attention-CNN and ICP <br>*Manasi Kattel, Benjamin Billot, Federica Facente, Dr Herve Dellingette, Nicholas Ayache*|
-| 10:52-11:04 | Det-SAMReg: Few-Shot Medical Image Registration using Vision Foundation Models <br>*Mengting Yang, Qilin Wang, Shiqi Huang, Wen Yan, Yipeng Hu, Zhe Min*|
+| 10:40–10:52 | Robust rigid MRI-TRUS registration using attention-CNN and ICP  <br>*Manasi Kattel, Benjamin Billot, Federica Facente, Dr Herve Dellingette, Nicholas Ayache*|
+| 10:52-11:04 | Det-SAMReg: Few-Shot Medical Image Registration using Vision Foundation Models  <br>*Mengting Yang, Qilin Wang, Shiqi Huang, Wen Yan, Yipeng Hu, Zhe Min*|
 | 11:04-11:16 | DualTrack: Sensorless 3D Ultrasound needs Local and Global Context <br>*Paul Wilson, Matteo Ronchetti, Ruediger Goebl, Viktoria Markova, Sebastian Rosenzweig, Raphael Prevost, Parvin Mousavi, Oliver Zettinig*|
-| 11:16-11:28 | Modulated INR with Prior Embeddings for Ultrasound Imaging Reconstruction<br>*Remi Delaunay, Christoph Hennerspergerm, Stefan Wörz*|
-| 11:30-12:10 | Keynote: Transforming Healthcare with AI: Scalable AI-powered Ultrasound Solutions for Resource-Constrained Settings <br>*Wei Luo, Gates Foundation*|
+| 11:16-11:28 | Modulated INR with Prior Embeddings for Ultrasound Imaging Reconstruction  <br>*Remi Delaunay, Christoph Hennerspergerm, Stefan Wörz*|
+| 11:30-12:10 | Keynote: Transforming Healthcare with AI: Scalable AI-powered Ultrasound Solutions for Resource-Constrained Settings  <br>*Wei Luo, Gates Foundation*|
 | 12:10-12:30 | Summary and Awards|
 | 12:30-13:30 | Lunch break|
 
