@@ -64,6 +64,98 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ## Program
 
+08:00–08:05	Introduction and Opening
+
+Session 1 Title: Oral Session 1: Segmentation, Imaging and Syhthesis
+Session Chairs: Wufeng Xue and Ruobing Huang
+| Time               | Paper Title               |
+| -----------------  | -------------------------- |
+| 08:05–08:17        | Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module
+                       Md Kamrul Hasan, Guang Yang, Choon Hwai Yap|
+| July 12th 2025     | Reviews Due                |
+| July 19th 2025     | Notification of Acceptance |
+| August 6th 2025    | Camera Ready Submission    |
+| September 27th 2025| ASMUS Workshop             |
+
+Time	Paper Title
+08:05–08:17	Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module
+Md Kamrul Hasan, Guang Yang, Choon Hwai Yap
+08:17–08:29	DiffUS: Differentiable Ultrasound Rendering from Volumetric Imaging 
+Gabriel Duguey, Noe Bertramo, Vivek Gopalakrishnan
+08:29–08:41	TREAT-Net: Tabular-Referenced Echocardiography Analysis for Acute Coronary Syndrome Treatment Prediction
+Diane Kim, Nguyen Nhat Minh To, Dr. Sherif Abdalla, Teresa Tsang, Purang Abolmaesumi, Christina Luong
+08:41–08:53	DiFUSAL: Diffusion-Based Fetal Ultrasound Synthesis with Active Learning
+Maryam Arjemandi, Salma Hassan, Hu Wang, Mohammad Yaqub, Saudabi Valappil
+08:55–09:35	Keynote: Towards Cardiovascular AI
+David Ouyang, Kaiser Permanente
+09:35–10:00	Technical demonstrations from Nvidia
+Stephen Aylward
+10:00-10:40	Coffee Break and Posters
+
+Session 2 Title: Oral Session 2: Registration and Reconstruction
+Session Chairs: Wufeng Xue and Ruobing Huang
+Time	Paper Title
+10:40–10:52	Robust rigid MRI-TRUS registration using attention-CNN and ICP
+Manasi Kattel, Benjamin Billot, Federica Facente, Dr Herve Dellingette, Nicholas Ayache
+10:52-11:04	Det-SAMReg: Few-Shot Medical Image Registration using Vision Foundation Models
+Mengting Yang, Qilin Wang, Shiqi Huang, Wen Yan, Yipeng Hu, Zhe Min
+11:04-11:16	DualTrack: Sensorless 3D Ultrasound needs Local and Global Context
+Paul Wilson, Matteo Ronchetti, Ruediger Goebl, Viktoria Markova, Sebastian Rosenzweig, Raphael Prevost, Parvin Mousavi, Oliver Zettinig
+11:16-11:28	Modulated INR with Prior Embeddings for Ultrasound Imaging Reconstruction 
+Remi Delaunay, Christoph Hennerspergerm, Stefan Wörz
+11:30-12:10	Keynote: Transforming Healthcare with AI: Scalable AI-powered Ultrasound Solutions for Resource-Constrained Settings 
+Wei Luo, Gates Foundation
+12:10-12:30	Summary and Awards
+	
+12:30-13:30	Lunch break
+Session 3 Title: Challenge Session 1: Landmark Detection Challenge for Intrapartum Ultrasound Measurement Meeting the Actual Clinical Assessment of Labor Progress (IUGC)
+Session Chairs: Jieyun Bai
+13:30-13:45	Introduction to the Challenge
+13:45-15:15	Winning Teams' Technical Presentations (6 teams)
+15:15-15:30	Award Ceremony and Group Photo
+15:30-16:00	Coffee Break
+Session 4 Title: Challenge Session 2: Trackerless 3D Freehand Ultrasound Reconstruction Challenge (TUS-REC)
+Session Chairs: Qi Li
+16:00-16:10	Introduction to the TUS-REC2025 Challenge
+16:10-17:00	Presentations by competing teams
+17:00-17:05	Results summary
+17:05-17:15	Awards ceremony
+
+Posters:
+VidFuncta: Towards Generalizable Neural Representations for Ultrasound Videos
+Wolleb, J., Bieder, F., Friedrich, P., Tagare, H., Papademetris, X.
+From Transthoracic to Transesophageal: Cross-Modality Generation using LoRA Diffusion
+Oladokun, E., Ou, Y., Novikova, A., Kulikova, D., Thomas, S., Sprem, J., Grau, V.
+L-FUSION: Laplacian Fetal Ultrasound Segmentation & Uncertainty Estimation
+Müller, J., Wright, R., Day, T., Venturini, L., Budd, S., Reynaud, H., Hajnal, J., Razavi, R., Kainz, B.
+3D Heart Reconstruction from Sparse Pose-agnostic 2D Echocardiographic Slices
+Chen, Z., Chen, J., Zhuo, W., Wufeng, X., Ni, D.
+3D Ultrasound Volume Reconstruction using a CNN-Transformer model and IMU data
+Wijkhuizen, M., Adriaans, C., Karnenbeek, L., Natali, T., Ruers, T., Geldof, F., Dashtbozorg, B.
+Optimization-Based Calibration for Intravascular Ultrasound Volume Reconstruction
+Beaudet, K., El hadramy, S., Cattin, P., Verde, J., Cotin, S.
+Anatomically Constrained Transformers for Cardiac Amyloidosis Classification
+Thorley, A., Chartsias, A., Strom, J., Lang, R., Slivnick, J., O'Driscoll, J., Sharma, R., Kotecha, D., Duan, J., Gomez, A.
+D.A.R.K.: Dynamic Graphs based Angle-aware Registration of Knee Ultrasound Point Clouds
+Injune Hwang, Stephen Mellon, Dr. Jack Tu
+The Impact of Biomechanical Quantities on PINNs-based Medical Image Registration
+Shixing Ma, Zhaoxi Lin, Xinzhe Du, Yipeng Hu, Zhe Min
+Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment
+Pegios, P., Lin, M., Weng, N., Søndergaard Svendsen, M., Bashir, Z., Bigdeli, S., Christensen, A., Tolsgaard, M., Feragen, A.
+Learning to Stop: Reinforcement Learning for Efficient Patient-Level Echocardiographic Classification
+Cho Kim, W., Oliveira, J., Thorley, A., Beqiri, A., O'Driscoll, J., Slivnick, J., Strom, J., Sharma, R., Lang, R., Gomez, A., Chartsias, A.	
+WiseLVAM: A Novel Framework For Left Ventrical Automatic Measurements
+Kumar Singh, D., Cao, Q., Thomas, S., Boubekki, A., Jenssen, R., Kampffmeyer, M.
+UGFNet: Uncertainty-Guided Graph Neural Network with Frequency-Aware Feature Fusion for Breast Ultrasound Segmentation
+Kong, H., Shin, J.
+HiProtoNet: Hyperbolic Hierarchy-aware Part Prototypes for Aortic Stenosis Severity Classification
+Vaseli, H., Wu, V., Kim, D., Tsang, M., Gu, A., Luong, C., Abolmaesumi, P., Tsang, T.
+COVID-19 Severity Prediction from Lung Ultrasound via Dynamic Gated Multi-Instance Learning
+Lin, C., Xue, W., Ni, D., Zhou, G.
+Guide2Heart: Proximity Guidance for Standard Echocardiographic View
+Gajendra Singh, Aiman Farooq, Azad Singh, Deepak Mishra, Rahul Choudhary, Pushpinder Singh Khera
+
+
 ### Morning Session
 - **Keynote**: David Ouyang  
 - **Orals & Poster Presentations**  
@@ -101,10 +193,10 @@ To address this need, the challenge tasks participants with developing a fully a
 ## Sponsors
 
 ### [Gates Foundation](https://www.gatesfoundation.org/)
-<img src="im/ImFusion_Logo_blue_R0G161B212_black.png" alt="ImFusion" width="300"/>
+<img src="im/GF PRIMARY WEATHERED SLATE LOGO_4BY1 RATIO-FIXED.svg" alt="ImFusion" width="300"/>
 
 ### [Nvidia](https://www.nvidia.com/)
-<img src="im/Ultromics_dark.webp" alt="ULTROMICS" width="300"/>
+<img src="im/nvidia.png" alt="ULTROMICS" width="300"/>
 
 
 ## Organizers
