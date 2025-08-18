@@ -62,6 +62,20 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 | August 6th 2025    | Camera Ready Submission    |
 | September 27th 2025| ASMUS Workshop             |
 
+## 🗓️ Program  
+### **Workshop Title:** The 6th International Workshop of Advances in Simplifying Medical UltraSound  
+### **Date:** 27th September, 2025
+
+---
+
+## 🟦 08:00–08:05 – Introduction and Opening
+
+---
+
+## 🟩 Session 1: Oral Session 1 – *Segmentation, Imaging and Synthesis*  
+**Session Chairs:** Wufeng Xue and Ruobing Huang
+
+
 ## Program
 ### Workshop Title: The 6th International Workshop of Advances in Simplifying Medical UltraSound
 ### Workshop Date: 27th September, 2025
