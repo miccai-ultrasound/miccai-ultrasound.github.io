@@ -71,7 +71,7 @@ Session Chairs: Wufeng Xue and Ruobing Huang
 | Time               | Paper Title               |
 | -----------------  | -------------------------- |
 | 08:05–08:17        | Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module|
-                     | Md Kamrul Hasan, Guang Yang, Choon Hwai Yap|
+|                    | Md Kamrul Hasan, Guang Yang, Choon Hwai Yap|
 | July 12th 2025     | Reviews Due                |
 | July 19th 2025     | Notification of Acceptance |
 | August 6th 2025    | Camera Ready Submission    |
