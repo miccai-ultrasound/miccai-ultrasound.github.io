@@ -65,14 +65,15 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ## Program
 **Workshop Title: The 6th International Workshop of Advances in Simplifying Medical UltraSound**
+
 **Workshop Date: 27th September, 2025**
 
 08:00–08:05	Introduction and Opening
 
 ### 🟩 Session 1: Oral Session 1 – *Segmentation, Imaging and Synthesis*  
 **Session Chairs:** Wufeng Xue and Ruobing Huang
-| Time       | Paper Title |
-|------------|--------------|
+| Time        | Paper Title |
+|------------ |--------------|
 | 08:05-08:17 | Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module  <br>*Md Kamrul Hasan, Guang Yang, Choon Hwai Yap* |
 | 08:17-08:29 | DiffUS: Differentiable Ultrasound Rendering from Volumetric Imaging  <br>*Gabriel Duguey, Noe Bertramo, Vivek Gopalakrishnan* |
 | 08:29-08:41 | TREAT-Net: Tabular-Referenced Echocardiography Analysis for Acute Coronary Syndrome Treatment Prediction  <br>*Diane Kim, Nguyen Nhat Minh To, Sherif Abdalla, Teresa Tsang, Purang Abolmaesumi, Christina Luong* |
@@ -84,8 +85,8 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ### 🟨 Session 2 Title: Oral Session 2 - *Registration and Reconstruction*
 **Session Chairs:** Wufeng Xue and Ruobing Huang
-| Time       | Paper Title |
-|------------|--------------|
+| Time        | Paper Title |
+|------------ |--------------|
 | 10:40-10:52 | Robust rigid MRI-TRUS registration using attention-CNN and ICP  <br>*Manasi Kattel, Benjamin Billot, Federica Facente, Dr Herve Dellingette, Nicholas Ayache*|
 | 10:52-11:04 | Det-SAMReg: Few-Shot Medical Image Registration using Vision Foundation Models  <br>*Mengting Yang, Qilin Wang, Shiqi Huang, Wen Yan, Yipeng Hu, Zhe Min*|
 | 11:04-11:16 | DualTrack: Sensorless 3D Ultrasound needs Local and Global Context <br>*Paul Wilson, Matteo Ronchetti, Ruediger Goebl, Viktoria Markova, Sebastian Rosenzweig, Raphael Prevost, Parvin Mousavi, Oliver Zettinig*|
@@ -96,7 +97,7 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ### 🟪 Session 3 Title: Challenge Session 1 - *Landmark Detection Challenge for Intrapartum Ultrasound Measurement Meeting the Actual Clinical Assessment of Labor Progress (IUGC)*
 **Session Chairs:** Jieyun Bai
-| Timetable  |                            |
+| Time  |                            |
 | -----------------  | -------------------------- |
 | 13:30-13:45        | Introduction to the Challenge|
 | 13:45-15:15        | Winning Teams' Technical Presentations (6 teams)|
@@ -105,7 +106,7 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ### 🟫 Session 4 Title: Challenge Session 2 - *Trackerless 3D Freehand Ultrasound Reconstruction Challenge (TUS-REC)*
 **Session Chairs:** Qi Li
-| Timetable  |                            |
+| Time  |                            |
 | -----------------  | -------------------------- |
 | 16:00-16:10        | Introduction to the TUS-REC2025 Challenge|
 | 16:10-17:00        | Presentations by competing teams|
