@@ -66,15 +66,17 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 08:00–08:05	Introduction and Opening
 
-Session 1 Title: Oral Session 1: Segmentation, Imaging and Syhthesis
-Session Chairs: Wufeng Xue and Ruobing Huang
+###Session 1 Title: Oral Session 1: Segmentation, Imaging and Syhthesis
+###Session Chairs: Wufeng Xue and Ruobing Huang
 | Time               | Paper Title               |
 | -----------------  | -------------------------- |
 | 08:05–08:17        | Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module<br>Md Kamrul Hasan, Guang Yang, Choon Hwai Yap|
-| July 12th 2025     | Reviews Due                |
-| July 19th 2025     | Notification of Acceptance |
-| August 6th 2025    | Camera Ready Submission    |
-| September 27th 2025| ASMUS Workshop             |
+| 08:17–08:29        | DiffUS: Differentiable Ultrasound Rendering from Volumetric Imaging<br>Gabriel Duguey, Noe Bertramo, Vivek Gopalakrishnan|
+| 08:29–08:41        | TREAT-Net: Tabular-Referenced Echocardiography Analysis for Acute Coronary Syndrome Treatment Prediction<br>Diane Kim, Nguyen Nhat Minh To, Dr. Sherif Abdalla, Teresa Tsang, Purang Abolmaesumi, Christina Luong|
+| 08:41–08:53        | DiFUSAL: Diffusion-Based Fetal Ultrasound Synthesis with Active Learning<br>Maryam Arjemandi, Salma Hassan, Hu Wang, Mohammad Yaqub, Saudabi Valappil|
+| 08:55–09:35        | Keynote: Towards Cardiovascular AI<br>David Ouyang, Kaiser Permanente|
+| 09:35–10:00        | Technical demonstrations from Nvidia<br>Stephen Aylward|
+| 10:00-10:40        | Coffee Break and Posters|
 
 Time	Paper Title
 08:05–08:17	Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module
