@@ -73,6 +73,20 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 ### 🟩 Session 1: Oral Session 1 – *Segmentation, Imaging and Synthesis*  
 **Session Chairs:** Wufeng Xue and Ruobing Huang
 
+- **08:05–08:17** — *Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module*  
+  *Md Kamrul Hasan, Guang Yang, Choon Hwai Yap*
+- **08:17–08:29** — *DiffUS: Differentiable Ultrasound Rendering from Volumetric Imaging*  
+  *Gabriel Duguey, Noe Bertramo, Vivek Gopalakrishnan*
+- **08:29–08:41** — *TREAT-Net: Tabular-Referenced Echocardiography Analysis for Acute Coronary Syndrome Treatment Prediction*  
+  *Diane Kim, Nguyen Nhat Minh To, Sherif Abdalla, Teresa Tsang, Purang Abolmaesumi, Christina Luong*
+- **08:41–08:53** — *DiFUSAL: Diffusion-Based Fetal Ultrasound Synthesis with Active Learning*  
+  *Maryam Arjemandi, Salma Hassan, Hu Wang, Mohammad Yaqub, Saudabi Valappil*
+- **08:55–09:35** — 🔑 *Keynote: Towards Cardiovascular AI*  
+  *David Ouyang (Kaiser Permanente)*
+- **09:35–10:00** — 🛠️ *Technical Demos from NVIDIA*  
+  *Stephen Aylward*
+- **10:00–10:40** — ☕ *Coffee Break + Posters*
+
 | Time        | Paper Title |
 |------------ |--------------|
 | 08:05-08:17 | **Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module**  
