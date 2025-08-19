@@ -64,9 +64,6 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 
 ## Program
-**Workshop Title: The 6th International Workshop of Advances in Simplifying Medical UltraSound**
-
-**Workshop Date: 27th September, 2025**
 
 08:00–08:05	Introduction and Opening
 
