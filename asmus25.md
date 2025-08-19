@@ -229,7 +229,7 @@ To address this need, the challenge tasks participants with developing a fully a
 ### [Gates Foundation](https://www.gatesfoundation.org/)
 <img src="im/GF PRIMARY WEATHERED SLATE LOGO_4BY1 RATIO-FIXED.svg" alt="ImFusion" width="300"/>
 
-### [Nvidia](https://www.nvidia.com/)
+### [NVIDIA](https://www.nvidia.com/)
 <img src="im/nvidia.png" alt="ULTROMICS" width="300"/>
 
 
