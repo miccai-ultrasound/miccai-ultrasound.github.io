@@ -74,8 +74,8 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 **Session Chairs:** Wufeng Xue and Ruobing Huang
 
 - **08:05–08:17**
-  Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module 
-  *Md Kamrul Hasan, Guang Yang, Choon Hwai Yap*
+  - Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module
+    *Md Kamrul Hasan, Guang Yang, Choon Hwai Yap*
 - **08:17–08:29**
   DiffUS: Differentiable Ultrasound Rendering from Volumetric Imaging  
   *Gabriel Duguey, Noe Bertramo, Vivek Gopalakrishnan*
