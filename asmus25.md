@@ -91,8 +91,8 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
   *David Ouyang (Kaiser Permanente)*
 
 - 09:35–10:00  
-  **Technical Demos from NVIDIA**  
-  *Stephen Aylward*
+  **Invited Technical Report**  
+  *Stephen Aylward (NVIDIA)*
 
 - 10:00–10:40  
   **Coffee Break + Posters**
