@@ -203,7 +203,7 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ### [David Ouyang](https://douyang.github.io/)
 
-![David Ouyang](im/david_ouyang.jpg)
+<img src="im/david_ouyang.jpg" alt="David Ouyang" width="150"/>
 
 _Bio:_ David Ouyang, MD, is a research scientist at the Kaiser Permanente Northern California Division of Research and a non-invasive cardiologist and echocardiographer at Kaiser Permanente Santa Clara Medical Center. Dr. Ouyang’s group works on applications of deep learning, computer vision, and the statistical analysis of large datasets within cardiovascular medicine. His work has been published in Nature, Nature Medicine, NEJM AI, Circulation, JACC, JAMA Cardiology, EHJ, and other venues. He is also a Deputy Editor for New England Journal of Medicine (NEJM) AI.
 
