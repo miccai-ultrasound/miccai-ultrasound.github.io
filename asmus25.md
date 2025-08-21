@@ -205,11 +205,15 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 <img src="im/david_ouyang.jpg" alt="David Ouyang" width="150"/>
 
+Keynote: Towards Cardiovascular AI
+
 _Bio:_ David Ouyang, MD, is a research scientist at the Kaiser Permanente Northern California Division of Research and a non-invasive cardiologist and echocardiographer at Kaiser Permanente Santa Clara Medical Center. Dr. Ouyang’s group works on applications of deep learning, computer vision, and the statistical analysis of large datasets within cardiovascular medicine. His work has been published in Nature, Nature Medicine, NEJM AI, Circulation, JACC, JAMA Cardiology, EHJ, and other venues. He is also a Deputy Editor for New England Journal of Medicine (NEJM) AI.
 
 A physician-scientist and statistician with a focus on cardiology and imaging, Dr. Ouyang majored in statistics at Rice University, obtained his MD at the University of California, San Francisco, and received post-graduate medical education in internal medicine, cardiology, and a postdoctoral fellowship in computer science and biomedical data science at Stanford University. He is the recipient of an NHLBI K99/R00 and two R01 grants focused on applications of computer vision in echocardiography. He is the Principal Investigator (PI) or Co-Investigator on multiple investigator-initiated pragmatic clinical trials of AI in cardiovascular medicine.
 
-### [Wei Luo](https://douyang.github.io/)
+### Wei Luo (Gates Foundation)
+
+Keynote: Transforming Healthcare with AI – Scalable AI-powered Ultrasound Solutions for Resource-Constrained Settings
 
 ## Challenge
 
@@ -228,11 +232,10 @@ To address this need, the challenge tasks participants with developing a fully a
 
 ## Sponsors
 
-### [Gates Foundation](https://www.gatesfoundation.org/)
-<img src="im/GF PRIMARY WEATHERED SLATE LOGO_4BY1 RATIO-FIXED.svg" alt="ImFusion" width="300"/>
-
 ### [NVIDIA](https://www.nvidia.com/)
 <img src="im/nvidia.png" alt="ULTROMICS" width="300"/>
+
+### [Rayshape](https://rayshape.com/)
 
 
 ## Organizers
