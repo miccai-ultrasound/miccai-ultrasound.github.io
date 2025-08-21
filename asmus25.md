@@ -236,7 +236,7 @@ To address this need, the challenge tasks participants with developing a fully a
 <img src="im/nvidia.png" alt="ULTROMICS" width="300"/>
 
 ### [Rayshape](https://rayshape.com/)
-
+<img src="im/rayshape.svg" alt="ULTROMICS" width="300"/>
 
 ## Organizers
 
