@@ -76,7 +76,7 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 - 08:17–08:29  
   **DiffUS: Differentiable Ultrasound Rendering from Volumetric Imaging**  
-  *Gabriel Duguey, Noe Bertramo, Vivek Gopalakrishnan*
+  *Noe Bertramo, Gabriel Duguey, and Vivek Gopalakrishnan*
 
 - 08:29–08:41  
   **TREAT-Net: Tabular-Referenced Echocardiography Analysis for Acute Coronary Syndrome Treatment Prediction**  
@@ -212,8 +212,14 @@ _Bio:_ David Ouyang, MD, is a research scientist at the Kaiser Permanente Northe
 A physician-scientist and statistician with a focus on cardiology and imaging, Dr. Ouyang majored in statistics at Rice University, obtained his MD at the University of California, San Francisco, and received post-graduate medical education in internal medicine, cardiology, and a postdoctoral fellowship in computer science and biomedical data science at Stanford University. He is the recipient of an NHLBI K99/R00 and two R01 grants focused on applications of computer vision in echocardiography. He is the Principal Investigator (PI) or Co-Investigator on multiple investigator-initiated pragmatic clinical trials of AI in cardiovascular medicine.
 
 ### Wei Luo (Gates Foundation)
+<img src="im/david_ouyang.jpg" alt="David Ouyang" width="150"/>
 
 **Keynote: Transforming Healthcare with AI – Scalable AI-powered Ultrasound Solutions for Resource-Constrained Settings**
+
+_Bio:_ Wei Luo is a Senior Officer for AI and Medical Devices at the Gates Foundation, overseeing innovation and product development investments in maternal and newborn health. Wei brings more than 20 years of product and technology experience and expertise across the private and nonprofit sectors, particularly in the areas of Ultrasound, AI/ML, and medical devices. Most recently, Wei served as Senior Director of Product Management at Global Health Labs, where he led the product development of AI-enabled medical devices designed for non-specialist health workers in low-resource settings. His work included an AI-enabled OB Ultrasound product that enables nurses and midwives to do earlier identification of high-risk pregnancies. He also led the commercialization strategy and plan of a cervical cancer screening tool using Edge AI in India and Africa.
+
+Previously, Wei held senior roles at Microsoft, where he led AI/ML feature development for Windows, and the Voice Clarity feature launched in 2022 as a premium communication experience for Teams. Prior to Microsoft, he worked as a Senior Director of Product Development at Siemens Healthineers from 2014 -2019, directing the development of medical ultrasound devices and solutions in Intracardiac Echocardiography (ICE) as well as Cardiology and General Imaging, with multiple Class-II and Class-III devices released to the market. Earlier in his career, Wei worked for GE and GE Healthcare for 9 years, spearheading the development and release of the first e4D curved matrix array for Voluson E10 OB/GYN imaging system in 2014 that enabled early fetal heart diagnosis.
+
 
 ## Challenge
 
