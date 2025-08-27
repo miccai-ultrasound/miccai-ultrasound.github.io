@@ -212,7 +212,7 @@ _Bio:_ David Ouyang, MD, is a research scientist at the Kaiser Permanente Northe
 A physician-scientist and statistician with a focus on cardiology and imaging, Dr. Ouyang majored in statistics at Rice University, obtained his MD at the University of California, San Francisco, and received post-graduate medical education in internal medicine, cardiology, and a postdoctoral fellowship in computer science and biomedical data science at Stanford University. He is the recipient of an NHLBI K99/R00 and two R01 grants focused on applications of computer vision in echocardiography. He is the Principal Investigator (PI) or Co-Investigator on multiple investigator-initiated pragmatic clinical trials of AI in cardiovascular medicine.
 
 ### Wei Luo (Gates Foundation)
-<img src="im/david_ouyang.jpg" alt="David Ouyang" width="150"/>
+<img src="im/weiluo.jpg" alt="Wei Luo" width="150"/>
 
 **Keynote: Transforming Healthcare with AI – Scalable AI-powered Ultrasound Solutions for Resource-Constrained Settings**
 
