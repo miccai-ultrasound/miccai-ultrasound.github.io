@@ -241,7 +241,7 @@ To address this need, the challenge tasks participants with developing a fully a
 <img src="im/ICMA.png" alt="ULTROMICS" width="300"/>
 
 ### [NVIDIA](https://www.nvidia.com/)
-<img src="im/nvi.png" alt="ULTROMICS" width="300"/>
+<img src="im/nvi.jpg" alt="ULTROMICS" width="300"/>
 
 ### [度影医疗(RayShape)](https://rayshape.com/)
 <img src="im/rayshape.svg" alt="ULTROMICS" width="300"/>
