@@ -237,7 +237,7 @@ To address this need, the challenge tasks participants with developing a fully a
 
 
 ## Sponsors
-### [Internation Chinese MIC Association(ICMA)]
+### Internation Chinese MIC Association(ICMA)
 <img src="im/ICMA.jpg" alt="ULTROMICS" width="300"/>
 
 ### [NVIDIA](https://www.nvidia.com/)
