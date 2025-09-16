@@ -10,7 +10,7 @@
 
 **News! We are happy to share with you that an interesting J-BHI special issue on [Next-Generation AI-Powered Medical Ultrasound Imaging: Methods and Systems](https://www.embs.org/jbhi/special-issues/) is newly launched, which aligns quite well with the ASMUS workshop. Extension of the workshop papers are encouraged to be submitted to this special issue.**
 
-**News! One Petaflop of Pure Power: NVIDIA Gifts Its First-Ever [DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) Supercomputer to ASMUS Workshop!**
+**News! One Petaflop of Pure Power: NVIDIA gifts its first-ever [DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) supercomputer to ASMUS Workshop!**
 
 **News! The International Chinese MIC Association (ICMA) has decided to sponsor the workshop with two GEFORCE RTX 5060.**
 
