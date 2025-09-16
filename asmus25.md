@@ -8,13 +8,13 @@
 
 **ASMUS is the official workshop of the [MICCAI Special Interest Group on Medical Ultrasound](https://miccai-ultrasound.github.io/).**
 
-**NEWS: We are happy to share with you that an interesting J-BHI special issue on [Next-Generation AI-Powered Medical Ultrasound Imaging: Methods and Systems](https://www.embs.org/jbhi/special-issues/) is newly launched, which aligns quite well with the ASMUS workshop. Extension of the workshop papers are encouraged to be submitted to this special issue.**
+**News! We are happy to share with you that an interesting J-BHI special issue on [Next-Generation AI-Powered Medical Ultrasound Imaging: Methods and Systems](https://www.embs.org/jbhi/special-issues/) is newly launched, which aligns quite well with the ASMUS workshop. Extension of the workshop papers are encouraged to be submitted to this special issue.**
 
-**NEWS: One Petaflop of Pure Power: NVIDIA Gifts Its First-Ever [DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) Supercomputer to ASMUS Workshop!**
+**News! One Petaflop of Pure Power: NVIDIA Gifts Its First-Ever [DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) Supercomputer to ASMUS Workshop!**
 
-**NEWS: The International Chinese MIC Association (ICMA) has decided to sponsor the workshop with two GEFORCE RTX 5060.**
+**News! The International Chinese MIC Association (ICMA) has decided to sponsor the workshop with two GEFORCE RTX 5060.**
 
-**NEWS: [Shenzhen RayShape Medical Technology](https://rayshape.com/) grants ASMUS with three AI-powered medical image annotation software [Pair](https://www.aipair.com.cn/) with lifetime licenses.**
+**News! [Shenzhen RayShape Medical Technology](https://rayshape.com/) grants ASMUS with three AI-powered medical image annotation software [Pair](https://www.aipair.com.cn/) with lifetime licenses.**
 
 ## Call for Papers
 
