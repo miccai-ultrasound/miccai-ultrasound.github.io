@@ -8,13 +8,13 @@
 
 **ASMUS is the official workshop of the [MICCAI Special Interest Group on Medical Ultrasound](https://miccai-ultrasound.github.io/).**
 
-**$${\color{red}News!}$$ One Petaflop of Pure Power: NVIDIA gifts its first-ever [DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) supercomputer to ASMUS Workshop!**
+**<font color="red">News!</font> One Petaflop of Pure Power: NVIDIA gifts its first-ever [DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) supercomputer to ASMUS Workshop!**
 
-**$${\color{red}News!}$$ The International Chinese MIC Association (ICMA) has decided to sponsor the workshop with two GEFORCE RTX 5060.**
+**<font color="red">News!</font> The International Chinese MIC Association (ICMA) has decided to sponsor the workshop with two GEFORCE RTX 5060.**
 
-**$${\color{red}News!}$$ [Shenzhen RayShape Medical Technology](https://rayshape.com/) grants ASMUS with three AI-powered medical image annotation software [Pair](https://www.aipair.com.cn/) with lifetime licenses.**
+**<font color="red">News!</font> [Shenzhen RayShape Medical Technology](https://rayshape.com/) grants ASMUS with three AI-powered medical image annotation software [Pair](https://www.aipair.com.cn/) with lifetime licenses.**
 
-**$${\color{red}News!}$$ We are happy to share with you that an interesting J-BHI special issue on [Next-Generation AI-Powered Medical Ultrasound Imaging: Methods and Systems](https://www.embs.org/jbhi/special-issues/) is newly launched, which aligns quite well with the ASMUS workshop. Extension of the workshop papers are encouraged to be submitted to this special issue.**
+**<font color="red">News!</font> We are happy to share with you that an interesting J-BHI special issue on [Next-Generation AI-Powered Medical Ultrasound Imaging: Methods and Systems](https://www.embs.org/jbhi/special-issues/) is newly launched, which aligns quite well with the ASMUS workshop. Extension of the workshop papers are encouraged to be submitted to this special issue.**
 
 ## Call for Papers
 
