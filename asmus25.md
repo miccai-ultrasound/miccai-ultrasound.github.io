@@ -299,8 +299,13 @@ To address this need, the challenge tasks participants with developing a fully a
 - Reza Razavi (King’s College London, UK)
 - Joseph Hajnal (King’s College London, UK)
 
-Winners: 
-Yanfeng Zhou, Haoran Dou, Bernhard Kainz, Yaoduo Zhang, Mingyuan Luo
+## Reviewer Award
+### Winners: 
+-Yanfeng Zhou
+-Haoran Dou
+-Bernhard Kainz
+-Yaoduo Zhang
+-Mingyuan Luo
 
 Notable Reviewers:
 Alexander Thorley, Zhifang Gao, Rongjun Ge, Yanlin Chen, Tao Zhou, Shumao Pang, Jun Cheng, Mingyuan Luo, Xinyan Fang, Qiming Huang, Hussain Alasmawi, Haoming Zhang
