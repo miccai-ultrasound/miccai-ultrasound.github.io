@@ -307,5 +307,5 @@ To address this need, the challenge tasks participants with developing a fully a
 -Yaoduo Zhang
 -Mingyuan Luo
 
-Notable Reviewers:
+### Notable Reviewers:
 Alexander Thorley, Zhifang Gao, Rongjun Ge, Yanlin Chen, Tao Zhou, Shumao Pang, Jun Cheng, Mingyuan Luo, Xinyan Fang, Qiming Huang, Hussain Alasmawi, Haoming Zhang
