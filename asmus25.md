@@ -156,52 +156,52 @@ This multidisciplinary workshop will foster cross-sector collaboration, rigorous
 
 ### 🧾 Posters
 
-- **VidFuncta: Towards Generalizable Neural Representations for Ultrasound Videos**  
+- **ASMUS-P-01: VidFuncta: Towards Generalizable Neural Representations for Ultrasound Videos**  
   *Wolleb, J., Bieder, F., Friedrich, P., Tagare, H., Papademetris, X.*
 
-- **From Transthoracic to Transesophageal: Cross-Modality Generation using LoRA Diffusion**  
+- **ASMUS-P-02: From Transthoracic to Transesophageal: Cross-Modality Generation using LoRA Diffusion**  
   *Oladokun, E., Ou, Y., Novikova, A., Kulikova, D., Thomas, S., Sprem, J., Grau, V.*
 
-- **L-FUSION: Laplacian Fetal Ultrasound Segmentation & Uncertainty Estimation**  
+- **ASMUS-P-03: L-FUSION: Laplacian Fetal Ultrasound Segmentation & Uncertainty Estimation**  
   *Müller, J., Wright, R., Day, T., Venturini, L., Budd, S., Reynaud, H., Hajnal, J., Razavi, R., Kainz, B.*
 
-- **3D Heart Reconstruction from Sparse Pose-agnostic 2D Echocardiographic Slices**  
+- **ASMUS-P-04: 3D Heart Reconstruction from Sparse Pose-agnostic 2D Echocardiographic Slices**  
   *Chen, Z., Chen, J., Zhuo, W., Wufeng, X., Ni, D.*
 
-- **3D Ultrasound Volume Reconstruction using a CNN-Transformer model and IMU data**  
+- **ASMUS-P-05: 3D Ultrasound Volume Reconstruction using a CNN-Transformer model and IMU data**  
   *Wijkhuizen, M., Adriaans, C., Karnenbeek, L., Natali, T., Ruers, T., Geldof, F., Dashtbozorg, B.*
 
-- **Optimization-Based Calibration for Intravascular Ultrasound Volume Reconstruction**  
+- **ASMUS-P-06: Optimization-Based Calibration for Intravascular Ultrasound Volume Reconstruction**  
   *Beaudet, K., El hadramy, S., Cattin, P., Verde, J., Cotin, S.*
 
-- **Anatomically Constrained Transformers for Cardiac Amyloidosis Classification**  
+- **ASMUS-P-07: Anatomically Constrained Transformers for Cardiac Amyloidosis Classification**  
   *Thorley, A., Chartsias, A., Strom, J., Lang, R., Slivnick, J., O'Driscoll, J., Sharma, R., Kotecha, D., Duan, J., Gomez, A.*
 
-- **D.A.R.K.: Dynamic Graphs based Angle-aware Registration of Knee Ultrasound Point Clouds**  
+- **ASMUS-P-08: D.A.R.K.: Dynamic Graphs based Angle-aware Registration of Knee Ultrasound Point Clouds**  
   *Injune Hwang, Stephen Mellon, Dr. Jack Tu*
 
-- **The Impact of Biomechanical Quantities on PINNs-based Medical Image Registration**  
+- **ASMUS-P-09: The Impact of Biomechanical Quantities on PINNs-based Medical Image Registration**  
   *Shixing Ma, Zhaoxi Lin, Xinzhe Du, Yipeng Hu, Zhe Min*
 
-- **Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**  
+- **ASMUS-P-10: Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**  
   *Pegios, P., Lin, M., Weng, N., Søndergaard Svendsen, M., Bashir, Z., Bigdeli, S., Christensen, A., Tolsgaard, M., Feragen, A.*
 
-- **Learning to Stop: Reinforcement Learning for Efficient Patient-Level Echocardiographic Classification**  
+- **ASMUS-P-11: Learning to Stop: Reinforcement Learning for Efficient Patient-Level Echocardiographic Classification**  
   *Cho Kim, W., Oliveira, J., Thorley, A., Beqiri, A., O'Driscoll, J., Slivnick, J., Strom, J., Sharma, R., Lang, R., Gomez, A., Chartsias, A.*
 
-- **WiseLVAM: A Novel Framework For Left Ventrical Automatic Measurements**  
+- **ASMUS-P-12: WiseLVAM: A Novel Framework For Left Ventrical Automatic Measurements**  
   *Kumar Singh, D., Cao, Q., Thomas, S., Boubekki, A., Jenssen, R., Kampffmeyer, M.*
 
-- **UGFNet: Uncertainty-Guided Graph Neural Network with Frequency-Aware Feature Fusion for Breast Ultrasound Segmentation**  
+- **ASMUS-P-13: UGFNet: Uncertainty-Guided Graph Neural Network with Frequency-Aware Feature Fusion for Breast Ultrasound Segmentation**  
   *Kong, H., Shin, J.*
 
-- **HiProtoNet: Hyperbolic Hierarchy-aware Part Prototypes for Aortic Stenosis Severity Classification**  
+- **ASMUS-P-14: HiProtoNet: Hyperbolic Hierarchy-aware Part Prototypes for Aortic Stenosis Severity Classification**  
   *Vaseli, H., Wu, V., Kim, D., Tsang, M., Gu, A., Luong, C., Abolmaesumi, P., Tsang, T.*
 
-- **COVID-19 Severity Prediction from Lung Ultrasound via Dynamic Gated Multi-Instance Learning**  
+- **ASMUS-P-15: COVID-19 Severity Prediction from Lung Ultrasound via Dynamic Gated Multi-Instance Learning**  
   *Lin, C., Xue, W., Ni, D., Zhou, G.*
 
-- **Guide2Heart: Proximity Guidance for Standard Echocardiographic View**  
+- **ASMUS-P-16: Guide2Heart: Proximity Guidance for Standard Echocardiographic View**  
   *Gajendra Singh, Aiman Farooq, Azad Singh, Deepak Mishra, Rahul Choudhary, Pushpinder Singh Khera*
 
 
@@ -243,11 +243,11 @@ To address this need, the challenge tasks participants with developing a fully a
 
 
 ## Sponsors
-### Internation Chinese MIC Association(ICMA)
-<img src="im/ICMA.jpg" alt="ULTROMICS" width="300"/>
-
 ### [NVIDIA](https://www.nvidia.com/)
 <img src="im/nvi.png" alt="ULTROMICS" width="300"/>
+
+### Internation Chinese MIC Association(ICMA)
+<img src="im/ICMA.jpg" alt="ULTROMICS" width="300"/>
 
 ### [度影医疗(RayShape)](https://rayshape.com/)
 <img src="im/rayshape.svg" alt="ULTROMICS" width="300"/>
@@ -299,4 +299,8 @@ To address this need, the challenge tasks participants with developing a fully a
 - Reza Razavi (King’s College London, UK)
 - Joseph Hajnal (King’s College London, UK)
 
+Winners: 
+Yanfeng Zhou, Haoran Dou, Bernhard Kainz, Yaoduo Zhang, Mingyuan Luo
 
+Notable Reviewers:
+Alexander Thorley, Zhifang Gao, Rongjun Ge, Yanlin Chen, Tao Zhou, Shumao Pang, Jun Cheng, Mingyuan Luo, Xinyan Fang, Qiming Huang, Hussain Alasmawi, Haoming Zhang
