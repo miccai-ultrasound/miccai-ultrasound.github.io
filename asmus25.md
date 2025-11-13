@@ -8,6 +8,8 @@
 
 **ASMUS is the official workshop of the [MICCAI Special Interest Group on Medical Ultrasound](https://miccai-ultrasound.github.io/).**
 
+**<font color="red">News!</font> Please use the following link to access the proceedings: https://link.springer.com/book/10.1007/978-3-032-06329-8.**
+
 **<font color="red">News!</font> One Petaflop of Pure Power: NVIDIA gifts its first-ever [DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) supercomputer to ASMUS Workshop!**
 
 **<font color="red">News!</font> The International Chinese MIC Association (ICMA) has decided to sponsor the workshop with two GEFORCE RTX 5060.**
