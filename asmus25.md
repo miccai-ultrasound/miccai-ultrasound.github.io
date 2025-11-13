@@ -301,6 +301,21 @@ To address this need, the challenge tasks participants with developing a fully a
 - Reza Razavi (King’s College London, UK)
 - Joseph Hajnal (King’s College London, UK)
 
+## Author Award
+
+| Name of recipient           | Paper                                                                                   | Award                       |
+|-----------------------------|-----------------------------------------------------------------------------------------|------------------------------|
+| Oladokun, E.               | From Transthoracic to Transesophageal: Cross-Modality Generation using LoRA Diffusion  | Best paper award             |
+| Noe Bertramo                 | DiffUS: Differentiable Ultrasound Rendering from Volumetric Imaging         | Best paper runner up         |
+| Paul Wilson                | DualTrack: Sensorless 3D Ultrasound needs Local and Global Context               | Best paper runner up         |
+| Mengting Yang          | Det-SAMReg: Few-Shot Medical Image Registration using Vision Foundation Models  | Best presentation award      |
+| Diane Kim               | TREAT-Net: Tabular-Referenced Echocardiography Analysis for Acute Coronary Syndrome Treatment Prediction  | Best presentation runner up  |
+| Md Kamrul Hasan                  | Motion-enhanced Cardiac Anatomy Segmentation via an Insertable Temporal Attention Module         | Best presentation runner up  |
+| Cho Kim                 | Learning to Stop: Reinforcement Learning for Efficient Patient-Level Echocardiographic Classification        | Best poster award            |
+| Gajendra Singh       | Guide2Heart: Proximity Guidance for Standard Echocardiographic View  | Best poster runner up |
+| Injune Hwang         | D.A.R.K.: Dynamic Graphs based Angle-aware Registration of Knee Ultrasound Point Clouds                   | Best poster runner up|
+
+
 ## Reviewer Award
 ### Winners: 
 -Yanfeng Zhou
