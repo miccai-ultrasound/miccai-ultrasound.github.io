@@ -84,15 +84,47 @@ We welcome original research contributions and proof-of-concept studies from nov
 TBD
 
 
-## Sponsors
-### [ImFusion](https://imfusion.com/)
-<img src="im/ImFusion_Logo_blue_R0G161B212_black.png" alt="ULTROMICS" width="300"/>
+## Sponsors and Partners
 
-### [SIG-MUS](https://miccai.org/index.php/special-interest-groups/sig-mus/)
-<img src="im/SIGMUS-transparent.png" alt="ULTROMICS" width="300"/>
+<div style="background:#eef4fb; border:1px solid #c8d7ea; border-radius:16px; padding:28px 32px; margin:24px 0;">
 
-### [度影医疗(RayShape)](https://rayshape.com/)
-<img src="im/rayshape.svg" alt="ULTROMICS" width="300"/>
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:32px; margin:28px 0;">
+    <div style="flex:0 0 220px; text-align:left;">
+      <a href="https://imfusion.com/" target="_blank"
+         style="font-size:1.5em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        ImFusion
+      </a>
+    </div>
+    <div style="flex:1; text-align:center;">
+      <img src="im/ImFusion_Logo_blue_R0G161B212_black.png" alt="ImFusion logo" width="420" />
+    </div>
+  </div>
+
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:32px; margin:40px 0;">
+    <div style="flex:0 0 220px; text-align:left;">
+      <a href="https://miccai.org/index.php/special-interest-groups/sig-mus/" target="_blank"
+         style="font-size:1.5em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        SIG-MUS
+      </a>
+    </div>
+    <div style="flex:1; text-align:center;">
+      <img src="im/SIGMUS-transparent.png" alt="SIG-MUS logo" width="420" />
+    </div>
+  </div>
+
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:32px; margin:40px 0 8px 0;">
+    <div style="flex:0 0 220px; text-align:left;">
+      <a href="https://rayshape.com/" target="_blank"
+         style="font-size:1.5em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        RayShape
+      </a>
+    </div>
+    <div style="flex:1; text-align:center;">
+      <img src="im/rayshape.svg" alt="RayShape logo" width="420" />
+    </div>
+  </div>
+
+</div>
 
 ## Organizers
 
