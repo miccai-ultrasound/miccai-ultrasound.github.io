@@ -86,7 +86,6 @@ TBD
 
 ## Sponsors and Partners
 
-<div style="background:#eef4fb; border:1px solid #c8d7ea; border-radius:16px; padding:28px 32px; margin:24px 0;">
 
   <div style="display:flex; align-items:center; justify-content:space-between; gap:32px; margin:28px 0;">
     <div style="flex:0 0 220px; text-align:left;">
@@ -95,8 +94,8 @@ TBD
         ImFusion
       </a>
     </div>
-    <div style="flex:1; text-align:center;">
-      <img src="im/ImFusion_Logo_blue_R0G161B212_black.png" alt="ImFusion logo" width="420" />
+    <div style="flex:1; text-align:left;">
+      <img src="im/ImFusion_Logo_blue_R0G161B212_black.png" alt="ImFusion logo" width="250" />
     </div>
   </div>
 
@@ -107,8 +106,8 @@ TBD
         SIG-MUS
       </a>
     </div>
-    <div style="flex:1; text-align:center;">
-      <img src="im/SIGMUS-transparent.png" alt="SIG-MUS logo" width="420" />
+    <div style="flex:1; text-align:left;">
+      <img src="im/SIGMUS-transparent.png" alt="SIG-MUS logo" width="250" />
     </div>
   </div>
 
@@ -119,12 +118,12 @@ TBD
         RayShape
       </a>
     </div>
-    <div style="flex:1; text-align:center;">
-      <img src="im/rayshape.svg" alt="RayShape logo" width="420" />
+    <div style="flex:1; text-align:left;">
+      <img src="im/rayshape.svg" alt="RayShape logo" width="250" />
     </div>
   </div>
 
-</div>
+
 
 
 ## Organizers
