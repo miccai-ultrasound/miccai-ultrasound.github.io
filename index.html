@@ -49,6 +49,84 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
     />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      /* ── Color & font tokens ───────────────────────────── */
+      :root {
+        --theme-color: #1a6faf;
+
+        --base-font-family: "Inter", system-ui, sans-serif;
+        --base-font-size: 16px;
+        --base-line-height: 1.75;
+        --base-color: #1e2a38;
+
+        --heading-font-family: "Inter", system-ui, sans-serif;
+        --heading-font-weight: 600;
+        --heading-color: #0f2236;
+        --heading-h2-font-weight: 500;
+        --heading-h3-font-weight: 500;
+        --heading-h2-border-color: #d0dce8;
+
+        --link-color: #1a6faf;
+        --link-color--hover: #134e7e;
+
+        --sidebar-background: #f5f8fb;
+        --sidebar-border-color: #dce6ef;
+        --sidebar-nav-link-color: #2c4a6a;
+        --sidebar-nav-link-color--hover: #1a6faf;
+        --sidebar-nav-link-font-weight: 500;
+
+        --table-head-background: #eaf1f8;
+        --table-head-font-weight: 600;
+        --table-cell-border-color: #d0dce8;
+        --table-row-even-background: #f7fafd;
+      }
+
+      /* ── h2 spacing ────────────────────────────────────── */
+      .markdown-section h2 {
+        margin-top: 2.2rem;
+        padding-bottom: 0.4rem;
+      }
+
+      /* ── News items — blue left accent (News section only) ─ */
+      h2[id="news"] + ul > li {
+        border-left: 3px solid #1a6faf;
+        padding: 0.25rem 0.75rem;
+        margin-bottom: 0.5rem;
+        list-style: none;
+        background: #f0f6fc;
+        border-radius: 0 4px 4px 0;
+      }
+
+      /* ── Tables ────────────────────────────────────────── */
+      .markdown-section table {
+        border-radius: 6px;
+        overflow: hidden;
+        font-size: 0.95em;
+      }
+      .markdown-section th {
+        background: #1a6faf;
+        color: #ffffff;
+        font-weight: 600;
+      }
+
+      /* ── Submission Guidelines — card background ────────── */
+      h2[id="submission-guidelines"] + p + ul,
+      h2[id="submission-guidelines"] + ul {
+        background: #f5f8fb;
+        border: 1px solid #d0dce8;
+        border-radius: 8px;
+        padding: 0.8rem 1.4rem;
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>
