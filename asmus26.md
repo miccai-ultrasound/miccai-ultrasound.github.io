@@ -9,7 +9,7 @@
 
 ## News
 
-- **[April 2026]** <font color="red">Call for Papers!</font> The ASMUS 2026 submission portal is now open. Deadline: **June 26, 2026, 23:59 PT**.
+- **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**.
 
 ## Overview
 
