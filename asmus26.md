@@ -9,6 +9,8 @@
 
 ## News
 
+<!-- - **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**. -->
+- **[May 2026]** <font color="red">The OpenReview submission portal is now open!</font> <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/ASMUS#tab-recent-activity" target="_blank">Submit here</a>. This is the correct submission portal for ASMUS 2026.
 - **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**.
 
 ## Overview
@@ -61,11 +63,13 @@ In addition, ASMUS 2026 will expand its scope in two directions:
 We welcome original research contributions and proof-of-concept studies from novel research directions.
 
 - **Format:** Papers must be written in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), with a maximum of **8 pages** (text, figures, and tables) plus **up to 2 pages** for references only.
-- **Submission:** Papers are submitted electronically via **OpenReview** (portal link to be updated).
+- **Submission:** Papers are submitted electronically via [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/ASMUS&referrer=%5BHomepage%5D(%2F)).
 - **Peer Review:** All submissions undergo double-blind peer review. Each paper is assessed by at least 3 reviewers, evaluated on scientific merit, relevance, novelty, methodology soundness, and clinical impact. The review panel combines experienced researchers with early-career reviewers, managed by the Program Chairs.
 - **Publication:** Accepted papers will be published in **Springer LNCS** as part of the MICCAI Satellite Events joint proceedings. For past proceedings, please visit the [SIG-MUS page](https://miccai.org/index.php/special-interest-groups/sig-mus/).
 - **Presentation:** Authors of accepted papers are required to present in person. All accepted papers are also offered the opportunity to present a live demonstration.
 - **Awards:** Top submissions will be considered for industry-sponsored awards. More details to be updated.
+
+> **Open Access & Patent Notice:** An open-access version of all accepted papers from the MICCAI 2026 Satellite Event ASMUS will be made available on the MICCAI Society website no earlier than one week before the first day of the conference. Authors intending to file patents are responsible for ensuring that all necessary filings are completed prior to this public release.
 
 
 ## Important Dates
