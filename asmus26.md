@@ -11,6 +11,7 @@
 
 <!-- - **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**. -->
 - **[May 2026]** <font color="red">The OpenReview submission portal is now open!</font> <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/ASMUS#tab-recent-activity" target="_blank">Submit here</a>. This is the correct submission portal for ASMUS 2026.
+- **[May 2026]** <font color="red">Call for Reviewers!</font> We welcome researchers and practitioners with expertise to join the ASMUS 2026 reviewer team. Interested reviewers can apply via the <a href="https://docs.google.com/forms/d/1g3GplrxM1987I7GTx36XO5avT6THBb6v7E90DIPdxbs2" target="_blank">reviewer application form</a>.
 - **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**.
 
 ## Overview
@@ -64,6 +65,7 @@ We welcome original research contributions and proof-of-concept studies from nov
 
 - **Format:** Papers must be written in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), with a maximum of **8 pages** (text, figures, and tables) plus **up to 2 pages** for references only.
 - **Submission:** Papers are submitted electronically via [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/ASMUS&referrer=%5BHomepage%5D(%2F)).
+- **Reviewer Nomination:** Each paper must nominate **at least one unique reviewer**. Detailed reviewer information should be provided through OpenReview during submission.
 - **Peer Review:** All submissions undergo double-blind peer review. Each paper is assessed by at least 3 reviewers, evaluated on scientific merit, relevance, novelty, methodology soundness, and clinical impact. The review panel combines experienced researchers with early-career reviewers, managed by the Program Chairs.
 - **Publication:** Accepted papers will be published in **Springer LNCS** as part of the MICCAI Satellite Events joint proceedings. For past proceedings, please visit the [SIG-MUS page](https://miccai.org/index.php/special-interest-groups/sig-mus/).
 - **Presentation:** Authors of accepted papers are required to present in person. All accepted papers are also offered the opportunity to present a live demonstration.
@@ -80,13 +82,51 @@ We welcome original research contributions and proof-of-concept studies from nov
 | July 10, 2026                    | Paper Review Deadline      |
 | July 17, 2026                    | Notification of Acceptance |
 | August 3, 2026                   | Camera Ready Submission    |
-| TBD                              | ASMUS Workshop             |
+| October 1, 2026                  | ASMUS Workshop             |
 
 
 ## Keynote Speakers
 
-TBD
+<div style="display:flex; align-items:flex-start; gap:24px; margin:28px 0; flex-wrap:wrap;">
+  <div style="flex:0 0 170px;">
+    <img src="im/mirabela-rusu_profilephoto.jpg" alt="Keynote Speaker 1" 
+         style="width:160px; height:160px; object-fit:cover; border-radius:12px;">
+  </div>
 
+  <div style="flex:1; min-width:260px;">
+    <h3 style="margin-top:0; margin-bottom:6px;">Mirabela Rusu</h3>
+    <p style="margin:0 0 8px 0;">
+      <strong>Stanford University, USA</strong>
+    </p>
+    <p style="margin:0 0 8px 0;">
+      <em>Keynote title: TBD</em>
+    </p>
+    <p style="margin:0;">
+      Dr. Rusu is an Assistant Professor, in the Department of Radiology, and, by courtesy, Department of Urology and Biomedical Data Science, at Stanford University, where she leads the Personalized Integrative Medicine Laboratory (PIMed).
+    </p>
+  </div>
+</div>
+
+
+<div style="display:flex; align-items:flex-start; gap:24px; margin:32px 0; flex-wrap:wrap;">
+  <div style="flex:0 0 170px;">
+    <img src="im/Oliver-Zettinig-2.webp" alt="Keynote Speaker 2" 
+         style="width:160px; height:160px; object-fit:cover; border-radius:12px;">
+  </div>
+
+  <div style="flex:1; min-width:260px;">
+    <h3 style="margin-top:0; margin-bottom:6px;">Oliver Zettinig</h3>
+    <p style="margin:0 0 8px 0;">
+      <strong>ImFusion GmbH, Germany</strong>
+    </p>
+    <p style="margin:0 0 8px 0;">
+      <em>Keynote title: TBD</em>
+    </p>
+    <p style="margin:0;">
+      Head of Ultrasound | Senior Research Scientist, ImFusion GmbH, Consulting, research and development in advanced medical image computing technologies.
+    </p>
+  </div>
+</div>
 
 ## Sponsors and Partners
 
@@ -115,20 +155,41 @@ TBD
     </div>
   </div>
 
-  <div style="display:flex; align-items:center; justify-content:space-between; gap:32px; margin:40px 0 8px 0;">
-    <div style="flex:0 0 220px; text-align:left;">
-      <a href="https://rayshape.com/" target="_blank"
-         style="font-size:1.5em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
-        RayShape
-      </a>
-    </div>
-    <div style="flex:1; text-align:left;">
-      <img src="im/rayshape.svg" alt="RayShape logo" width="250" />
-    </div>
-  </div>
 
 
+## Awards
 
+<div style="background:#f5f8fb; border:1px solid #d0dce8; border-radius:12px; padding:22px 30px; margin:24px 0;">
+
+  <p style="font-size:1.05em;">
+    To recognize outstanding scientific contributions and encourage active participation,
+    ASMUS 2026 will present several awards generously sponsored by
+    <strong>SIG-MUS</strong> and <strong>ImFusion</strong>.
+  </p>
+
+  <h3>🏆 Best Paper Awards</h3>
+  <ul>
+    <li><strong>Best Paper:</strong> $250</li>
+    <li><strong>Best Paper Runner-up (×2):</strong> $150 each</li>
+  </ul>
+
+  <h3>🎤 Best Presentation Awards</h3>
+  <ul>
+    <li><strong>Best Presentation:</strong> $200 (sponsored by <strong>SIG-MUS</strong>)</li>
+    <li><strong>Best Presentation Runner-up (×2):</strong> $100 each</li>
+  </ul>
+
+  <h3>📌 Best Poster Awards</h3>
+  <ul>
+    <li><strong>Best Poster:</strong> $200 (sponsored by <strong>ImFusion</strong>)</li>
+    <li><strong>Best Poster Runner-up (×2):</strong> $100 each</li>
+  </ul>
+
+  <p>
+    We encourage all authors to submit their latest research and participate in ASMUS 2026 for the opportunity to showcase their work, gain visibility within the ultrasound community, and compete for these awards.
+  </p>
+
+</div>
 
 ## Organizers
 
