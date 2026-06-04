@@ -11,7 +11,7 @@
 
 <!-- - **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**. -->
 - **[May 2026]** <font color="red">The OpenReview submission portal is now open!</font> <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/ASMUS#tab-recent-activity" target="_blank">Submit here</a>. This is the correct submission portal for ASMUS 2026.
-- **[May 2026]** <font color="red">Call for Reviewers!</font> We welcome researchers and practitioners with expertise to join the ASMUS 2026 reviewer team. Interested reviewers can apply via the <a href="https://docs.google.com/forms/d/1g3GplrxM1987I7GTx36XO5avT6THBb6v7E90DIPdxbs2" target="_blank">reviewer application form</a>.
+- **[May 2026]** <font color="red">Call for Reviewers!</font> We welcome researchers and practitioners with expertise to join the ASMUS 2026 reviewer team. Interested reviewers can apply via the <a href="https://docs.google.com/forms/d/1g3GplrxM1987I7GTx36XO5avT6THBb6v7E90DIPdxbs" target="_blank">reviewer application form</a>.
 - **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**.
 
 ## Overview
