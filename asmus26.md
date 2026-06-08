@@ -187,14 +187,14 @@ We welcome original research contributions and proof-of-concept studies from nov
 
   <h3>🎤 Best Presentation Awards</h3>
   <ul>
-    <li><strong>Best Presentation:</strong> $200 (sponsored by <strong>SIG-MUS</strong>)</li>
-    <li><strong>Best Presentation Runner-up (×2):</strong> $100 each</li>
+    <li><strong>Best Presentation:</strong> $250 (sponsored by <strong>SIG-MUS</strong>)</li>
+    <li><strong>Best Presentation Runner-up (×2):</strong> $150 each</li>
   </ul>
 
   <h3>📌 Best Poster Awards</h3>
   <ul>
-    <li><strong>Best Poster:</strong> $200 (sponsored by <strong>ImFusion</strong>)</li>
-    <li><strong>Best Poster Runner-up (×2):</strong> $100 each</li>
+    <li><strong>Best Poster:</strong> $250 (sponsored by <strong>ImFusion</strong>)</li>
+    <li><strong>Best Poster Runner-up (×2):</strong> $125 each</li>
   </ul>
 
   <p>
