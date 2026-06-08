@@ -155,6 +155,18 @@ We welcome original research contributions and proof-of-concept studies from nov
     </div>
   </div>
 
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:32px; margin:40px 0;">
+    <div style="flex:0 0 220px; text-align:left;">
+      <a href="https://www.scanvio.com/" target="_blank"
+         style="font-size:1.5em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        SIG-MUS
+      </a>
+    </div>
+    <div style="flex:1; text-align:left;">
+      <img src="im/6647b33823738a6fda7bb52d_SCANVIO_LOGO_18.svg" alt="SCANVIO logo" width="250" />
+    </div>
+  </div>
+
 
 
 ## Awards
@@ -164,7 +176,7 @@ We welcome original research contributions and proof-of-concept studies from nov
   <p style="font-size:1.05em;">
     To recognize outstanding scientific contributions and encourage active participation,
     ASMUS 2026 will present several awards generously sponsored by
-    <strong>SIG-MUS</strong> and <strong>ImFusion</strong>.
+    <strong>SIG-MUS</strong>, <strong>ImFusion</strong> and <strong>SCANVIO</strong>.
   </p>
 
   <h3>🏆 Best Paper Awards</h3>
