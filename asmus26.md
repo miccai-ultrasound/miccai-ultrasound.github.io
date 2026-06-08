@@ -159,7 +159,7 @@ We welcome original research contributions and proof-of-concept studies from nov
     <div style="flex:0 0 220px; text-align:left;">
       <a href="https://www.scanvio.com/" target="_blank"
          style="font-size:1.5em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
-        SIG-MUS
+        SCANVIO Medical
       </a>
     </div>
     <div style="flex:1; text-align:left;">
@@ -176,7 +176,7 @@ We welcome original research contributions and proof-of-concept studies from nov
   <p style="font-size:1.05em;">
     To recognize outstanding scientific contributions and encourage active participation,
     ASMUS 2026 will present several awards generously sponsored by
-    <strong>SIG-MUS</strong>, <strong>ImFusion</strong> and <strong>SCANVIO</strong>.
+    <strong>SIG-MUS</strong>, <strong>ImFusion</strong> and <strong>SCANVIO Medical</strong>.
   </p>
 
   <h3>🏆 Best Paper Awards</h3>
@@ -187,13 +187,13 @@ We welcome original research contributions and proof-of-concept studies from nov
 
   <h3>🎤 Best Presentation Awards</h3>
   <ul>
-    <li><strong>Best Presentation:</strong> $250 (sponsored by <strong>SIG-MUS</strong>)</li>
+    <li><strong>Best Presentation:</strong> $250 </li>
     <li><strong>Best Presentation Runner-up (×2):</strong> $150 each</li>
   </ul>
 
   <h3>📌 Best Poster Awards</h3>
   <ul>
-    <li><strong>Best Poster:</strong> $250 (sponsored by <strong>ImFusion</strong>)</li>
+    <li><strong>Best Poster:</strong> $250 </li>
     <li><strong>Best Poster Runner-up (×2):</strong> $125 each</li>
   </ul>
 
