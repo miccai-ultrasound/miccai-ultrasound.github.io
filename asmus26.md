@@ -10,9 +10,9 @@
 ## News
 
 <!-- - **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**. -->
-- **[May 2026]** <font color="red">The OpenReview submission portal is now open!</font> <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/ASMUS#tab-recent-activity" target="_blank">Submit here</a>. This is the correct submission portal for ASMUS 2026.
-- **[May 2026]** <font color="red">Call for Reviewers!</font> We welcome researchers and practitioners with expertise to join the ASMUS 2026 reviewer team. Interested reviewers can apply via the <a href="https://docs.google.com/forms/d/1g3GplrxM1987I7GTx36XO5avT6THBb6v7E90DIPdxbs" target="_blank">reviewer application form</a>.
-- **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**.
+- **[May 2026]** <span style="color:#8b0000;font-weight:600;">The OpenReview submission portal is now open!</span> <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/ASMUS#tab-recent-activity" target="_blank">Submit here</a>. This is the correct submission portal for ASMUS 2026.
+- **[May 2026]** <span style="color:#8b0000;font-weight:600;">Call for Reviewers!</span> We welcome researchers and practitioners with expertise to join the ASMUS 2026 reviewer team. Interested reviewers can apply via the <a href="https://docs.google.com/forms/d/1g3GplrxM1987I7GTx36XO5avT6THBb6v7E90DIPdxbs" target="_blank">reviewer application form</a>.
+- **[April 2026]** <span style="color:#8b0000;font-weight:600;">Call for Papers!</span> Deadline: **June 26, 2026, 23:59 PT**.
 
 ## Overview
 
@@ -66,8 +66,8 @@ We welcome original research contributions and proof-of-concept studies from nov
 - **Format:** Papers must be written in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), with a maximum of **8 pages** (text, figures, and tables) plus **up to 2 pages** for references only.
 - **Submission:** Papers are submitted electronically via [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/ASMUS&referrer=%5BHomepage%5D(%2F)).
 - **Reviewer Nomination:** Each paper must nominate **at least one unique reviewer**. Detailed reviewer information should be provided through OpenReview during submission.
-- **Peer Review:** All submissions undergo double-blind peer review. Each paper is assessed by at least 3 reviewers, evaluated on scientific merit, relevance, novelty, methodology soundness, and clinical impact. The review panel combines experienced researchers with early-career reviewers, managed by the Program Chairs.
-- **Publication:** Accepted papers will be published in **Springer LNCS** as part of the MICCAI Satellite Events joint proceedings. For past proceedings, please visit the [SIG-MUS page](https://miccai.org/index.php/special-interest-groups/sig-mus/).
+- **Peer Review:** All submissions undergo double-blind peer review. Each paper is assessed by at least 3 reviewers, evaluated on scientific merit, relevance, novelty, methodology soundness, and clinical impact. The review panel combines experienced researchers with early-career reviewers, managed by the Program Chairs. <span style="color:#8b0000;font-weight:600;">(Note: Authors may be invited to serve as the reviewers if needed.)</span>
+- **Publication:** Accepted papers will be published in **Springer LNCS** as part of the MICCAI Satellite Events joint proceedings. For past proceedings, please visit the [SIG-MUS page](https://miccai.org/index.php/special-interest-groups/sig-mus/). 
 - **Presentation:** Authors of accepted papers are required to present in person. All accepted papers are also offered the opportunity to present a live demonstration.
 - **Awards:** Top submissions will be considered for industry-sponsored awards. More details to be updated.
 
@@ -167,6 +167,19 @@ We welcome original research contributions and proof-of-concept studies from nov
     </div>
   </div>
 
+  <div style="display:flex; align-items:center; justify-content:space-between; gap:32px; margin:40px 0;">
+    <div style="flex:0 0 220px; text-align:left;">
+      <a href="https://mcml.ai/" target="_blank"
+         style="font-size:1.5em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        MCML
+      </a>
+    </div>
+    <div style="flex:1; text-align:left;">
+      <img src="im/MCML_Logo_cropped.jpg" alt="MCML logo" width="250" />
+    </div>
+  </div>
+
+
 
 
 ## Awards
@@ -176,29 +189,55 @@ We welcome original research contributions and proof-of-concept studies from nov
   <p style="font-size:1.05em;">
     To recognize outstanding scientific contributions and encourage active participation,
     ASMUS 2026 will present several awards generously sponsored by
-    <strong>SIG-MUS</strong>, <strong>ImFusion</strong> and <strong>Scanvio Medical</strong>.
+    <strong>SIG-MUS</strong>, <strong>ImFusion</strong>, <strong>Scanvio Medical</strong>, and <strong>MCML</strong>.
   </p>
 
   <h3>🏆 Best Paper Awards</h3>
   <ul>
-    <li><strong>Best Paper:</strong> $250 (sponsored by <strong>Scanvio Medical</strong>)</li>
-    <li><strong>Best Paper Runner-up (×2):</strong> $150 each</li>
+    <li><strong>Winner:</strong> $250 (sponsored by <a href="https://miccai.org/index.php/special-interest-groups/sig-mus/" target="_blank"
+         style="font-size:1.0em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        SIG-MUS
+      </a>)</li>
+    <li><strong>Runner-up (×2):</strong> $150 each (sponsored by <a href="https://miccai.org/index.php/special-interest-groups/sig-mus/" target="_blank"
+         style="font-size:1.0em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        SIG-MUS
+      </a>)</li>
   </ul>
 
   <h3>🎤 Best Presentation Awards</h3>
   <ul>
-    <li><strong>Best Presentation:</strong> $250 (sponsored by <strong>SIG-MUS</strong>)</li>
-    <li><strong>Best Presentation Runner-up (×2):</strong> $150 each</li>
+    <li><strong>Winner:</strong> $250 (sponsored by <a href="https://www.scanvio.com/" target="_blank"
+         style="font-size:1.0em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        Scanvio Medical
+      </a>)</li>
+    <li><strong>Runner-up (×2):</strong> $150 each (sponsored by <a href="https://miccai.org/index.php/special-interest-groups/sig-mus/" target="_blank"
+         style="font-size:1.0em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        SIG-MUS
+      </a>)</li>
   </ul>
 
   <h3>📌 Best Poster Awards</h3>
   <ul>
-    <li><strong>Best Poster:</strong> $250 (sponsored by <strong>ImFusion</strong>)</li>
-    <li><strong>Best Poster Runner-up (×2):</strong> $125 each</li>
+    <li><strong>Winner:</strong> $250 (sponsored by <a href="https://imfusion.com/" target="_blank"
+         style="font-size:1.0em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        ImFusion
+      </a>)</li>
+    <li><strong>Runner-up (×2):</strong> $125 each (sponsored by <a href="https://imfusion.com/" target="_blank"
+         style="font-size:1.0em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        ImFusion
+      </a>)</li>
+  </ul>
+
+  <h3>🏅 MCML Ultrasound AI Award</h3>
+  <ul>
+    <li><strong>Winner:</strong> $250 (sponsored by <a href="https://mcml.ai/" target="_blank"
+         style="font-size:1.0em; font-weight:700; text-decoration:underline; text-underline-offset:6px; color:#16324f;">
+        MCML
+      </a>)</li>
   </ul>
 
   <p>
-    We encourage all authors to submit their latest research and participate in ASMUS 2026 for the opportunity to showcase their work, gain visibility within the ultrasound community, and compete for these awards.
+    We encourage researchers to submit their latest work to ASMUS 2026 and take this opportunity to showcase their contributions, engage with the medical ultrasound community, and compete for these awards.
   </p>
 
 </div>
@@ -207,8 +246,125 @@ We welcome original research contributions and proof-of-concept studies from nov
 
 ### Chairs
 
-- Qingjie Meng (Co-Chair, University of Birmingham, UK)
-- Mohammad Farid Azampour (Co-Chair, Technical University of Munich, DE)
+<div style="display:flex; align-items:center; gap:20px; margin:18px 0;">
+
+  <a href="https://qmeng99.github.io/" target="_blank" title="Personal website">
+    <img src="im/qingjie.jpg"
+         style="width:90px; height:90px; border-radius:50%; object-fit:cover;">
+  </a>
+
+  <div>
+    <strong>
+      <a href="https://qmeng99.github.io/" target="_blank"
+         style="text-decoration:none; color:#1a6faf;">
+        Qingjie Meng
+        <!-- <span style="font-size:0.85em; color:#888; margin-left:6px;">
+          (Personal website: https://qmeng99.github.io/.)
+        </span> -->
+      </a>
+    </strong>
+    <br>
+    Assistant Professor, University of Birmingham, UK
+    <br>
+    Lead, Medical AI Lab
+    <br>
+    Honorary Research Fellow, Imperial College London, UK
+  </div>
+
+</div>
+
+<div style="display:flex; align-items:center; gap:20px; margin:18px 0;">
+
+  <a href="https://mfazampour.github.io/" target="_blank" title="Personal website">
+    <img src="im/Farid.jpeg"
+         style="width:90px; height:90px; border-radius:50%; object-fit:cover;">
+  </a>
+
+  <div>
+    <strong>
+      <a href="https://mfazampour.github.io/" target="_blank"
+         style="text-decoration:none; color:#1a6faf;">
+        Mohammad Farid Azampour
+        <!-- <span style="font-size:0.85em; color:#888; margin-left:6px;">
+          (Personal website: https://mfazampour.github.io/.)
+        </span> -->
+      </a>
+    </strong>
+    <br>
+    Senior Research Scientist, Technical University of Munich (TUM), Germany
+    <br>
+    CAMP Group, TUM
+    <br>
+    MCML (Munich Center for Machine Learning) Member
+  </div>
+
+</div>
+
+### Delivery Team
+
+<div style="display:flex; align-items:center; gap:18px; margin:18px 0;">
+
+  <img src="im/shiqi.jpg"
+       style="width:70px; height:70px; border-radius:50%; object-fit:cover;">
+
+  <div>
+    <strong>Shiqi Huang</strong><br>
+    Program Chair, University College London, UK
+  </div>
+
+</div>
+
+
+<div style="display:flex; align-items:center; gap:18px; margin:18px 0;">
+
+  <img src="im/wenyan.jpg"
+       style="width:70px; height:70px; border-radius:50%; object-fit:cover;">
+
+  <div>
+    <strong>Wen Yan</strong><br>
+    Program Chair, University College London, UK
+  </div>
+
+</div>
+
+
+<div style="display:flex; align-items:center; gap:18px; margin:18px 0;">
+
+  <img src="im/Yingyu Yang.jpeg"
+       style="width:70px; height:70px; border-radius:50%; object-fit:cover;">
+
+  <div>
+    <strong>Yingyu Yang</strong><br>
+    Communication Chair, University of Oxford, UK
+  </div>
+
+</div>
+
+
+<div style="display:flex; align-items:center; gap:18px; margin:18px 0;">
+
+  <img src="im/shuwei.jpg"
+       style="width:70px; height:70px; border-radius:50%; object-fit:cover;">
+
+  <div>
+    <strong>Shuwei Xing</strong><br>
+    Web Chair, University of Oxford, UK
+  </div>
+
+</div>
+
+
+<div style="display:flex; align-items:center; gap:18px; margin:18px 0;">
+
+  <img src="im/Lingyu.jpg"
+       style="width:70px; height:70px; border-radius:50%; object-fit:cover;">
+
+  <div>
+    <strong>Lingyu Chen</strong><br>
+    Web Chair, University of Birmingham, UK
+  </div>
+
+</div>
 
 ### Organising Committee
 
@@ -231,14 +387,6 @@ We welcome original research contributions and proof-of-concept studies from nov
 - Veronika Zimmer (Technical University of Munich, DE)
 - Tina Kapur (Brigham and Women’s Hospital and Harvard Medical School, USA)
 - Ilker Hacihaliloglu (University of British Columbia, CA)
-
-### Delivery Team
-
-- Shiqi Huang (Program Chair, University College London, UK)
-- Wen Yan (Program Chair, University College London, UK)
-- Yingyu Yang (Communication Chair, University of Oxford, UK)
-- Shuwei Xing (Web Chair, University of Oxford, UK)
-- Lingyu Chen (Web Chair, University of Birmingham, UK)
 
 ### Advisory Panel
 
