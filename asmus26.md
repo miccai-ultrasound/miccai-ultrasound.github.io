@@ -317,7 +317,7 @@ We welcome original research contributions and proof-of-concept studies from nov
 
 <div style="display:flex; align-items:center; gap:18px; margin:18px 0;">
 
-  <img src="im/wenyan.jpg"
+  <img src="im/wen.jpg"
        style="width:70px; height:70px; border-radius:50%; object-fit:cover;">
 
   <div>
