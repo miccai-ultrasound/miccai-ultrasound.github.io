@@ -163,7 +163,7 @@ We welcome original research contributions and proof-of-concept studies from nov
       </a>
     </div>
     <div style="flex:1; text-align:left;">
-      <img src="im/6647b33823738a6fda7bb52d_SCANVIO_LOGO_18.svg" alt="SCANVIO logo" width="250" />
+      <img src="im/Scanvio_logo_horiz.png" alt="SCANVIO logo" width="250" />
     </div>
   </div>
 
