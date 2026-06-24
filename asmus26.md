@@ -78,7 +78,7 @@ We welcome original research contributions and proof-of-concept studies from nov
 
 | | |
 | -------------------------------- | -------------------------- |
-| June 26, 2026                    | Paper Submission Deadline  |
+| July 04, 2026                    | Paper Submission Deadline  |
 | July 10, 2026                    | Paper Review Deadline      |
 | July 17, 2026                    | Notification of Acceptance |
 | August 3, 2026                   | Camera Ready Submission    |
