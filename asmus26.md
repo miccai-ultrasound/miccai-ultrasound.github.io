@@ -10,9 +10,7 @@
 ## News
 
 <!-- - **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**. -->
-- **[June 2026]** 🔥 <span style="color:#8b0000;font-weight:600;">Deadline Extension!</span>  
-  The submission deadline has been extended to **July 3, 2026 (AOE)**.  
-  Review and notification dates have also been postponed by one week.
+- **[June 2026]** 🔥 <span style="color:#8b0000;font-weight:600;">Deadline Extension!</span> The submission deadline has been extended to **July 3, 2026 (AOE)**. Review and notification dates have also been postponed by one week.
 - **[May 2026]** <span style="color:#8b0000;font-weight:600;">The OpenReview submission portal is now open!</span> <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/ASMUS#tab-recent-activity" target="_blank">Submit here</a>. This is the correct submission portal for ASMUS 2026.
 - **[May 2026]** <span style="color:#8b0000;font-weight:600;">Call for Reviewers!</span> We welcome researchers and practitioners with expertise to join the ASMUS 2026 reviewer team. Interested reviewers can apply via the <a href="https://docs.google.com/forms/d/1g3GplrxM1987I7GTx36XO5avT6THBb6v7E90DIPdxbs" target="_blank">reviewer application form</a>.
 - **[April 2026]** <span style="color:#8b0000;font-weight:600;">Call for Papers!</span> Deadline: **June 26, 2026**.
