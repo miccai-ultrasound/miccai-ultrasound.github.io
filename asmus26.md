@@ -10,7 +10,7 @@
 ## News
 
 <!-- - **[April 2026]** <font color="red">Call for Papers!</font> Deadline: **June 26, 2026, 23:59 PT**. -->
-- **[June 2026]** 🔥 <font color="red"><b>Deadline Extension!</b></font>  
+- **[June 2026]** 🔥 <span style="color:#8b0000;font-weight:600;">Deadline Extension!</span>  
   The submission deadline has been extended to **July 3, 2026 (AOE)**.  
   Review and notification dates have also been postponed by one week.
 - **[May 2026]** <span style="color:#8b0000;font-weight:600;">The OpenReview submission portal is now open!</span> <a href="https://openreview.net/group?id=MICCAI.org/2026/Workshop/ASMUS#tab-recent-activity" target="_blank">Submit here</a>. This is the correct submission portal for ASMUS 2026.
@@ -81,9 +81,9 @@ We welcome original research contributions and proof-of-concept studies from nov
 
 | | |
 | -------------------------------- | -------------------------- |
-| July 3, 2026 (AOE)                    | Paper Submission Deadline  |
-| July 17, 2026                    | Paper Review Deadline      |
-| July 24, 2026                    | Notification of Acceptance |
+| <s>June 26</s> July 03, 2026, AOE                    | Paper Submission Deadline  |
+| <s>July 10</s> July 17, 2026, AOE                    | Paper Review Deadline      |
+| <s>July 17</s> July 24, 2026, AOE                    | Notification of Acceptance |
 | August 3, 2026                   | Camera Ready Submission    |
 | October 1, 2026                  | ASMUS Workshop             |
 
@@ -333,7 +333,7 @@ We welcome original research contributions and proof-of-concept studies from nov
 
 <div style="display:flex; align-items:center; gap:18px; margin:18px 0;">
 
-  <img src="im/Yingyu Yang.jpeg"
+  <img src="im/Yingyu Yang.jpg"
        style="width:70px; height:70px; border-radius:50%; object-fit:cover;">
 
   <div>
